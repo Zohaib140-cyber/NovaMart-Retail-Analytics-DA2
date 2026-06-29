@@ -1,0 +1,1102 @@
+Transaction_ID,Customer_ID,Product_Category,Product_Name,Quantity,Unit_Price,Discount_Pct,Total_Amount,Purchase_Date,Customer_City,Payment_Method,Store_Name,Customer_Gender,Customer_Age_Group,Customer_Rating,Year,Month,Month_Name,Day_of_Week,Hour,Quarter,Is_Weekend
+TXN-2025175,CUST-02219,Home & Kitchen,PEL Refrigerator 14CuFt,3,84966.81,5,242155.41,2025-05-19 18:47:00,Rawalpindi,JazzCash,NovaMart Express,Male,18-24,4,2025,5,May,Monday,18,2,0
+TXN-2025753,CUST-01534,Clothing,Sports T-Shirt,3,1267.9,5,3613.51,2025-09-07 12:43:00,Islamabad,Cash,NovaMart Express,Female,35-44,5,2025,9,Sep,Sunday,12,3,1
+TXN-2025468,CUST-00430,Groceries,Lays Chips Family Pack,5,184.74,5,877.51,2025-06-07 21:40:00,Lahore,Debit Card,NovaMart Express,Female,35-44,4,2025,6,Jun,Saturday,21,2,1
+TXN-2025241,CUST-00505,Clothing,Casual Sneakers,3,5890.31,0,17670.93,2025-07-27 17:30:00,Rawalpindi,Cash,NovaMart Express,Female,55+,1,2025,7,Jul,Sunday,17,3,1
+TXN-2025668,CUST-00139,Toys & Kids,LEGO Classic Bricks Set,2,6387.8,0,12775.6,2025-07-07 16:15:00,Multan,Cash,NovaMart Express,Female,25-34,3,2025,7,Jul,Monday,16,3,0
+TXN-2025219,CUST-01580,Sports & Fitness,Skipping Rope Steel,1,686.53,5,652.2,2025-01-01 19:42:00,Lahore,Credit Card,NovaMart Premium,Male,25-34,5,2025,1,Jan,Wednesday,19,1,0
+TXN-2025868,CUST-UNKNOWN,Clothing,Denim Jeans Slim Fit,2,3579.43,0,7158.86,2025-03-05 16:11:00,Islamabad,Cash,NovaMart Express,Unknown,25-34,4,2025,3,Mar,Wednesday,16,1,0
+TXN-2025421,CUST-02806,Stationery,Stapler Heavy Duty,3,607.03,0,1821.09,2025-05-06 13:49:00,Multan,Debit Card,NovaMart Premium,Male,25-34,5,2025,5,May,Tuesday,13,2,0
+TXN-2025352,CUST-UNKNOWN,Toys & Kids,Remote Control Car,1,4324.46,0,3675.79,2025-09-05 17:14:00,Rawalpindi,Cash,NovaMart Premium,Unknown,18-24,4,2025,9,Sep,Friday,17,3,0
+TXN-2025329,CUST-UNKNOWN,Toys & Kids,Art & Craft Kit,1,1252.85,0,1190.21,2025-08-13 16:15:00,Islamabad,Cash,NovaMart Central,Unknown,35-44,4,2025,8,Aug,Wednesday,16,3,0
+TXN-2026042,CUST-01252,Sports & Fitness,Wilson Badminton Racket,4,3005.54,0,12022.16,2025-05-31 16:19:00,Multan,EasyPaisa,NovaMart Premium,Male,18-24,5,2025,5,May,Saturday,16,2,1
+TXN-2025922,CUST-02845,Groceries,Nestle Everyday Tea Whitener 400g,3,414.83,10,1120.04,2025-07-06 16:50:00,Karachi,Cash,NovaMart Central,Female,55+,5,2025,7,Jul,Sunday,16,3,1
+TXN-2025266,CUST-01555,Home & Kitchen,Anex Blender AG-6122,1,3853.22,5,3660.56,2025-04-25 16:03:00,Karachi,Bank Transfer,NovaMart Express,Female,25-34,1,2025,4,Apr,Friday,16,2,0
+TXN-2025755,CUST-01603,Electronics,Anker USB-C Charger,2,946.13,5,1797.65,2025-08-11 12:19:00,Karachi,JazzCash,NovaMart Express,Male,18-24,5,2025,8,Aug,Monday,12,3,0
+TXN-2025486,CUST-00314,Clothing,Winter Jacket,1,6833.3,5,6491.64,2025-10-04 15:02:00,Quetta,EasyPaisa,NovaMart Premium,Female,55+,4,2025,10,Oct,Saturday,15,4,1
+TXN-2025926,CUST-00235,Electronics,JBL Bluetooth Speaker,3,6772.68,5,19302.14,2025-01-25 17:01:00,Karachi,Cash,NovaMart Premium,Male,25-34,5,2025,1,Jan,Saturday,17,1,1
+TXN-2025290,CUST-02493,Sports & Fitness,Skipping Rope Steel,4,680.06,5,2584.23,2025-03-18 15:21:00,Sialkot,EasyPaisa,NovaMart Premium,Female,45-54,4,2025,3,Mar,Tuesday,15,1,0
+TXN-2025221,CUST-UNKNOWN,Groceries,Lays Chips Family Pack,1,155.65,0,155.65,2025-01-28 17:53:00,Lahore,Cash,NovaMart Premium,Unknown,55+,4,2025,1,Jan,Tuesday,17,1,0
+TXN-2025869,CUST-02776,Clothing,Denim Jeans Slim Fit,2,3478.38,0,6956.76,2025-10-27 14:50:00,Rawalpindi,Cash,NovaMart Outlet,Female,18-24,4,2025,10,Oct,Monday,14,4,0
+TXN-2025840,CUST-01756,Health & Beauty,Gillette Fusion Razor,1,1471.56,15,1250.83,2025-05-04 13:52:00,Faisalabad,Cash,NovaMart Premium,Female,25-34,4,2025,5,May,Sunday,13,2,1
+TXN-2025544,CUST-UNKNOWN,Sports & Fitness,Adidas Lite Racer Shoes,1,6954.38,0,6606.66,2025-02-09 14:22:00,Lahore,Cash,NovaMart Express,Unknown,55+,4,2025,2,Feb,Sunday,14,1,1
+TXN-2025708,CUST-01893,Home & Kitchen,Non-Stick Fry Pan,1,2325.2,0,2325.2,2025-02-20 14:45:00,Quetta,Cash,NovaMart Express,Female,25-34,5,2025,2,Feb,Thursday,14,1,0
+TXN-2025937,CUST-02955,Health & Beauty,LOreal Face Wash,1,770.87,5,732.33,2025-04-25 18:12:00,Multan,JazzCash,NovaMart Outlet,Male,18-24,4,2025,4,Apr,Friday,18,2,0
+TXN-2025584,CUST-00134,Electronics,Sony Earbuds WF-C500,2,11237.69,0,22475.38,2025-08-14 19:41:00,Faisalabad,Credit Card,NovaMart Outlet,Female,35-44,1,2025,8,Aug,Thursday,19,3,0
+TXN-2025571,CUST-01211,Electronics,Samsung Galaxy A14,4,45998.36,0,183993.44,2025-04-20 16:09:00,Hyderabad,JazzCash,NovaMart Express,Male,35-44,4,2025,4,Apr,Sunday,16,2,1
+TXN-2025894,CUST-01703,Clothing,Women's Kameez Printed,1,2058.92,0,2058.92,2025-12-11 12:41:00,Karachi,EasyPaisa,NovaMart Premium,Female,25-34,4,2025,12,Dec,Thursday,12,4,0
+TXN-2025102,CUST-UNKNOWN,Groceries,Olpers Full Cream Milk 1L,2,186.85,0,317.64,2025-11-10 16:05:00,Lahore,Cash,NovaMart Central,Unknown,45-54,4,2025,11,Nov,Monday,16,4,0
+TXN-2025528,CUST-02473,Sports & Fitness,Cycling Gloves,2,938.19,0,1876.38,2025-11-24 13:40:00,Karachi,JazzCash,NovaMart Central,Female,55+,4,2025,11,Nov,Monday,13,4,0
+TXN-2025353,CUST-01318,Electronics,HP Wireless Mouse,1,1250.49,0,1250.49,2025-08-20 12:37:00,Peshawar,JazzCash,NovaMart Express,Female,25-34,5,2025,8,Aug,Wednesday,12,3,0
+TXN-2025919,CUST-00925,Electronics,JBL Bluetooth Speaker,1,6966.94,0,6966.94,2025-12-04 21:36:00,Karachi,JazzCash,NovaMart Outlet,Male,18-24,4,2025,12,Dec,Thursday,21,4,0
+TXN-2025050,CUST-00286,Toys & Kids,Ludo Deluxe Board Game,1,695.42,0,695.42,2025-02-21 18:31:00,Islamabad,Cash,NovaMart Express,Male,55+,4,2025,2,Feb,Friday,18,1,0
+TXN-2025815,CUST-01150,Electronics,Lenovo Laptop Bag,1,2594.69,0,2594.69,2025-03-17 14:46:00,Karachi,Credit Card,NovaMart Outlet,Male,55+,5,2025,3,Mar,Monday,14,1,0
+TXN-2025987,CUST-00369,Health & Beauty,Pantene Shampoo 360ml,1,597.09,5,567.24,2025-04-26 18:45:00,Peshawar,Debit Card,NovaMart Central,Female,35-44,2,2025,4,Apr,Saturday,18,2,1
+TXN-2025739,CUST-00522,Health & Beauty,LOreal Face Wash,2,773.31,5,1469.29,2025-10-22 18:34:00,Karachi,Cash,NovaMart Central,Female,25-34,1,2025,10,Oct,Wednesday,18,4,0
+TXN-2025562,CUST-00565,Stationery,Spiral Notebook A5,3,296.91,10,801.66,2025-01-12 16:08:00,Karachi,Credit Card,NovaMart Central,Female,25-34,5,2025,1,Jan,Sunday,16,1,1
+TXN-2025516,CUST-01121,Clothing,Kids Tracksuit,1,1399.87,5,1329.88,2025-07-01 16:29:00,Karachi,Debit Card,NovaMart Central,Male,35-44,4,2025,7,Jul,Tuesday,16,3,0
+TXN-2025553,CUST-00728,Electronics,JBL Bluetooth Speaker,3,5878.17,0,17634.51,2025-08-08 17:27:00,Rawalpindi,EasyPaisa,NovaMart Express,Male,35-44,1,2025,8,Aug,Friday,17,3,0
+TXN-2025539,CUST-00487,Stationery,Stapler Heavy Duty,1,649.71,0,649.71,2025-12-14 09:56:00,Lahore,Cash,NovaMart Premium,Male,55+,5,2025,12,Dec,Sunday,9,4,1
+TXN-2025463,CUST-00351,Clothing,Sports T-Shirt,3,1482.76,0,4448.28,2025-11-30 14:16:00,Lahore,Cash,NovaMart Central,Female,45-54,4,2025,11,Nov,Sunday,14,4,1
+TXN-2026020,CUST-01716,Groceries,Nestle Everyday Tea Whitener 400g,1,389.98,0,389.98,2025-02-15 20:56:00,Islamabad,Cash,NovaMart Central,Male,18-24,1,2025,2,Feb,Saturday,20,1,1
+TXN-2025515,CUST-00437,Groceries,Nestle Everyday Tea Whitener 400g,5,409.3,0,2046.5,2025-06-13 16:00:00,Lahore,Debit Card,NovaMart Express,Male,35-44,4,2025,6,Jun,Friday,16,2,0
+TXN-2025984,CUST-01328,Stationery,A4 Paper Ream 500sheets,1,939.62,10,845.66,2025-01-05 18:23:00,Quetta,JazzCash,NovaMart Central,Female,45-54,2,2025,1,Jan,Sunday,18,1,1
+TXN-2025887,CUST-01596,Toys & Kids,Jigsaw Puzzle 500pcs,2,1437.35,0,2874.7,2025-02-21 17:42:00,Lahore,Credit Card,NovaMart Premium,Male,18-24,5,2025,2,Feb,Friday,17,1,0
+TXN-2025886,CUST-01679,Home & Kitchen,Dawlance Microwave 25L,1,23989.35,5,22789.88,2025-12-05 10:03:00,Lahore,Credit Card,NovaMart Outlet,Female,35-44,5,2025,12,Dec,Friday,10,4,0
+TXN-2025425,CUST-01399,Groceries,Olpers Full Cream Milk 1L,1,213.72,0,213.72,2025-05-19 11:32:00,Faisalabad,Credit Card,NovaMart Premium,Female,45-54,4,2025,5,May,Monday,11,2,0
+TXN-2025071,CUST-UNKNOWN,Groceries,Rooh Afza 750ml,1,288.04,0,288.04,2025-10-17 13:42:00,Islamabad,Cash,NovaMart Premium,Unknown,35-44,4,2025,10,Oct,Friday,13,4,0
+TXN-2025446,CUST-00568,Electronics,Samsung Galaxy A14,2,47923.03,5,91053.76,2025-03-27 17:00:00,Quetta,JazzCash,NovaMart Express,Female,45-54,5,2025,3,Mar,Thursday,17,1,0
+TXN-2025300,CUST-00947,Electronics,Anker USB-C Charger,2,837.16,0,1674.32,2025-11-17 10:10:00,Lahore,Cash,NovaMart Outlet,Female,45-54,1,2025,11,Nov,Monday,10,4,0
+TXN-2026004,CUST-01731,Home & Kitchen,Non-Stick Fry Pan,4,1899.03,0,7596.12,2025-02-05 14:27:00,Karachi,EasyPaisa,NovaMart Central,Male,18-24,5,2025,2,Feb,Wednesday,14,1,0
+TXN-2025842,CUST-01863,Groceries,Basmati Rice 5kg,3,1585.11,0,4755.33,2025-10-20 19:43:00,Lahore,Cash,NovaMart Central,Male,45-54,5,2025,10,Oct,Monday,19,4,0
+TXN-2025537,CUST-01683,Electronics,Anker USB-C Charger,1,1047.72,15,890.56,2025-10-28 15:22:00,Karachi,Credit Card,NovaMart Express,Male,25-34,3,2025,10,Oct,Tuesday,15,4,0
+TXN-2025052,CUST-UNKNOWN,Clothing,Casual Sneakers,3,4200.69,0,12602.07,2025-09-13 15:20:00,Multan,Cash,NovaMart Express,Unknown,25-34,4,2025,9,Sep,Saturday,15,3,1
+TXN-2025024,CUST-02553,Clothing,Men's Polo Shirt,1,2121.42,15,1803.21,2025-06-14 16:32:00,Islamabad,JazzCash,NovaMart Premium,Male,25-34,2,2025,6,Jun,Saturday,16,2,1
+TXN-2025045,CUST-UNKNOWN,Home & Kitchen,Bed Sheet King Size,1,3378.31,0,3378.31,2025-03-03 11:50:00,Lahore,Cash,NovaMart Outlet,Unknown,25-34,4,2025,3,Mar,Monday,11,1,0
+TXN-2025567,CUST-00985,Electronics,Anker USB-C Charger,1,913.93,0,913.93,2025-05-04 11:23:00,Karachii,EasyPaisa,NovaMart Central,Male,35-44,4,2025,5,May,Sunday,11,2,1
+TXN-2025171,CUST-01078,Clothing,Denim Jeans Slim Fit,4,3549.6,5,13488.48,2025-08-31 14:33:00,Karachi,EasyPaisa,NovaMart Central,Female,45-54,4,2025,8,Aug,Sunday,14,3,1
+TXN-2025261,CUST-02844,Groceries,Basmati Rice 5kg,1,1304.44,0,1304.44,2025-05-08 16:12:00,Karachi,Cash,NovaMart Premium,Male,45-54,5,2025,5,May,Thursday,16,2,0
+TXN-2025955,CUST-02460,Health & Beauty,Gillette Fusion Razor,1,1575.62,0,1575.62,2025-04-25 13:34:00,Hyderabad,Credit Card,NovaMart Outlet,Male,18-24,5,2025,4,Apr,Friday,13,2,0
+TXN-2025108,CUST-01610,Home & Kitchen,Anex Blender AG-6122,1,3258.89,0,3258.89,2025-09-12 18:12:00,Islamabad,Credit Card,NovaMart Express,Male,25-34,4,2025,9,Sep,Friday,18,3,0
+TXN-2025621,CUST-01941,Home & Kitchen,Anex Blender AG-6122,2,4247.3,0,8494.6,2025-11-21 19:19:00,Karachi,Cash,NovaMart Central,Male,35-44,3,2025,11,Nov,Friday,19,4,0
+TXN-2025765,CUST-UNKNOWN,Groceries,Sunflower Oil 5L,1,1875.92,0,1875.92,2025-06-26 15:23:00,Faisalabad,Cash,NovaMart Express,Unknown,25-34,4,2025,6,Jun,Thursday,15,2,0
+TXN-2025763,CUST-UNKNOWN,Sports & Fitness,Dumbbell Set 10kg Pair,3,3918.76,0,11756.28,2025-04-09 15:03:00,Lahore,Cash,NovaMart Outlet,Unknown,45-54,4,2025,4,Apr,Wednesday,15,2,0
+TXN-2025428,CUST-02398,Health & Beauty,Gillette Fusion Razor,1,1661.83,0,1661.83,2025-04-14 19:54:00,Karachi,EasyPaisa,NovaMart Outlet,Female,55+,4,2025,4,Apr,Monday,19,2,0
+TXN-2025788,CUST-00104,Groceries,Nestle Everyday Tea Whitener 400g,1,413.11,0,413.11,2025-01-31 12:55:00,Hyderabad,Credit Card,NovaMart Outlet,Male,25-34,3,2025,1,Jan,Friday,12,1,0
+TXN-2025804,CUST-00726,Stationery,A4 Paper Ream 500sheets,4,901.37,10,3244.93,2025-05-18 13:18:00,Quetta,Cash,NovaMart Central,Male,45-54,3,2025,5,May,Sunday,13,2,1
+TXN-2025310,CUST-01863,Sports & Fitness,Yoga Mat 6mm,2,1679.77,15,2855.61,2025-09-29 12:53:00,Rawalpindi,Credit Card,NovaMart Express,Female,35-44,3,2025,9,Sep,Monday,12,3,0
+TXN-2025159,CUST-UNKNOWN,Clothing,Women's Kameez Printed,3,1730.5,0,5191.5,2025-09-06 14:45:00,Karachi,Cash,NovaMart Express,Unknown,45-54,4,2025,9,Sep,Saturday,14,3,1
+TXN-2025333,CUST-UNKNOWN,Sports & Fitness,Cycling Gloves,1,1027.06,0,1027.06,2025-05-28 10:27:00,Karachi,Cash,NovaMart Premium,Unknown,25-34,4,2025,5,May,Wednesday,10,2,0
+TXN-2025775,CUST-00285,Electronics,Samsung Galaxy A14,1,49778.97,0,49778.97,2025-08-25 11:16:00,Sialkot,Cash,NovaMart Premium,Female,25-34,1,2025,8,Aug,Monday,11,3,0
+TXN-2025057,CUST-02865,Toys & Kids,Art & Craft Kit,1,1752.25,0,1752.25,2025-09-06 11:22:00,Sialkot,EasyPaisa,NovaMart Premium,Male,25-34,4,2025,9,Sep,Saturday,11,3,1
+TXN-2025414,CUST-UNKNOWN,Groceries,Basmati Rice 5kg,2,1202.14,0,2404.28,2025-02-18 11:21:00,Sialkot,Cash,NovaMart Express,Unknown,55+,4,2025,2,Feb,Tuesday,11,1,0
+TXN-2025785,CUST-01167,Groceries,Nestle Everyday Tea Whitener 400g,1,354.94,0,354.94,2025-05-20 09:44:00,Multan,Cash,NovaMart Outlet,Female,25-34,5,2025,5,May,Tuesday,9,2,0
+TXN-2025200,CUST-UNKNOWN,Electronics,Sony Earbuds WF-C500,1,10916.8,0,10916.8,2025-03-09 15:39:00,Lahore,Cash,NovaMart Premium,Unknown,45-54,4,2025,3,Mar,Sunday,15,1,1
+TXN-2025821,CUST-02096,Groceries,Brooke Bond Supreme 200g,2,313.01,5,594.72,2025-02-02 19:35:00,Lahore,Credit Card,NovaMart Central,Male,35-44,4,2025,2,Feb,Sunday,19,1,1
+TXN-2025454,CUST-UNKNOWN,Stationery,Highlighter Set 6colors,3,549.85,0,1649.55,2025-03-01 11:58:00,Peshawar,Cash,NovaMart Premium,Unknown,45-54,4,2025,3,Mar,Saturday,11,1,1
+TXN-2026095,CUST-02385,Toys & Kids,Barbie Fashion Doll,4,2215.71,5,8419.7,2025-09-08 12:04:00,Multan,Credit Card,NovaMart Express,Female,45-54,2,2025,9,Sep,Monday,12,3,0
+TXN-2025141,CUST-01557,Groceries,Brooke Bond Supreme 200g,2,305.91,5,581.23,2025-01-21 14:28:00,Karachi,Debit Card,NovaMart Express,Male,45-54,2,2025,1,Jan,Tuesday,14,1,0
+TXN-2025782,CUST-00186,Sports & Fitness,Wilson Badminton Racket,4,2357.84,15,8016.66,2025-09-28 12:23:00,Faisalabad,Cash,NovaMart Central,Male,35-44,4,2025,9,Sep,Sunday,12,3,1
+TXN-2025768,CUST-01494,Groceries,Brooke Bond Supreme 200g,4,317.64,20,1016.45,2025-08-27 15:35:00,Multan,JazzCash,NovaMart Premium,Female,45-54,4,2025,8,Aug,Wednesday,15,3,0
+TXN-2025087,CUST-01582,Stationery,Highlighter Set 6colors,4,368.34,10,1326.02,2025-02-25 12:28:00,Quetta,EasyPaisa,NovaMart Express,Female,18-24,4,2025,2,Feb,Tuesday,12,1,0
+TXN-2025271,CUST-00325,Stationery,Casio fx-82 Calculator,5,2092.01,10,9414.05,2025-09-16 18:28:00,Faisalabad,EasyPaisa,NovaMart Central,Female,35-44,4,2025,9,Sep,Tuesday,18,3,0
+TXN-2025248,CUST-01079,Clothing,Kids Tracksuit,3,1414.31,0,4242.93,2025-04-25 15:04:00,Quetta,EasyPaisa,NovaMart Premium,Male,55+,4,2025,4,Apr,Friday,15,2,0
+TXN-2025275,CUST-00367,Home & Kitchen,Prestige Pressure Cooker 5L,1,3509.0,5,3333.55,2025-08-28 16:17:00,Peshawar,Credit Card,NovaMart Express,Female,55+,4,2025,8,Aug,Thursday,16,3,0
+TXN-2025658,CUST-01514,Clothing,Women's Kameez Printed,3,1851.63,10,4999.4,2025-05-20 18:59:00,Karachi,EasyPaisa,NovaMart Central,Male,18-24,5,2025,5,May,Tuesday,18,2,0
+TXN-2025291,CUST-00909,Clothing,Formal Dress Shirt,1,2337.0,5,2220.15,2025-04-19 16:24:00,Sialkot,Debit Card,NovaMart Premium,Male,55+,4,2025,4,Apr,Saturday,16,2,1
+TXN-2025363,CUST-02881,Groceries,Sunflower Oil 5L,2,1806.37,0,3612.74,2025-12-14 20:08:00,Islamabad,Debit Card,NovaMart Express,Male,55+,4,2025,12,Dec,Sunday,20,4,1
+TXN-2025381,CUST-00634,Sports & Fitness,Cycling Gloves,1,1093.99,0,1093.99,2025-11-26 14:43:00,Lahore,Credit Card,NovaMart Express,Female,55+,3,2025,11,Nov,Wednesday,14,4,0
+TXN-2025334,CUST-UNKNOWN,Electronics,Samsung Galaxy A14,4,46007.97,0,174830.29,2025-03-10 21:42:00,Sialkot,Cash,NovaMart Outlet,Unknown,35-44,4,2025,3,Mar,Monday,21,1,0
+TXN-2025114,CUST-00208,Sports & Fitness,Skipping Rope Steel,3,464.2,0,1392.6,2025-05-02 14:45:00,Rawalpindi,Cash,NovaMart Express,Male,35-44,4,2025,5,May,Friday,14,2,0
+TXN-2025487,CUST-UNKNOWN,Groceries,Nestle Everyday Tea Whitener 400g,1,385.42,0,385.42,2025-02-17 18:20:00,Faisalabad,Cash,NovaMart Express,Unknown,25-34,4,2025,2,Feb,Monday,18,1,0
+TXN-2025245,CUST-UNKNOWN,Groceries,Sunflower Oil 5L,3,2136.72,0,6410.16,2025-08-15 14:19:00,Islamabad,Cash,NovaMart Central,Unknown,45-54,4,2025,8,Aug,Friday,14,3,0
+TXN-2025529,CUST-01551,Electronics,"Haier LED TV 32""",1,41036.89,15,34881.36,2025-04-03 13:34:00,Multan,Cash,NovaMart Express,Male,25-34,2,2025,4,Apr,Thursday,13,2,0
+TXN-2025595,CUST-01162,Groceries,Rooh Afza 750ml,1,288.56,0,288.56,2025-06-08 11:42:00,Lahore,Credit Card,NovaMart Outlet,Female,55+,4,2025,6,Jun,Sunday,11,2,1
+TXN-2025789,CUST-UNKNOWN,Clothing,Sports T-Shirt,2,1290.16,0,2580.32,2025-08-03 19:38:00,Islamabad,Cash,NovaMart Central,Unknown,45-54,4,2025,8,Aug,Sunday,19,3,1
+TXN-2025873,CUST-00166,Sports & Fitness,Cycling Gloves,1,631.87,0,631.87,2025-01-08 20:57:00,Faisalabad,Credit Card,NovaMart Outlet,Female,25-34,4,2025,1,Jan,Wednesday,20,1,0
+TXN-2025097,CUST-UNKNOWN,Home & Kitchen,Bed Sheet King Size,1,2999.22,0,2849.26,2025-08-25 11:08:00,Islamabad,Cash,NovaMart Outlet,Unknown,25-34,4,2025,8,Aug,Monday,11,3,0
+TXN-2025906,CUST-02525,Home & Kitchen,Pillow Set 2pcs,1,1690.61,10,1521.55,2025-12-25 19:31:00,Lahore,Cash,NovaMart Express,Female,55+,4,2025,12,Dec,Thursday,19,4,0
+TXN-2025372,CUST-02316,Clothing,Sports T-Shirt,5,1009.24,0,5046.2,2025-01-13 20:49:00,Islamabad,Debit Card,NovaMart Express,Female,35-44,4,2025,1,Jan,Monday,20,1,0
+TXN-2025032,CUST-00745,Groceries,Lays Chips Family Pack,5,195.98,0,979.9,2025-07-11 17:51:00,Quetta,Debit Card,NovaMart Outlet,Male,18-24,4,2025,7,Jul,Friday,17,3,0
+TXN-2025737,CUST-02665,Home & Kitchen,Dawlance Microwave 25L,1,21443.55,5,20371.37,2025-02-24 11:05:00,Karachi,Cash,NovaMart Express,Female,45-54,4,2025,2,Feb,Monday,11,1,0
+TXN-2025391,CUST-00314,Electronics,Samsung Galaxy A14,1,50812.19,0,50812.19,2025-02-04 13:31:00,Karachi,Debit Card,NovaMart Central,Female,25-34,4,2025,2,Feb,Tuesday,13,1,0
+TXN-2025979,CUST-00976,Groceries,Rooh Afza 750ml,1,337.93,0,337.93,2025-06-07 15:05:00,Karachi,Debit Card,NovaMart Central,Male,45-54,4,2025,6,Jun,Saturday,15,2,1
+TXN-2025694,CUST-01232,Groceries,Nestle Everyday Tea Whitener 400g,4,403.42,0,1613.68,2025-04-09 17:38:00,Islamabad,JazzCash,NovaMart Express,Female,35-44,3,2025,4,Apr,Wednesday,17,2,0
+TXN-2025781,CUST-02083,Stationery,Spiral Notebook A5,2,346.1,0,692.2,2025-02-10 19:47:00,Lahore,Cash,NovaMart Outlet,Male,45-54,5,2025,2,Feb,Monday,19,1,0
+TXN-2025110,CUST-02346,Toys & Kids,Jigsaw Puzzle 500pcs,2,1332.84,0,2665.68,2025-08-09 21:50:00,Rawalpindi,Debit Card,NovaMart Central,Female,18-24,5,2025,8,Aug,Saturday,21,3,1
+TXN-2025573,CUST-02543,Electronics,Sony Earbuds WF-C500,2,10293.68,0,20587.36,2025-06-28 14:26:00,Karachi,Credit Card,NovaMart Central,Female,25-34,5,2025,6,Jun,Saturday,14,2,1
+TXN-2025089,CUST-02589,Groceries,Tapal Danedar Tea 900g,1,735.65,0,735.65,2025-05-07 18:35:00,Rawalpindi,Debit Card,NovaMart Central,Male,18-24,5,2025,5,May,Wednesday,18,2,0
+TXN-2025319,CUST-UNKNOWN,Clothing,Sports T-Shirt,1,1545.6,0,1545.6,2025-10-20 20:53:00,Karachi,Cash,NovaMart Premium,Unknown,35-44,4,2025,10,Oct,Monday,20,4,0
+TXN-2025991,CUST-00969,Clothing,Casual Sneakers,5,6144.68,5,29187.23,2025-06-06 12:36:00,Multan,Debit Card,NovaMart Express,Male,35-44,3,2025,6,Jun,Friday,12,2,0
+TXN-2026023,CUST-01366,Stationery,Highlighter Set 6colors,1,372.5,0,372.5,2025-06-08 17:16:00,Rawalpindi,Cash,NovaMart Express,Female,25-34,5,2025,6,Jun,Sunday,17,2,1
+TXN-2025676,CUST-00863,Home & Kitchen,Kitchen Knife Set,1,1194.67,0,1194.67,2025-12-30 19:17:00,Faisalabad,JazzCash,NovaMart Outlet,Female,35-44,4,2025,12,Dec,Tuesday,19,4,0
+TXN-2026097,CUST-00345,Groceries,Rooh Afza 750ml,1,347.82,20,278.26,2025-07-16 09:03:00,Lahore,EasyPaisa,NovaMart Express,Male,25-34,5,2025,7,Jul,Wednesday,9,3,0
+TXN-2025157,CUST-01428,Health & Beauty,Himalaya Neem Face Wash,5,421.03,0,2105.15,2025-09-27 21:34:00,Peshawar,JazzCash,NovaMart Premium,Female,45-54,2,2025,9,Sep,Saturday,21,3,1
+TXN-2025866,CUST-01181,Clothing,Casual Sneakers,4,4335.54,0,17342.16,2025-02-17 20:28:00,Lahore,Debit Card,NovaMart Express,Male,45-54,4,2025,2,Feb,Monday,20,1,0
+TXN-2026024,CUST-02951,Toys & Kids,Art & Craft Kit,2,1345.38,15,2287.15,2025-12-13 14:49:00,Quetta,JazzCash,NovaMart Express,Female,45-54,4,2025,12,Dec,Saturday,14,4,1
+TXN-2025592,CUST-01610,Groceries,Tapal Danedar Tea 900g,3,770.06,0,2310.18,2025-05-16 13:05:00,Hyderabad,EasyPaisa,NovaMart Premium,Female,25-34,5,2025,5,May,Friday,13,2,0
+TXN-2025817,CUST-00915,Toys & Kids,Ludo Deluxe Board Game,1,573.42,0,573.42,2025-10-11 11:31:00,Multan,JazzCash,NovaMart Express,Female,45-54,2,2025,10,Oct,Saturday,11,4,1
+TXN-2025129,CUST-01707,Groceries,Tapal Danedar Tea 900g,3,754.62,0,2263.86,2025-06-21 17:50:00,Peshawar,Credit Card,NovaMart Outlet,Male,45-54,5,2025,6,Jun,Saturday,17,2,1
+TXN-2025356,CUST-UNKNOWN,Home & Kitchen,Bed Sheet King Size,1,3195.71,0,3195.71,2025-12-02 16:45:00,Karachi,Cash,NovaMart Express,Unknown,35-44,4,2025,12,Dec,Tuesday,16,4,0
+TXN-2025910,CUST-01145,Clothing,Denim Jeans Slim Fit,4,2310.53,0,9242.12,2025-08-31 14:03:00,Islamabad,Cash,NovaMart Premium,Female,18-24,4,2025,8,Aug,Sunday,14,3,1
+TXN-2025011,CUST-00878,Home & Kitchen,Anex Blender AG-6122,2,3292.29,0,6584.58,2025-04-03 14:37:00,Quetta,EasyPaisa,NovaMart Outlet,Male,35-44,4,2025,4,Apr,Thursday,14,2,0
+TXN-2025452,CUST-01248,Clothing,Casual Sneakers,1,3696.37,5,3511.55,2025-09-25 15:07:00,Quetta,Cash,NovaMart Express,Male,25-34,4,2025,9,Sep,Thursday,15,3,0
+TXN-2025317,CUST-02521,Home & Kitchen,Prestige Pressure Cooker 5L,1,3860.4,0,3860.4,2025-10-19 15:46:00,Karachi,Cash,NovaMart Express,Female,35-44,3,2025,10,Oct,Sunday,15,4,1
+TXN-2025199,CUST-00154,Electronics,"Haier LED TV 32""",1,41376.1,0,41376.1,2025-07-05 12:37:00,Islamabad,Credit Card,NovaMart Outlet,Female,25-34,5,2025,7,Jul,Saturday,12,3,1
+TXN-2025060,CUST-00577,Groceries,Olpers Full Cream Milk 1L,3,190.28,0,570.84,2025-09-29 21:33:00,Multan,JazzCash,NovaMart Central,Female,45-54,4,2025,9,Sep,Monday,21,3,0
+TXN-2025760,CUST-UNKNOWN,Electronics,Lenovo Laptop Bag,3,3341.01,0,10023.03,2025-08-08 16:14:00,Islamabad,Cash,NovaMart Central,Unknown,18-24,4,2025,8,Aug,Friday,16,3,0
+TXN-2025627,CUST-01721,Clothing,Women's Kameez Printed,2,2349.04,0,4698.08,2025-10-27 15:02:00,Lahore,JazzCash,NovaMart Outlet,Male,18-24,5,2025,10,Oct,Monday,15,4,0
+TXN-2025309,CUST-02827,Electronics,Samsung Galaxy A14,1,46328.95,15,39379.61,2025-09-18 15:47:00,Multan,Cash,NovaMart Central,Male,25-34,4,2025,9,Sep,Thursday,15,3,0
+TXN-2025944,CUST-01583,Electronics,Samsung Galaxy A14,4,51606.94,0,206427.76,2025-09-23 11:47:00,Quetta,Credit Card,NovaMart Central,Female,55+,2,2025,9,Sep,Tuesday,11,3,0
+TXN-2025908,CUST-00592,Sports & Fitness,Wilson Badminton Racket,1,2642.48,0,2642.48,2025-04-24 10:04:00,Karachi,Cash,NovaMart Outlet,Male,25-34,4,2025,4,Apr,Thursday,10,2,0
+TXN-2026025,CUST-01128,Clothing,Formal Dress Shirt,2,1813.94,0,3627.88,2025-05-30 16:01:00,Karachi,Bank Transfer,NovaMart Outlet,Female,35-44,3,2025,5,May,Friday,16,2,0
+TXN-2025276,CUST-02446,Clothing,Denim Jeans Slim Fit,1,2818.99,0,2818.99,2025-08-10 14:16:00,Quetta,EasyPaisa,NovaMart Premium,Female,25-34,5,2025,8,Aug,Sunday,14,3,1
+TXN-2026081,CUST-01257,Groceries,Nestle Everyday Tea Whitener 400g,2,419.73,5,797.49,2025-01-03 16:45:00,Karachi,EasyPaisa,NovaMart Premium,Male,35-44,4,2025,1,Jan,Friday,16,1,0
+TXN-2025337,CUST-01207,Health & Beauty,Gillette Fusion Razor,4,1567.82,0,6271.28,2025-08-21 17:42:00,Karachi,Credit Card,NovaMart Premium,Female,35-44,4,2025,8,Aug,Thursday,17,3,0
+TXN-2025809,CUST-00050,Clothing,Denim Jeans Slim Fit,1,2316.38,0,2316.38,2025-06-24 13:00:00,Multan,Debit Card,NovaMart Outlet,Female,18-24,5,2025,6,Jun,Tuesday,13,2,0
+TXN-2025896,CUST-02234,Groceries,Lays Chips Family Pack,1,175.54,5,166.76,2025-05-31 12:48:00,Multan,Credit Card,NovaMart Express,Male,25-34,4,2025,5,May,Saturday,12,2,1
+TXN-2025210,CUST-00587,Groceries,Sunflower Oil 5L,1,2147.0,0,2147.0,2025-10-19 20:04:00,Karachi,EasyPaisa,NovaMart Outlet,Male,55+,4,2025,10,Oct,Sunday,20,4,1
+TXN-2025721,CUST-02144,Groceries,Tapal Danedar Tea 900g,2,754.62,10,1358.32,2025-04-01 19:37:00,Islamabad,Credit Card,NovaMart Premium,Male,55+,4,2025,4,Apr,Tuesday,19,2,0
+TXN-2025552,CUST-00638,Electronics,Xiaomi Power Bank 20000mAh,1,4713.05,5,4477.4,2025-05-01 16:55:00,Rawalpindi,Cash,NovaMart Outlet,Female,25-34,4,2025,5,May,Thursday,16,2,0
+TXN-2025568,CUST-02973,Groceries,Basmati Rice 5kg,4,1325.83,0,5303.32,2025-05-03 21:36:00,Lahore,Cash,NovaMart Outlet,Female,35-44,4,2025,5,May,Saturday,21,2,1
+TXN-2025969,CUST-02079,Toys & Kids,Remote Control Car,1,5252.01,0,5252.01,2025-07-20 16:18:00,Karachi,Debit Card,NovaMart Premium,Male,35-44,4,2025,7,Jul,Sunday,16,3,1
+TXN-2025299,CUST-02388,Groceries,Nestle Everyday Tea Whitener 400g,2,364.27,0,728.54,2025-12-26 12:28:00,Islamabad,JazzCash,NovaMart Outlet,Male,35-44,5,2025,12,Dec,Friday,12,4,0
+TXN-2025232,CUST-UNKNOWN,Home & Kitchen,Pillow Set 2pcs,3,1608.74,0,4584.91,2025-10-28 17:35:00,Faisalabad,Cash,NovaMart Premium,Unknown,25-34,4,2025,10,Oct,Tuesday,17,4,0
+TXN-2025554,CUST-00451,Clothing,Formal Dress Shirt,5,2890.96,0,14454.8,2025-07-22 16:04:00,Islamabad,JazzCash,NovaMart Central,Male,35-44,4,2025,7,Jul,Tuesday,16,3,0
+TXN-2025430,CUST-01180,Home & Kitchen,Bed Sheet King Size,1,4285.75,0,4285.75,2025-12-02 16:27:00,Islamabad,EasyPaisa,NovaMart Express,Female,25-34,4,2025,12,Dec,Tuesday,16,4,0
+TXN-2025084,CUST-02954,Health & Beauty,Ponds Moisturizer 200ml,4,865.48,5,3288.82,2025-03-05 11:54:00,Rawalpindi,Cash,NovaMart Express,Male,45-54,5,2025,3,Mar,Wednesday,11,1,0
+TXN-2026007,CUST-01779,Groceries,Rooh Afza 750ml,1,306.04,0,306.04,2025-11-15 14:57:00,Lahore,Credit Card,NovaMart Outlet,Male,18-24,5,2025,11,Nov,Saturday,14,4,1
+TXN-2025843,CUST-02074,Toys & Kids,Ludo Deluxe Board Game,2,743.42,0,1486.84,2025-07-24 14:38:00,Rawalpindi,Cash,NovaMart Central,Male,35-44,5,2025,7,Jul,Thursday,14,3,0
+TXN-2025949,CUST-00088,Sports & Fitness,Skipping Rope Steel,2,426.9,0,853.8,2025-10-26 14:49:00,Multan,Debit Card,NovaMart Premium,Male,18-24,4,2025,10,Oct,Sunday,14,4,1
+TXN-2025297,CUST-02553,Sports & Fitness,Cycling Gloves,1,714.29,5,678.58,2025-11-30 16:07:00,Multan,Cash,NovaMart Outlet,Female,35-44,5,2025,11,Nov,Sunday,16,4,1
+TXN-2025920,CUST-02804,Stationery,Casio fx-82 Calculator,1,2384.32,5,2265.1,2025-10-05 10:46:00,Peshawar,Cash,NovaMart Express,Female,18-24,4,2025,10,Oct,Sunday,10,4,1
+TXN-2025479,CUST-01535,Groceries,Lays Chips Family Pack,1,186.13,10,167.52,2025-04-08 17:13:00,Lahore,Cash,NovaMart Central,Female,25-34,4,2025,4,Apr,Tuesday,17,2,0
+TXN-2025440,CUST-01528,Health & Beauty,Ponds Moisturizer 200ml,2,922.58,0,1845.16,2025-09-18 14:21:00,Peshawar,Credit Card,NovaMart Central,Female,55+,3,2025,9,Sep,Thursday,14,3,0
+TXN-2025193,CUST-UNKNOWN,Clothing,Winter Jacket,1,6812.09,0,6812.09,2025-07-06 10:21:00,Lahore,Cash,NovaMart Outlet,Unknown,25-34,4,2025,7,Jul,Sunday,10,3,1
+TXN-2026089,CUST-00969,Groceries,Lays Chips Family Pack,1,184.51,5,175.28,2025-09-12 14:35:00,Karachi,Debit Card,NovaMart Premium,Male,45-54,5,2025,9,Sep,Friday,14,3,0
+TXN-2025077,CUST-00968,Clothing,Denim Jeans Slim Fit,2,2337.48,0,4674.96,2025-10-13 16:25:00,Karachi,JazzCash,NovaMart Express,Female,45-54,5,2025,10,Oct,Monday,16,4,0
+TXN-2025985,CUST-00591,Sports & Fitness,Dumbbell Set 10kg Pair,1,4863.99,0,4863.99,2025-06-16 10:13:00,Islamabad,Debit Card,NovaMart Outlet,Female,35-44,5,2025,6,Jun,Monday,10,2,0
+TXN-2025139,CUST-02322,Clothing,Men's Polo Shirt,3,1433.16,0,4299.48,2025-01-30 11:59:00,Karachi,Cash,NovaMart Express,Female,55+,4,2025,1,Jan,Thursday,11,1,0
+TXN-2025287,CUST-00328,Stationery,Sticky Notes 3x3 4pads,2,263.1,0,526.2,2025-01-07 11:12:00,Lahore,Debit Card,NovaMart Outlet,Male,18-24,5,2025,1,Jan,Tuesday,11,1,0
+TXN-2025895,CUST-00271,Clothing,Winter Jacket,2,5583.22,0,11166.44,2025-03-29 15:46:00,Karachi,Bank Transfer,NovaMart Express,Male,45-54,1,2025,3,Mar,Saturday,15,1,1
+TXN-2025828,CUST-02466,Clothing,Men's Polo Shirt,1,1602.87,0,1602.87,2025-08-02 17:14:00,Lahore,Credit Card,NovaMart Outlet,Female,45-54,4,2025,8,Aug,Saturday,17,3,1
+TXN-2025243,CUST-01302,Sports & Fitness,Wilson Badminton Racket,1,3360.94,0,3360.94,2025-08-21 16:18:00,Karachi,Debit Card,NovaMart Express,Male,25-34,2,2025,8,Aug,Thursday,16,3,0
+TXN-2025142,CUST-UNKNOWN,Groceries,Sunflower Oil 5L,1,1802.08,0,1802.08,2025-12-26 16:47:00,Lahore,Cash,NovaMart Outlet,Unknown,25-34,4,2025,12,Dec,Friday,16,4,0
+TXN-2025307,CUST-02528,Clothing,Men's Polo Shirt,5,2403.07,0,12015.35,2025-07-16 15:10:00,Faisalabad,Cash,NovaMart Outlet,Male,18-24,5,2025,7,Jul,Wednesday,15,3,0
+TXN-2026085,CUST-00360,Clothing,Sports T-Shirt,4,1570.38,0,6281.52,2025-07-13 15:50:00,Multan,Bank Transfer,NovaMart Express,Female,25-34,4,2025,7,Jul,Sunday,15,3,1
+TXN-2025140,CUST-01337,Health & Beauty,Dettol Handwash 500ml,5,330.08,0,1650.4,2025-07-22 19:21:00,Islamabad,JazzCash,NovaMart Outlet,Female,35-44,4,2025,7,Jul,Tuesday,19,3,0
+TXN-2026071,CUST-00725,Groceries,Brooke Bond Supreme 200g,2,306.87,0,613.74,2025-03-14 16:25:00,Faisalabad,Cash,NovaMart Premium,Female,55+,4,2025,3,Mar,Friday,16,1,0
+TXN-2026046,CUST-02109,Sports & Fitness,Dumbbell Set 10kg Pair,4,4033.53,0,16134.12,2025-10-26 21:20:00,Lahore,Credit Card,NovaMart Central,Male,45-54,5,2025,10,Oct,Sunday,21,4,1
+TXN-2025695,CUST-UNKNOWN,Health & Beauty,Colgate Toothpaste 150g,3,226.44,0,679.32,2025-10-31 17:33:00,Karachi,Cash,NovaMart Express,Unknown,45-54,4,2025,10,Oct,Friday,17,4,0
+TXN-2025382,CUST-02448,Health & Beauty,Dettol Handwash 500ml,4,321.73,0,1286.92,2025-09-08 18:50:00,Karachi,Cash,NovaMart Outlet,Female,25-34,4,2025,9,Sep,Monday,18,3,0
+TXN-2025728,CUST-00874,Groceries,Sunflower Oil 5L,2,2104.18,0,4208.36,2025-01-11 19:32:00,Peshawar,Credit Card,NovaMart Express,Male,25-34,3,2025,1,Jan,Saturday,19,1,1
+TXN-2025274,CUST-UNKNOWN,Stationery,Stapler Heavy Duty,1,808.16,0,808.16,2025-10-05 11:59:00,Islamabad,Cash,NovaMart Premium,Unknown,35-44,4,2025,10,Oct,Sunday,11,4,1
+TXN-2025954,CUST-01032,Clothing,Casual Sneakers,3,3794.76,15,9676.64,2025-07-21 11:53:00,Multan,JazzCash,NovaMart Central,Female,35-44,5,2025,7,Jul,Monday,11,3,0
+TXN-2025406,CUST-01219,Groceries,Sunflower Oil 5L,1,2013.96,0,2013.96,2025-11-08 13:24:00,Karachii,Bank Transfer,NovaMart Express,Female,25-34,5,2025,11,Nov,Saturday,13,4,1
+TXN-2025946,CUST-01954,Clothing,Winter Jacket,5,5516.4,0,27582.0,2025-09-21 19:39:00,Lahore,Debit Card,NovaMart Express,Female,45-54,4,2025,9,Sep,Sunday,19,3,1
+TXN-2025559,CUST-00276,Toys & Kids,Barbie Fashion Doll,3,2588.86,20,6213.26,2025-05-12 19:17:00,Multan,Cash,NovaMart Outlet,Male,25-34,5,2025,5,May,Monday,19,2,0
+TXN-2025691,CUST-01916,Sports & Fitness,Football Size 5,2,2007.45,0,4014.9,2025-09-19 13:44:00,Peshawar,JazzCash,NovaMart Express,Male,35-44,3,2025,9,Sep,Friday,13,3,0
+TXN-2025590,CUST-00649,Clothing,Denim Jeans Slim Fit,2,3387.4,10,6097.32,2025-06-21 19:51:00,Karachi,Credit Card,NovaMart Central,Female,35-44,4,2025,6,Jun,Saturday,19,2,1
+TXN-2025833,CUST-02290,Health & Beauty,Ponds Moisturizer 200ml,5,867.81,0,4339.05,2025-02-25 19:45:00,Faisalabad,JazzCash,NovaMart Outlet,Male,45-54,5,2025,2,Feb,Tuesday,19,1,0
+TXN-2025558,CUST-02560,Electronics,"Haier LED TV 32""",2,43373.52,0,86747.04,2025-03-04 13:18:00,Islamabad,Debit Card,NovaMart Premium,Female,25-34,5,2025,3,Mar,Tuesday,13,1,0
+TXN-2025185,CUST-02424,Clothing,Men's Polo Shirt,4,2193.26,5,8334.39,2025-04-06 11:42:00,Sialkot,Credit Card,NovaMart Premium,Male,25-34,4,2025,4,Apr,Sunday,11,2,1
+TXN-2025209,CUST-UNKNOWN,Clothing,Kids Tracksuit,1,1595.37,0,1435.83,2025-09-25 20:43:00,Lahore,Cash,NovaMart Central,Unknown,35-44,4,2025,9,Sep,Thursday,20,3,0
+TXN-2025179,CUST-00374,Clothing,Winter Jacket,1,7483.69,10,6735.32,2025-07-04 16:49:00,Lahore,JazzCash,NovaMart Express,Male,25-34,5,2025,7,Jul,Friday,16,3,0
+TXN-2025875,CUST-00629,Home & Kitchen,Anex Blender AG-6122,2,4241.59,15,7210.7,2025-06-26 16:22:00,Multan,Credit Card,NovaMart Central,Male,35-44,4,2025,6,Jun,Thursday,16,2,0
+TXN-2025650,CUST-01823,Groceries,Tapal Danedar Tea 900g,1,836.66,10,752.99,2025-08-22 16:28:00,Sialkot,Cash,NovaMart Express,Female,45-54,3,2025,8,Aug,Friday,16,3,0
+TXN-2025712,CUST-01639,Sports & Fitness,Cycling Gloves,2,901.38,0,1802.76,2025-10-09 14:23:00,Lahore,JazzCash,NovaMart Express,Female,45-54,4,2025,10,Oct,Thursday,14,4,0
+TXN-2025079,CUST-02378,Groceries,Sunflower Oil 5L,1,1924.16,0,1924.16,2025-02-16 15:19:00,Peshawar,Cash,NovaMart Outlet,Male,35-44,4,2025,2,Feb,Sunday,15,1,1
+TXN-2025858,CUST-02247,Groceries,Sunflower Oil 5L,1,1990.55,0,1990.55,2025-10-14 13:03:00,Karachi,Credit Card,NovaMart Central,Male,18-24,2,2025,10,Oct,Tuesday,13,4,0
+TXN-2025211,CUST-00531,Electronics,JBL Bluetooth Speaker,1,5440.24,0,5440.24,2025-06-28 17:49:00,Karachi,JazzCash,NovaMart Central,Male,35-44,5,2025,6,Jun,Saturday,17,2,1
+TXN-2025947,CUST-02079,Home & Kitchen,Pillow Set 2pcs,1,1387.0,5,1317.65,2025-11-30 16:57:00,Karachi,Debit Card,NovaMart Central,Female,35-44,1,2025,11,Nov,Sunday,16,4,1
+TXN-2026074,CUST-UNKNOWN,Stationery,A4 Paper Ream 500sheets,1,949.2,0,949.2,2025-01-22 21:06:00,Lahore,Cash,NovaMart Outlet,Unknown,18-24,4,2025,1,Jan,Wednesday,21,1,0
+TXN-2026099,CUST-00887,Groceries,Olpers Full Cream Milk 1L,1,198.14,0,198.14,2025-04-19 15:00:00,Karachi,EasyPaisa,NovaMart Premium,Male,18-24,5,2025,4,Apr,Saturday,15,2,1
+TXN-2025756,CUST-00045,Electronics,Anker USB-C Charger,1,898.31,5,853.39,2025-03-21 15:37:00,Rawalpindi,Debit Card,NovaMart Premium,Male,25-34,5,2025,3,Mar,Friday,15,1,0
+TXN-2025040,CUST-00058,Clothing,Formal Dress Shirt,2,2131.8,10,3837.24,2025-04-11 12:34:00,Rawalpindi,Bank Transfer,NovaMart Premium,Male,25-34,4,2025,4,Apr,Friday,12,2,0
+TXN-2025031,CUST-00119,Groceries,Rooh Afza 750ml,1,300.9,15,255.76,2025-10-31 17:54:00,Peshawar,Debit Card,NovaMart Outlet,Male,35-44,4,2025,10,Oct,Friday,17,4,0
+TXN-2025874,CUST-01653,Groceries,Basmati Rice 5kg,1,1596.84,5,1517.0,2025-08-03 14:12:00,Lahore,Cash,NovaMart Outlet,Male,35-44,4,2025,8,Aug,Sunday,14,3,1
+TXN-2025137,CUST-00230,Groceries,Nestle Everyday Tea Whitener 400g,3,371.0,0,1113.0,2025-07-03 14:25:00,Sialkot,Debit Card,NovaMart Outlet,Male,18-24,4,2025,7,Jul,Thursday,14,3,0
+TXN-2025055,CUST-02319,Electronics,JBL Bluetooth Speaker,4,6681.24,0,26724.96,2025-12-03 15:06:00,Multan,Cash,NovaMart Outlet,Female,25-34,3,2025,12,Dec,Wednesday,15,4,0
+TXN-2025902,CUST-00749,Clothing,Denim Jeans Slim Fit,2,3876.54,10,6977.77,2025-01-01 21:20:00,Lahore,Cash,NovaMart Central,Female,45-54,4,2025,1,Jan,Wednesday,21,1,0
+TXN-2025324,CUST-00847,Clothing,Kids Tracksuit,1,1154.04,0,1154.04,2025-11-24 14:36:00,Islamabad,Cash,NovaMart Central,Male,25-34,3,2025,11,Nov,Monday,14,4,0
+TXN-2025527,CUST-00290,Groceries,Tapal Danedar Tea 900g,2,739.1,0,1478.2,2025-10-18 13:22:00,Islamabad,EasyPaisa,NovaMart Express,Female,55+,3,2025,10,Oct,Saturday,13,4,1
+TXN-2025631,CUST-01180,Clothing,Kids Tracksuit,2,1041.18,0,2082.36,2025-10-03 12:33:00,Peshawar,Cash,NovaMart Express,Female,25-34,4,2025,10,Oct,Friday,12,4,0
+TXN-2025523,CUST-00262,Home & Kitchen,Dawlance Microwave 25L,3,22282.61,0,66847.83,2025-08-21 17:19:00,Lahore,JazzCash,NovaMart Outlet,Female,35-44,4,2025,8,Aug,Thursday,17,3,0
+TXN-2025364,CUST-00225,Electronics,"Haier LED TV 32""",2,40309.28,0,80618.56,2025-07-06 18:23:00,Lahore,JazzCash,NovaMart Premium,Male,45-54,2,2025,7,Jul,Sunday,18,3,1
+TXN-2025678,CUST-01505,Groceries,Rooh Afza 750ml,4,324.54,0,1298.16,2025-08-11 11:39:00,Karachi,Cash,NovaMart Premium,Female,45-54,5,2025,8,Aug,Monday,11,3,0
+TXN-2025004,CUST-00670,Groceries,Rooh Afza 750ml,1,291.39,5,276.82,2025-02-28 13:06:00,Faisalabad,Debit Card,NovaMart Express,Male,35-44,3,2025,2,Feb,Friday,13,1,0
+TXN-2025540,CUST-02049,Sports & Fitness,Resistance Bands Set,4,1251.3,10,4504.68,2025-07-16 16:51:00,Lahore,Cash,NovaMart Premium,Male,45-54,3,2025,7,Jul,Wednesday,16,3,0
+TXN-2025543,CUST-01247,Home & Kitchen,Anex Blender AG-6122,2,3694.46,5,7019.47,2025-04-30 12:01:00,Sialkot,Cash,NovaMart Central,Female,35-44,4,2025,4,Apr,Wednesday,12,2,0
+TXN-2025431,CUST-01935,Clothing,Sports T-Shirt,3,1545.21,5,4403.85,2025-12-07 15:28:00,Islamabad,EasyPaisa,NovaMart Premium,Female,55+,5,2025,12,Dec,Sunday,15,4,1
+TXN-2025966,CUST-01541,Toys & Kids,Stuffed Teddy Bear 30cm,1,1086.99,10,978.29,2025-12-19 16:40:00,Islamabad,EasyPaisa,NovaMart Central,Male,45-54,1,2025,12,Dec,Friday,16,4,0
+TXN-2025738,CUST-00913,Groceries,Brooke Bond Supreme 200g,1,333.36,0,333.36,2025-06-03 12:36:00,Rawalpindi,Credit Card,NovaMart Premium,Male,25-34,4,2025,6,Jun,Tuesday,12,2,0
+TXN-2026080,CUST-02243,Stationery,Spiral Notebook A5,1,269.05,0,269.05,2025-06-12 18:15:00,Karachi,Bank Transfer,NovaMart Outlet,Male,35-44,4,2025,6,Jun,Thursday,18,2,0
+TXN-2025941,CUST-01627,Home & Kitchen,Anex Blender AG-6122,2,3299.13,10,5938.43,2025-10-22 13:23:00,Peshawar,Debit Card,NovaMart Express,Female,18-24,4,2025,10,Oct,Wednesday,13,4,0
+TXN-2025295,CUST-02341,Clothing,Casual Sneakers,3,6413.12,5,18277.39,2025-10-05 14:44:00,Karachi,Credit Card,NovaMart Outlet,Female,18-24,4,2025,10,Oct,Sunday,14,4,1
+TXN-2025929,CUST-01500,Health & Beauty,Colgate Toothpaste 150g,2,208.36,0,416.72,2025-06-21 14:23:00,Karachi,Cash,NovaMart Central,Male,55+,4,2025,6,Jun,Saturday,14,2,1
+TXN-2025766,CUST-00921,Clothing,Sports T-Shirt,1,1272.98,15,1082.03,2025-02-23 16:56:00,Karachi,EasyPaisa,NovaMart Premium,Female,35-44,5,2025,2,Feb,Sunday,16,1,1
+TXN-2025059,CUST-00542,Home & Kitchen,Anex Blender AG-6122,1,3601.61,5,3421.53,2025-05-22 18:49:00,Multan,Cash,NovaMart Express,Female,25-34,4,2025,5,May,Thursday,18,2,0
+TXN-2025322,CUST-00587,Health & Beauty,Dettol Handwash 500ml,1,324.38,0,324.38,2025-05-07 16:11:00,Islamabad,Cash,NovaMart Premium,Female,45-54,4,2025,5,May,Wednesday,16,2,0
+TXN-2025482,CUST-00704,Groceries,Olpers Full Cream Milk 1L,4,187.96,0,751.84,2025-03-04 17:11:00,Karachi,Cash,NovaMart Central,Male,35-44,4,2025,3,Mar,Tuesday,17,1,0
+TXN-2025360,CUST-02368,Electronics,Anker USB-C Charger,3,895.55,0,2686.65,2025-06-09 13:08:00,Karachi,Credit Card,NovaMart Express,Female,35-44,5,2025,6,Jun,Monday,13,2,0
+TXN-2025064,CUST-00208,Groceries,Rooh Afza 750ml,1,284.24,20,227.39,2025-08-15 20:54:00,Hyderabad,JazzCash,NovaMart Central,Male,35-44,4,2025,8,Aug,Friday,20,3,0
+TXN-2025389,CUST-02437,Electronics,Xiaomi Power Bank 20000mAh,2,3841.0,0,7682.0,2025-08-22 11:28:00,Quetta,Bank Transfer,NovaMart Express,Male,25-34,3,2025,8,Aug,Friday,11,3,0
+TXN-2025629,CUST-02328,Groceries,Nestle Everyday Tea Whitener 400g,1,356.02,15,302.62,2025-05-16 15:18:00,Karachi,Cash,NovaMart Outlet,Male,55+,4,2025,5,May,Friday,15,2,0
+TXN-2025410,CUST-UNKNOWN,Groceries,Nestle Everyday Tea Whitener 400g,1,351.45,0,333.88,2025-04-03 15:11:00,Rawalpindi,Cash,NovaMart Express,Unknown,55+,4,2025,4,Apr,Thursday,15,2,0
+TXN-2025101,CUST-00513,Health & Beauty,Gillette Fusion Razor,1,1298.79,5,1233.85,2025-07-17 20:03:00,Lahore,EasyPaisa,NovaMart Premium,Female,45-54,4,2025,7,Jul,Thursday,20,3,0
+TXN-2025169,CUST-01271,Electronics,JBL Bluetooth Speaker,1,5332.4,0,5332.4,2025-05-21 17:49:00,Karachi,JazzCash,NovaMart Central,Female,25-34,4,2025,5,May,Wednesday,17,2,0
+TXN-2025576,CUST-02801,Clothing,Men's Polo Shirt,3,2484.15,0,7452.45,2025-08-02 16:30:00,Multan,JazzCash,NovaMart Central,Female,25-34,3,2025,8,Aug,Saturday,16,3,1
+TXN-2025751,CUST-01748,Groceries,Olpers Full Cream Milk 1L,3,190.21,0,570.63,2025-08-04 17:41:00,Rawalpindi,Debit Card,NovaMart Premium,Female,45-54,4,2025,8,Aug,Monday,17,3,0
+TXN-2025725,CUST-02222,Groceries,Sunflower Oil 5L,3,2014.77,0,6044.31,2025-09-10 11:14:00,Rawalpindi,Cash,NovaMart Central,Male,25-34,4,2025,9,Sep,Wednesday,11,3,0
+TXN-2025561,CUST-00833,Home & Kitchen,Pillow Set 2pcs,2,1507.7,0,3015.4,2025-04-13 15:31:00,Rawalpindi,Debit Card,NovaMart Central,Male,45-54,3,2025,4,Apr,Sunday,15,2,1
+TXN-2025355,CUST-02501,Sports & Fitness,Football Size 5,3,2216.22,10,5983.79,2025-01-29 15:00:00,Faisalabad,Cash,NovaMart Express,Female,35-44,4,2025,1,Jan,Wednesday,15,1,0
+TXN-2025437,CUST-02588,Sports & Fitness,Yoga Mat 6mm,1,1584.78,20,1267.82,2025-09-26 17:01:00,Karachi,Cash,NovaMart Central,Male,35-44,4,2025,9,Sep,Friday,17,3,0
+TXN-2025716,CUST-00289,Home & Kitchen,Prestige Pressure Cooker 5L,2,3093.84,0,6187.68,2025-08-17 17:51:00,Multan,Debit Card,NovaMart Outlet,Female,45-54,5,2025,8,Aug,Sunday,17,3,1
+TXN-2025661,CUST-01985,Stationery,Camlin Geometry Box,2,412.89,0,825.78,2025-02-23 18:20:00,Rawalpindi,EasyPaisa,NovaMart Express,Male,35-44,4,2025,2,Feb,Sunday,18,1,1
+TXN-2025244,CUST-01966,Home & Kitchen,Kitchen Knife Set,5,1365.39,0,6826.95,2025-08-15 14:42:00,Lahore,JazzCash,NovaMart Premium,Female,25-34,4,2025,8,Aug,Friday,14,3,0
+TXN-2025462,CUST-02428,Toys & Kids,Art & Craft Kit,4,1966.22,0,7864.88,2025-06-03 19:51:00,Lahore,Cash,NovaMart Central,Male,18-24,4,2025,6,Jun,Tuesday,19,2,0
+TXN-2025718,CUST-01877,Health & Beauty,Colgate Toothpaste 150g,2,205.65,0,411.3,2025-02-04 12:16:00,Lahore,Credit Card,NovaMart Central,Female,18-24,4,2025,2,Feb,Tuesday,12,1,0
+TXN-2025429,CUST-UNKNOWN,Stationery,Camlin Geometry Box,3,294.37,0,883.11,2025-04-07 14:53:00,Lahore,Cash,NovaMart Outlet,Unknown,18-24,4,2025,4,Apr,Monday,14,2,0
+TXN-2025645,CUST-02804,Groceries,Tapal Danedar Tea 900g,1,738.93,0,738.93,2025-10-18 14:04:00,Karachi,EasyPaisa,NovaMart Express,Male,25-34,5,2025,10,Oct,Saturday,14,4,1
+TXN-2025498,CUST-01732,Clothing,Winter Jacket,5,6517.48,0,32587.4,2025-03-24 13:27:00,Peshawar,Credit Card,NovaMart Outlet,Female,25-34,3,2025,3,Mar,Monday,13,1,0
+TXN-2025067,CUST-00331,Electronics,Anker USB-C Charger,5,1120.63,0,5603.15,2025-06-17 16:28:00,Islamabad,Credit Card,NovaMart Central,Male,35-44,5,2025,6,Jun,Tuesday,16,2,0
+TXN-2025586,CUST-02265,Toys & Kids,Water Gun Set,1,555.18,0,555.18,2025-07-05 20:24:00,Multan,Credit Card,NovaMart Premium,Female,45-54,4,2025,7,Jul,Saturday,20,3,1
+TXN-2025068,CUST-01762,Home & Kitchen,Kitchen Knife Set,2,1066.63,0,2133.26,2025-06-20 12:08:00,Islamabad,Credit Card,NovaMart Express,Male,45-54,5,2025,6,Jun,Friday,12,2,0
+TXN-2025717,CUST-01756,Home & Kitchen,Anex Blender AG-6122,3,3770.08,0,11310.24,2025-07-31 13:45:00,Peshawar,JazzCash,NovaMart Outlet,Male,25-34,5,2025,7,Jul,Thursday,13,3,0
+TXN-2025594,CUST-00762,Clothing,Casual Sneakers,3,4380.42,5,12484.2,2025-11-27 11:10:00,Hyderabad,Credit Card,NovaMart Outlet,Male,18-24,5,2025,11,Nov,Thursday,11,4,0
+TXN-2025013,CUST-00383,Electronics,Lenovo Laptop Bag,1,2710.27,0,2710.27,2025-07-24 14:55:00,Peshawar,Cash,NovaMart Central,Male,18-24,5,2025,7,Jul,Thursday,14,3,0
+TXN-2025399,CUST-UNKNOWN,Groceries,Olpers Full Cream Milk 1L,2,215.24,0,430.48,2025-11-18 14:26:00,Karachi,Cash,NovaMart Outlet,Unknown,25-34,4,2025,11,Nov,Tuesday,14,4,0
+TXN-2025044,CUST-01089,Groceries,Tapal Danedar Tea 900g,2,806.04,0,1612.08,2025-01-14 15:38:00,Faisalabad,EasyPaisa,NovaMart Express,Male,25-34,4,2025,1,Jan,Tuesday,15,1,0
+TXN-2025332,CUST-00450,Home & Kitchen,Non-Stick Fry Pan,3,2601.93,0,7805.79,2025-12-30 14:05:00,Quetta,Bank Transfer,NovaMart Premium,Male,45-54,5,2025,12,Dec,Tuesday,14,4,0
+TXN-2025683,CUST-02060,Groceries,Olpers Full Cream Milk 1L,5,217.33,0,1086.65,2025-07-07 16:56:00,Lahore,Cash,NovaMart Premium,Female,25-34,5,2025,7,Jul,Monday,16,3,0
+TXN-2026008,CUST-02003,Groceries,Basmati Rice 5kg,3,1282.89,5,3656.24,2025-01-04 10:03:00,Lahore,Cash,NovaMart Central,Female,25-34,5,2025,1,Jan,Saturday,10,1,1
+TXN-2026069,CUST-00146,Groceries,Sunflower Oil 5L,3,2183.73,0,6551.19,2025-06-05 16:17:00,Karachi,Credit Card,NovaMart Central,Female,45-54,2,2025,6,Jun,Thursday,16,2,0
+TXN-2025838,CUST-02934,Home & Kitchen,Non-Stick Fry Pan,1,1784.79,0,1784.79,2025-06-24 19:23:00,Multan,Cash,NovaMart Express,Female,25-34,5,2025,6,Jun,Tuesday,19,2,0
+TXN-2025940,CUST-00013,Home & Kitchen,Anex Blender AG-6122,1,3517.7,0,3517.7,2025-02-11 18:07:00,Faisalabad,Cash,NovaMart Outlet,Female,45-54,4,2025,2,Feb,Tuesday,18,1,0
+TXN-2025433,CUST-00620,Electronics,"Haier LED TV 32""",1,40026.41,0,40026.41,2025-05-12 17:11:00,Rawalpindi,Credit Card,NovaMart Premium,Female,45-54,5,2025,5,May,Monday,17,2,0
+TXN-2025362,CUST-02840,Groceries,Lays Chips Family Pack,2,186.67,0,373.34,2025-03-30 16:00:00,Lahore,JazzCash,NovaMart Central,Male,35-44,3,2025,3,Mar,Sunday,16,1,1
+TXN-2026073,CUST-02993,Groceries,Nestle Everyday Tea Whitener 400g,2,389.52,0,779.04,2025-08-20 14:05:00,Karachi,EasyPaisa,NovaMart Premium,Female,18-24,4,2025,8,Aug,Wednesday,14,3,0
+TXN-2026036,CUST-00536,Health & Beauty,Pantene Shampoo 360ml,2,506.92,5,963.15,2025-06-18 19:36:00,Islamabad,Cash,NovaMart Outlet,Female,25-34,4,2025,6,Jun,Wednesday,19,2,0
+TXN-2025293,CUST-UNKNOWN,Electronics,Lenovo Laptop Bag,3,2759.35,0,7864.15,2025-07-19 20:46:00,Rawalpindi,Cash,NovaMart Outlet,Unknown,18-24,4,2025,7,Jul,Saturday,20,3,1
+TXN-2025238,CUST-02649,Home & Kitchen,Dawlance Microwave 25L,2,19264.69,0,38529.38,2025-09-03 20:10:00,Faisalabad,JazzCash,NovaMart Outlet,Male,35-44,5,2025,9,Sep,Wednesday,20,3,0
+TXN-2025328,CUST-02183,Electronics,JBL Bluetooth Speaker,1,5346.77,5,5079.43,2025-08-16 10:30:00,Islamabad,Credit Card,NovaMart Premium,Male,25-34,4,2025,8,Aug,Saturday,10,3,1
+TXN-2025003,CUST-01186,Groceries,Brooke Bond Supreme 200g,1,284.73,5,270.49,2025-10-09 18:46:00,Quetta,Credit Card,NovaMart Express,Male,45-54,2,2025,10,Oct,Thursday,18,4,0
+TXN-2025007,CUST-00014,Stationery,Camlin Geometry Box,1,375.24,15,318.95,2025-02-13 14:29:00,Multan,JazzCash,NovaMart Outlet,Female,18-24,4,2025,2,Feb,Thursday,14,1,0
+TXN-2025921,CUST-01840,Clothing,Women's Kameez Printed,2,2238.85,0,4477.7,2025-07-04 11:10:00,Faisalabad,JazzCash,NovaMart Express,Female,55+,3,2025,7,Jul,Friday,11,3,0
+TXN-2025278,CUST-00762,Clothing,Winter Jacket,1,4886.25,0,4886.25,2025-11-24 16:17:00,Faisalabad,CreditCard,NovaMart Central,Female,18-24,2,2025,11,Nov,Monday,16,4,0
+TXN-2025383,CUST-00319,Sports & Fitness,Yoga Mat 6mm,3,1722.36,0,5167.08,2025-09-25 21:11:00,Lahore,Cash,NovaMart Central,Male,55+,4,2025,9,Sep,Thursday,21,3,0
+TXN-2025216,CUST-02143,Clothing,Denim Jeans Slim Fit,4,2953.89,0,11815.56,2025-07-22 11:33:00,Rawalpindi,Cash,NovaMart Premium,Male,35-44,4,2025,7,Jul,Tuesday,11,3,0
+TXN-2025992,CUST-UNKNOWN,Stationery,Stapler Heavy Duty,4,662.07,0,2648.28,2025-03-11 17:44:00,Karachi,Cash,NovaMart Express,Unknown,45-54,4,2025,3,Mar,Tuesday,17,1,0
+TXN-2025466,CUST-01277,Stationery,Ball Pen Pack 10pcs,1,194.62,0,194.62,2025-02-01 16:04:00,Faisalabad,Credit Card,NovaMart Express,Male,18-24,2,2025,2,Feb,Saturday,16,1,1
+TXN-2025653,CUST-01730,Sports & Fitness,Yoga Mat 6mm,1,1626.4,0,1626.4,2025-02-14 13:35:00,Faisalabad,Bank Transfer,NovaMart Outlet,Male,35-44,4,2025,2,Feb,Friday,13,1,0
+TXN-2026090,CUST-02693,Home & Kitchen,Non-Stick Fry Pan,1,2291.25,15,1947.56,2025-08-18 18:44:00,Islamabad,Cash,NovaMart Central,Female,25-34,5,2025,8,Aug,Monday,18,3,0
+TXN-2025292,CUST-02337,Clothing,Denim Jeans Slim Fit,1,2369.72,0,2369.72,2025-04-28 14:49:00,Lahore,EasyPaisa,NovaMart Central,Male,25-34,5,2025,4,Apr,Monday,14,2,0
+TXN-2025705,CUST-01776,Electronics,"Haier LED TV 32""",2,40026.64,0,80053.28,2025-10-24 17:56:00,Lahore,Cash,NovaMart Central,Female,45-54,5,2025,10,Oct,Friday,17,4,0
+TXN-2025773,CUST-01670,Clothing,Denim Jeans Slim Fit,1,3704.33,15,3148.68,2025-10-03 16:46:00,Faisalabad,CreditCard,NovaMart Outlet,Male,55+,4,2025,10,Oct,Friday,16,4,0
+TXN-2025448,CUST-02059,Electronics,Anker USB-C Charger,1,1192.73,5,1133.09,2025-11-03 19:45:00,Karachi,Debit Card,NovaMart Outlet,Male,55+,4,2025,11,Nov,Monday,19,4,0
+TXN-2025960,CUST-02232,Clothing,Women's Kameez Printed,5,3093.31,0,15466.55,2025-11-18 13:12:00,Faisalabad,Cash,NovaMart Outlet,Female,55+,4,2025,11,Nov,Tuesday,13,4,0
+TXN-2025406,CUST-01219,Groceries,Sunflower Oil 5L,1,2013.96,0,2013.96,2025-11-08 13:24:00,Karachi,Bank Transfer,NovaMart Express,Female,25-34,5,2025,11,Nov,Saturday,13,4,1
+TXN-2025257,CUST-00411,Clothing,Formal Dress Shirt,1,2104.53,0,2104.53,2025-07-18 18:30:00,Faisalabad,JazzCash,NovaMart Express,Male,45-54,4,2025,7,Jul,Friday,18,3,0
+TXN-2025026,CUST-00383,Home & Kitchen,Kitchen Knife Set,1,1125.49,0,1125.49,2025-09-27 09:18:00,Islamabad,EasyPaisa,NovaMart Premium,Male,35-44,4,2025,9,Sep,Saturday,9,3,1
+TXN-2026067,CUST-01982,Health & Beauty,Himalaya Neem Face Wash,2,356.92,0,713.84,2025-07-03 18:02:00,Karachii,Cash,NovaMart Central,Female,35-44,5,2025,7,Jul,Thursday,18,3,0
+TXN-2025048,CUST-01094,Toys & Kids,LEGO Classic Bricks Set,2,6144.15,0,12288.3,2025-02-11 13:07:00,Karachi,Credit Card,NovaMart Express,Female,35-44,5,2025,2,Feb,Tuesday,13,1,0
+TXN-2025107,CUST-01389,Groceries,Nestle Everyday Tea Whitener 400g,1,375.38,0,375.38,2025-06-25 15:02:00,Islamabad,Debit Card,NovaMart Premium,Male,18-24,2,2025,6,Jun,Wednesday,15,2,0
+TXN-2025056,CUST-02776,Home & Kitchen,Pillow Set 2pcs,2,1598.13,0,3196.26,2025-11-26 12:11:00,Rawalpindi,Credit Card,NovaMart Premium,Male,55+,4,2025,11,Nov,Wednesday,12,4,0
+TXN-2026070,CUST-01382,Groceries,Olpers Full Cream Milk 1L,4,182.75,0,731.0,2025-05-11 10:22:00,Quetta,JazzCash,NovaMart Express,Female,25-34,4,2025,5,May,Sunday,10,2,1
+TXN-2025214,CUST-01537,Groceries,Nestle Everyday Tea Whitener 400g,5,365.7,0,1828.5,2025-08-12 18:10:00,Karachi,Credit Card,NovaMart Central,Male,25-34,5,2025,8,Aug,Tuesday,18,3,0
+TXN-2025121,CUST-02244,Home & Kitchen,Pillow Set 2pcs,2,1809.49,5,3438.03,2025-12-18 20:48:00,Multan,Debit Card,NovaMart Central,Female,18-24,4,2025,12,Dec,Thursday,20,4,0
+TXN-2025549,CUST-02262,Clothing,Men's Polo Shirt,3,2342.9,0,7028.7,2025-10-09 13:00:00,Faisalabad,Debit Card,NovaMart Premium,Female,45-54,4,2025,10,Oct,Thursday,13,4,0
+TXN-2025811,CUST-01719,Electronics,Lenovo Laptop Bag,1,3819.96,10,3437.96,2025-12-07 13:10:00,Hyderabad,Credit Card,NovaMart Outlet,Female,35-44,3,2025,12,Dec,Sunday,13,4,1
+TXN-2025423,CUST-00524,Sports & Fitness,Dumbbell Set 10kg Pair,2,5361.34,5,10186.55,2025-07-03 10:21:00,Karachi,Credit Card,NovaMart Express,Male,55+,4,2025,7,Jul,Thursday,10,3,0
+TXN-2025073,CUST-01697,Home & Kitchen,Dawlance Microwave 25L,1,23300.05,10,20970.04,2025-08-11 12:19:00,Karachi,Cash,NovaMart Outlet,Female,35-44,4,2025,8,Aug,Monday,12,3,0
+TXN-2025675,CUST-01206,Stationery,Highlighter Set 6colors,2,449.04,0,898.08,2025-12-04 12:28:00,Karachi,EasyPaisa,NovaMart Outlet,Female,25-34,4,2025,12,Dec,Thursday,12,4,0
+TXN-2025533,CUST-00044,Groceries,Sunflower Oil 5L,1,2053.87,0,2053.87,2025-11-28 11:19:00,Karachi,Debit Card,NovaMart Outlet,Male,45-54,4,2025,11,Nov,Friday,11,4,0
+TXN-2025655,CUST-02761,Clothing,Denim Jeans Slim Fit,2,3520.2,5,6688.38,2025-11-15 17:27:00,Peshawar,Credit Card,NovaMart Premium,Male,55+,4,2025,11,Nov,Saturday,17,4,1
+TXN-2025450,CUST-00242,Home & Kitchen,Dawlance Microwave 25L,1,18687.87,0,18687.87,2025-07-06 15:55:00,Karachi,Cash,NovaMart Express,Male,25-34,5,2025,7,Jul,Sunday,15,3,1
+TXN-2026032,CUST-02816,Stationery,Spiral Notebook A5,5,326.49,10,1469.21,2025-09-13 16:44:00,Karachi,Cash,NovaMart Central,Male,45-54,5,2025,9,Sep,Saturday,16,3,1
+TXN-2025701,CUST-02764,Health & Beauty,LOreal Face Wash,2,745.25,10,1341.45,2025-12-21 12:51:00,Sialkot,Cash,NovaMart Outlet,Male,55+,4,2025,12,Dec,Sunday,12,4,1
+TXN-2025343,CUST-02152,Sports & Fitness,Wilson Badminton Racket,2,3031.92,20,4851.07,2025-11-19 15:49:00,Lahore,Cash,NovaMart Central,Male,45-54,1,2025,11,Nov,Wednesday,15,4,0
+TXN-2025395,CUST-00081,Toys & Kids,LEGO Classic Bricks Set,1,6153.1,5,5845.44,2025-06-13 11:22:00,Rawalpindi,EasyPaisa,NovaMart Express,Male,45-54,3,2025,6,Jun,Friday,11,2,0
+TXN-2025831,CUST-01107,Electronics,Samsung Galaxy A14,4,51162.03,0,204648.12,2025-05-15 20:56:00,Karachi,JazzCash,NovaMart Premium,Female,45-54,4,2025,5,May,Thursday,20,2,0
+TXN-2025696,CUST-UNKNOWN,Clothing,Denim Jeans Slim Fit,1,2625.13,0,2625.13,2025-01-22 12:56:00,Lahore,Cash,NovaMart Central,Unknown,18-24,4,2025,1,Jan,Wednesday,12,1,0
+TXN-2025747,CUST-01958,Health & Beauty,Ponds Moisturizer 200ml,1,777.86,15,661.18,2025-08-14 19:34:00,Karachi,Debit Card,NovaMart Central,Female,55+,5,2025,8,Aug,Thursday,19,3,0
+TXN-2025434,CUST-00685,Electronics,Lenovo Laptop Bag,5,3698.48,10,16643.16,2025-12-28 16:42:00,Sialkot,JazzCash,NovaMart Central,Male,45-54,2,2025,12,Dec,Sunday,16,4,1
+TXN-2025619,CUST-02662,Home & Kitchen,Bed Sheet King Size,3,2607.07,0,7821.21,2025-10-17 14:39:00,Faisalabad,Credit Card,NovaMart Premium,Female,45-54,2,2025,10,Oct,Friday,14,4,0
+TXN-2025345,CUST-01055,Health & Beauty,Dettol Handwash 500ml,1,349.57,0,349.57,2025-11-25 19:36:00,Hyderabad,Debit Card,NovaMart Premium,Female,45-54,5,2025,11,Nov,Tuesday,19,4,0
+TXN-2025674,CUST-02130,Clothing,Formal Dress Shirt,3,2417.32,20,5801.57,2025-08-18 15:41:00,Karachi,Cash,NovaMart Express,Male,25-34,5,2025,8,Aug,Monday,15,3,0
+TXN-2025061,CUST-00444,Health & Beauty,LOreal Face Wash,1,572.58,0,572.58,2025-04-28 17:43:00,Karachi,Credit Card,NovaMart Premium,Female,35-44,5,2025,4,Apr,Monday,17,2,0
+TXN-2025931,CUST-UNKNOWN,Electronics,Samsung Galaxy A14,3,51496.97,0,154490.91,2025-11-28 20:11:00,Islamabad,Cash,NovaMart Express,Unknown,25-34,4,2025,11,Nov,Friday,20,4,0
+TXN-2025093,CUST-01584,Electronics,Anker USB-C Charger,3,1049.88,10,2834.68,2025-07-27 16:16:00,Lahore,Cash,NovaMart Outlet,Female,25-34,4,2025,7,Jul,Sunday,16,3,1
+TXN-2025917,CUST-02693,Home & Kitchen,Dawlance Microwave 25L,3,22832.49,0,68497.47,2025-10-29 15:13:00,Rawalpindi,JazzCash,NovaMart Express,Male,35-44,4,2025,10,Oct,Wednesday,15,4,0
+TXN-2025320,CUST-01390,Groceries,Rooh Afza 750ml,1,318.86,5,302.92,2025-07-30 17:53:00,Lahore,EasyPaisa,NovaMart Central,Female,18-24,3,2025,7,Jul,Wednesday,17,3,0
+TXN-2025839,CUST-00128,Health & Beauty,Dettol Handwash 500ml,1,349.49,10,314.54,2025-01-29 18:32:00,Lahore,Cash,NovaMart Central,Male,55+,3,2025,1,Jan,Wednesday,18,1,0
+TXN-2025281,CUST-01477,Groceries,Tapal Danedar Tea 900g,1,840.43,5,798.41,2025-04-15 17:06:00,Multan,Debit Card,NovaMart Express,Male,25-34,4,2025,4,Apr,Tuesday,17,2,0
+TXN-2026016,CUST-02388,Clothing,Men's Polo Shirt,2,1830.53,0,3661.06,2025-07-30 15:06:00,Peshawar,JazzCash,NovaMart Premium,Female,25-34,5,2025,7,Jul,Wednesday,15,3,0
+TXN-2025651,CUST-02762,Electronics,"Haier LED TV 32""",2,43487.81,5,82626.84,2025-12-31 19:23:00,Islamabad,Credit Card,NovaMart Outlet,Male,55+,3,2025,12,Dec,Wednesday,19,4,0
+TXN-2025769,CUST-02950,Toys & Kids,Jigsaw Puzzle 500pcs,2,1377.33,0,2754.66,2025-04-11 16:04:00,Quetta,Bank Transfer,NovaMart Express,Female,35-44,3,2025,4,Apr,Friday,16,2,0
+TXN-2025183,CUST-01965,Groceries,Brooke Bond Supreme 200g,1,288.23,15,245.0,2025-05-16 15:35:00,Islamabad,Debit Card,NovaMart Premium,Male,55+,5,2025,5,May,Friday,15,2,0
+TXN-2025689,CUST-UNKNOWN,Toys & Kids,Jigsaw Puzzle 500pcs,2,1348.45,0,2696.9,2025-06-15 11:46:00,Lahore,Cash,NovaMart Express,Unknown,18-24,4,2025,6,Jun,Sunday,11,2,1
+TXN-2025478,CUST-01629,Health & Beauty,LOreal Face Wash,1,745.78,0,745.78,2025-12-18 20:00:00,Rawal Pindi,Debit Card,NovaMart Express,Female,35-44,5,2025,12,Dec,Thursday,20,4,0
+TXN-2025111,CUST-02713,Groceries,Nestle Everyday Tea Whitener 400g,3,378.73,15,965.76,2025-12-04 13:28:00,Peshawar,JazzCash,NovaMart Premium,Male,45-54,4,2025,12,Dec,Thursday,13,4,0
+TXN-2025990,CUST-00120,Clothing,Women's Kameez Printed,1,2597.21,0,2597.21,2025-02-13 10:55:00,Karachi,Credit Card,NovaMart Express,Male,55+,5,2025,2,Feb,Thursday,10,1,0
+TXN-2026002,CUST-02870,Home & Kitchen,Prestige Pressure Cooker 5L,3,3906.31,5,11132.98,2025-02-03 14:50:00,Lahore,Cash,NovaMart Express,Female,25-34,1,2025,2,Feb,Monday,14,1,0
+TXN-2025579,CUST-00515,Electronics,Lenovo Laptop Bag,1,3900.73,0,3900.73,2025-11-27 20:47:00,Multan,Debit Card,NovaMart Outlet,Female,35-44,1,2025,11,Nov,Thursday,20,4,0
+TXN-2025534,CUST-02488,Clothing,Women's Kameez Printed,2,2189.3,15,3721.81,2025-07-22 15:46:00,Multan,JazzCash,NovaMart Central,Female,25-34,5,2025,7,Jul,Tuesday,15,3,0
+TXN-2025757,CUST-01115,Electronics,Lenovo Laptop Bag,1,2848.27,10,2563.44,2025-11-04 16:33:00,Rawalpindi,Debit Card,NovaMart Premium,Male,18-24,5,2025,11,Nov,Tuesday,16,4,0
+TXN-2025914,CUST-00394,Electronics,HP Wireless Mouse,2,1349.9,5,2564.81,2025-01-11 18:49:00,Islamabad,Debit Card,NovaMart Premium,Female,35-44,4,2025,1,Jan,Saturday,18,1,1
+TXN-2025262,CUST-01294,Toys & Kids,Stuffed Teddy Bear 30cm,4,1208.96,10,4352.26,2025-08-31 14:30:00,Islamabad,Cash,NovaMart Express,Female,35-44,5,2025,8,Aug,Sunday,14,3,1
+TXN-2025023,CUST-02985,Groceries,Rooh Afza 750ml,1,345.75,20,276.6,2025-05-28 11:49:00,Karachi,Bank Transfer,NovaMart Premium,Female,18-24,4,2025,5,May,Wednesday,11,2,0
+TXN-2025588,CUST-00439,Health & Beauty,Panadol Strip 10tabs,2,110.82,0,221.64,2025-04-21 19:19:00,Hyderabad,Debit Card,NovaMart Central,Male,18-24,5,2025,4,Apr,Monday,19,2,0
+TXN-2025606,CUST-UNKNOWN,Toys & Kids,Jigsaw Puzzle 500pcs,2,1141.62,0,2283.24,2025-02-02 17:46:00,Islamabad,Cash,NovaMart Express,Unknown,35-44,4,2025,2,Feb,Sunday,17,1,1
+TXN-2025583,CUST-01437,Sports & Fitness,Adidas Lite Racer Shoes,3,8169.28,0,24507.84,2025-07-04 15:48:00,Multan,Debit Card,NovaMart Central,Male,25-34,4,2025,7,Jul,Friday,15,3,0
+TXN-2025938,CUST-02507,Clothing,Kids Tracksuit,1,1394.06,5,1324.36,2025-02-18 10:12:00,Sialkot,Cash,NovaMart Central,Female,45-54,5,2025,2,Feb,Tuesday,10,1,0
+TXN-2025138,CUST-01111,Groceries,Rooh Afza 750ml,3,319.61,0,958.83,2025-11-01 17:05:00,Islamabad,Cash,NovaMart Outlet,Male,55+,5,2025,11,Nov,Saturday,17,4,1
+TXN-2025932,CUST-02137,Groceries,Nestle Everyday Tea Whitener 400g,1,386.98,0,386.98,2025-08-16 19:15:00,Karachi,Cash,NovaMart Express,Female,35-44,4,2025,8,Aug,Saturday,19,3,1
+TXN-2026055,CUST-02823,Health & Beauty,Panadol Strip 10tabs,1,116.64,10,104.98,2025-02-02 09:46:00,Lahore,Credit Card,NovaMart Central,Female,25-34,2,2025,2,Feb,Sunday,9,1,1
+TXN-2025962,CUST-00388,Stationery,Casio fx-82 Calculator,1,1985.22,20,1588.18,2025-02-07 13:04:00,Peshawar,Credit Card,NovaMart Central,Male,45-54,4,2025,2,Feb,Friday,13,1,0
+TXN-2025618,CUST-00994,Groceries,Rooh Afza 750ml,1,309.94,0,309.94,2025-03-17 15:20:00,Karachi,Debit Card,NovaMart Premium,Female,18-24,3,2025,3,Mar,Monday,15,1,0
+TXN-2025715,CUST-00725,Groceries,Nestle Everyday Tea Whitener 400g,1,372.59,15,316.7,2025-06-24 19:11:00,Karachi,Credit Card,NovaMart Express,Male,35-44,4,2025,6,Jun,Tuesday,19,2,0
+TXN-2025835,CUST-01364,Health & Beauty,Colgate Toothpaste 150g,3,237.0,0,711.0,2025-06-14 12:25:00,Rawalpindi,Credit Card,NovaMart Express,Female,18-24,4,2025,6,Jun,Saturday,12,2,1
+TXN-2025030,CUST-01596,Stationery,Ball Pen Pack 10pcs,2,166.19,5,315.76,2025-05-08 13:20:00,Karachi,Credit Card,NovaMart Outlet,Female,25-34,3,2025,5,May,Thursday,13,2,0
+TXN-2025746,CUST-01949,Electronics,Xiaomi Power Bank 20000mAh,2,4420.0,0,8840.0,2025-01-29 15:47:00,Karachi,CreditCard,NovaMart Central,Male,18-24,5,2025,1,Jan,Wednesday,15,1,0
+TXN-2025166,CUST-02829,Electronics,"Haier LED TV 32""",1,41537.44,20,33229.95,2025-10-22 15:13:00,Lahore,Cash,NovaMart Premium,Female,35-44,3,2025,10,Oct,Wednesday,15,4,0
+TXN-2025249,CUST-02056,Sports & Fitness,Yoga Mat 6mm,1,2016.66,15,1714.16,2025-10-18 16:24:00,Islamabad,Credit Card,NovaMart Central,Female,35-44,4,2025,10,Oct,Saturday,16,4,1
+TXN-2025308,CUST-01007,Stationery,Camlin Geometry Box,3,365.11,5,1040.56,2025-08-23 14:29:00,Lahore,EasyPaisa,NovaMart Central,Male,35-44,4,2025,8,Aug,Saturday,14,3,1
+TXN-2025347,CUST-00155,Home & Kitchen,PEL Refrigerator 14CuFt,1,80731.0,0,80731.0,2025-03-18 18:13:00,Rawalpindi,Cash,NovaMart Central,Female,18-24,4,2025,3,Mar,Tuesday,18,1,0
+TXN-2025335,CUST-00138,Groceries,Lays Chips Family Pack,1,169.24,0,169.24,2025-10-30 15:11:00,Karachi,Credit Card,NovaMart Premium,Male,45-54,4,2025,10,Oct,Thursday,15,4,0
+TXN-2025824,CUST-00097,Electronics,HP Wireless Mouse,5,1959.97,0,9799.85,2025-11-27 17:30:00,Lahore,Credit Card,NovaMart Outlet,Female,18-24,5,2025,11,Nov,Thursday,17,4,0
+TXN-2025854,CUST-00786,Clothing,Winter Jacket,2,7561.63,0,15123.26,2025-09-17 16:04:00,Quetta,Credit Card,NovaMart Premium,Male,35-44,4,2025,9,Sep,Wednesday,16,3,0
+TXN-2025943,CUST-00190,Electronics,Xiaomi Power Bank 20000mAh,1,4705.07,0,4705.07,2025-02-09 20:44:00,Karachi,JazzCash,NovaMart Outlet,Male,35-44,4,2025,2,Feb,Sunday,20,1,1
+TXN-2025378,CUST-02381,Stationery,Casio fx-82 Calculator,1,2092.01,5,1987.41,2025-01-05 13:40:00,Lahore,Cash,NovaMart Premium,Female,35-44,5,2025,1,Jan,Sunday,13,1,1
+TXN-2025934,CUST-01204,Groceries,Rooh Afza 750ml,1,346.23,0,346.23,2025-08-28 10:24:00,Peshawar,Cash,NovaMart Express,Male,45-54,4,2025,8,Aug,Thursday,10,3,0
+TXN-2025928,CUST-01548,Clothing,Men's Polo Shirt,1,1608.35,0,1608.35,2025-08-17 20:04:00,Islamabad,Cash,NovaMart Express,Male,18-24,4,2025,8,Aug,Sunday,20,3,1
+TXN-2025520,CUST-UNKNOWN,Stationery,Highlighter Set 6colors,1,540.08,0,486.07,2025-01-12 17:36:00,Quetta,Cash,NovaMart Premium,Unknown,25-34,4,2025,1,Jan,Sunday,17,1,1
+TXN-2025461,CUST-00798,Electronics,Lenovo Laptop Bag,3,3042.21,15,7757.64,2025-07-28 21:17:00,Lahor,Cash,NovaMart Outlet,Female,35-44,4,2025,7,Jul,Monday,21,3,0
+TXN-2025723,CUST-00230,Stationery,Stapler Heavy Duty,1,809.48,0,809.48,2025-04-12 15:36:00,Rawalpindi,EasyPaisa,NovaMart Central,Male,25-34,5,2025,4,Apr,Saturday,15,2,1
+TXN-2025623,CUST-01901,Health & Beauty,Pantene Shampoo 360ml,1,546.66,5,519.33,2025-11-01 13:52:00,Hyderabad,Credit Card,NovaMart Central,Female,25-34,5,2025,11,Nov,Saturday,13,4,1
+TXN-2025066,CUST-01837,Stationery,Spiral Notebook A5,1,352.7,0,352.7,2025-05-26 12:42:00,Karachi,Cash,NovaMart Outlet,Female,35-44,5,2025,5,May,Monday,12,2,0
+TXN-2025424,CUST-01456,Home & Kitchen,Anex Blender AG-6122,4,3916.29,0,15665.16,2025-11-29 14:15:00,Islamabad,Credit Card,NovaMart Premium,Female,35-44,4,2025,11,Nov,Saturday,14,4,1
+TXN-2025507,CUST-00397,Electronics,Samsung Galaxy A14,1,49099.52,5,46644.54,2025-03-03 14:24:00,Karachi,Cash,NovaMart Central,Male,35-44,5,2025,3,Mar,Monday,14,1,0
+TXN-2026040,CUST-02992,Toys & Kids,LEGO Classic Bricks Set,1,6827.46,0,6827.46,2025-02-06 16:56:00,Faisalabad,JazzCash,NovaMart Express,Male,35-44,4,2025,2,Feb,Thursday,16,1,0
+TXN-2025916,CUST-02634,Electronics,Lenovo Laptop Bag,1,3577.65,0,3577.65,2025-07-28 10:29:00,Lahore,Cash,NovaMart Premium,Male,55+,4,2025,7,Jul,Monday,10,3,0
+TXN-2025255,CUST-02368,Groceries,Sunflower Oil 5L,1,1970.2,10,1773.18,2025-09-14 13:51:00,Quetta,Cash,NovaMart Central,Female,25-34,1,2025,9,Sep,Sunday,13,3,1
+TXN-2025859,CUST-02264,Clothing,Men's Polo Shirt,1,1212.81,5,1152.17,2025-09-09 12:06:00,Lahor,Credit Card,NovaMart Premium,Male,25-34,4,2025,9,Sep,Tuesday,12,3,0
+TXN-2025313,CUST-00201,Home & Kitchen,PEL Refrigerator 14CuFt,2,73568.18,0,147136.36,2025-05-01 15:54:00,Lahore,Cash,NovaMart Express,Male,25-34,4,2025,5,May,Thursday,15,2,0
+TXN-2025436,CUST-01880,Electronics,Xiaomi Power Bank 20000mAh,2,3777.03,0,7554.06,2025-08-11 14:10:00,Multan,Credit Card,NovaMart Outlet,Male,18-24,4,2025,8,Aug,Monday,14,3,0
+TXN-2025222,CUST-00678,Groceries,Brooke Bond Supreme 200g,3,288.92,15,736.75,2025-09-23 17:06:00,Rawalpindi,Cash,NovaMart Outlet,Male,35-44,4,2025,9,Sep,Tuesday,17,3,0
+TXN-2025236,CUST-00164,Groceries,Lays Chips Family Pack,3,199.83,20,479.59,2025-04-29 13:21:00,Karachi,Debit Card,NovaMart Express,Female,25-34,4,2025,4,Apr,Tuesday,13,2,0
+TXN-2025900,CUST-01202,Electronics,Lenovo Laptop Bag,2,3330.38,10,5994.68,2025-02-20 16:49:00,Karachi,JazzCash,NovaMart Outlet,Female,25-34,4,2025,2,Feb,Thursday,16,1,0
+TXN-2026034,CUST-00733,Clothing,Men's Polo Shirt,1,1692.68,0,1692.68,2025-11-05 11:37:00,Faisalabad,Debit Card,NovaMart Premium,Male,25-34,5,2025,11,Nov,Wednesday,11,4,0
+TXN-2025306,CUST-00754,Clothing,Kids Tracksuit,1,1477.09,0,1477.09,2025-04-04 12:01:00,Karachi,JazzCash,NovaMart Premium,Male,35-44,4,2025,4,Apr,Friday,12,2,0
+TXN-2025412,CUST-02531,Groceries,Nestle Everyday Tea Whitener 400g,1,419.66,5,398.68,2025-05-24 15:08:00,Lahore,Credit Card,NovaMart Express,Male,18-24,5,2025,5,May,Saturday,15,2,1
+TXN-2025697,CUST-02446,Health & Beauty,Pantene Shampoo 360ml,1,586.83,0,586.83,2025-09-22 15:13:00,Multan,Cash,NovaMart Outlet,Female,55+,5,2025,9,Sep,Monday,15,3,0
+TXN-2026092,CUST-00523,Toys & Kids,Barbie Fashion Doll,5,1866.04,15,7930.67,2025-02-09 14:17:00,Rawalpindi,JazzCash,NovaMart Central,Male,35-44,5,2025,2,Feb,Sunday,14,1,1
+TXN-2025250,CUST-01963,Groceries,Olpers Full Cream Milk 1L,1,187.48,5,178.11,2025-03-15 12:04:00,Karachi,Cash,NovaMart Outlet,Female,45-54,4,2025,3,Mar,Saturday,12,1,1
+TXN-2025823,CUST-00215,Clothing,Women's Kameez Printed,1,2884.42,0,2884.42,2025-07-18 11:26:00,Quetta,Cash,NovaMart Central,Male,18-24,5,2025,7,Jul,Friday,11,3,0
+TXN-2025535,CUST-01385,Stationery,Stapler Heavy Duty,1,611.18,0,611.18,2025-08-31 12:59:00,Lahore,Cash,NovaMart Central,Female,25-34,4,2025,8,Aug,Sunday,12,3,1
+TXN-2025072,CUST-01720,Stationery,Ball Pen Pack 10pcs,2,210.89,0,421.78,2025-03-09 17:19:00,Karachi,Debit Card,NovaMart Outlet,Male,18-24,4,2025,3,Mar,Sunday,17,1,1
+TXN-2025095,CUST-02102,Sports & Fitness,Adidas Lite Racer Shoes,4,8317.04,5,31604.75,2025-08-20 17:10:00,Islamabad,Debit Card,NovaMart Premium,Male,18-24,4,2025,8,Aug,Wednesday,17,3,0
+TXN-2025556,CUST-00421,Groceries,Rooh Afza 750ml,1,313.52,0,313.52,2025-03-16 18:57:00,Lahore,Debit Card,NovaMart Premium,Male,45-54,3,2025,3,Mar,Sunday,18,1,1
+TXN-2025034,CUST-00671,Clothing,Denim Jeans Slim Fit,1,2629.38,0,2629.38,2025-01-25 10:15:00,Hyderabad,Credit Card,NovaMart Central,Female,45-54,3,2025,1,Jan,Saturday,10,1,1
+TXN-2025774,CUST-01392,Groceries,Rooh Afza 750ml,1,292.42,0,292.42,2025-07-23 15:54:00,Karachi,Cash,NovaMart Central,Male,25-34,5,2025,7,Jul,Wednesday,15,3,0
+TXN-2025825,CUST-00872,Electronics,Samsung Galaxy A14,2,46461.86,0,92923.72,2025-11-23 17:35:00,Faisalabad,Debit Card,NovaMart Outlet,Female,35-44,5,2025,11,Nov,Sunday,17,4,1
+TXN-2025260,CUST-01424,Electronics,Anker USB-C Charger,1,1345.77,0,1345.77,2025-03-22 10:15:00,Rawalpindi,Credit Card,NovaMart Premium,Male,55+,4,2025,3,Mar,Saturday,10,1,1
+TXN-2025205,CUST-02395,Electronics,Anker USB-C Charger,2,1298.92,0,2597.84,2025-03-21 12:51:00,Quetta,EasyPaisa,NovaMart Outlet,Female,25-34,4,2025,3,Mar,Friday,12,1,0
+TXN-2025514,CUST-00522,Health & Beauty,Panadol Strip 10tabs,1,112.34,0,112.34,2025-10-03 17:24:00,Karachi,Cash,NovaMart Premium,Male,45-54,3,2025,10,Oct,Friday,17,4,0
+TXN-2025744,CUST-00707,Clothing,Formal Dress Shirt,1,2714.75,10,2443.28,2025-03-28 13:36:00,Peshawar,Debit Card,NovaMart Outlet,Female,35-44,5,2025,3,Mar,Friday,13,1,0
+TXN-2025494,CUST-02539,Stationery,Stapler Heavy Duty,2,726.2,0,1452.4,2025-08-03 14:38:00,Karachi,JazzCash,NovaMart Express,Male,25-34,5,2025,8,Aug,Sunday,14,3,1
+TXN-2025366,CUST-01926,Stationery,Stapler Heavy Duty,4,662.16,0,2648.64,2025-08-24 20:37:00,Islamabad,Cash,NovaMart Central,Female,25-34,4,2025,8,Aug,Sunday,20,3,1
+TXN-2025078,CUST-01802,Sports & Fitness,Dumbbell Set 10kg Pair,2,5402.58,0,10805.16,2025-02-05 13:11:00,Rawalpindi,Debit Card,NovaMart Express,Female,45-54,4,2025,2,Feb,Wednesday,13,1,0
+TXN-2025085,CUST-01892,Home & Kitchen,PEL Refrigerator 14CuFt,1,73510.04,20,58808.03,2025-08-02 15:43:00,Multan,EasyPaisa,NovaMart Outlet,Male,25-34,5,2025,8,Aug,Saturday,15,3,1
+TXN-2025458,CUST-02884,Health & Beauty,LOreal Face Wash,3,597.88,5,1703.96,2025-08-12 20:28:00,Multan,Cash,NovaMart Outlet,Female,55+,2,2025,8,Aug,Tuesday,20,3,0
+TXN-2025083,CUST-00928,Health & Beauty,Dettol Handwash 500ml,1,344.6,0,344.6,2025-09-13 17:21:00,Lahore,Cash,NovaMart Express,Male,25-34,5,2025,9,Sep,Saturday,17,3,1
+TXN-2026091,CUST-01033,Health & Beauty,Ponds Moisturizer 200ml,1,744.41,0,744.41,2025-02-17 12:46:00,Karachi,EasyPaisa,NovaMart Central,Male,18-24,5,2025,2,Feb,Monday,12,1,0
+TXN-2025555,CUST-00829,Electronics,"Haier LED TV 32""",4,39605.94,5,150502.57,2025-01-25 18:59:00,Multan,Cash,NovaMart Central,Male,35-44,5,2025,1,Jan,Saturday,18,1,1
+TXN-2025818,CUST-01211,Home & Kitchen,Bed Sheet King Size,1,4413.34,0,4413.34,2025-11-01 14:52:00,Quetta,Cash,NovaMart Central,Male,55+,4,2025,11,Nov,Saturday,14,4,1
+TXN-2025666,CUST-00370,Home & Kitchen,Pillow Set 2pcs,1,1823.64,20,1458.91,2025-01-10 15:14:00,Rawalpindi,Cash,NovaMart Outlet,Male,55+,1,2025,1,Jan,Friday,15,1,0
+TXN-2025815,CUST-01150,Electronics,Lenovo Laptop Bag,1,2594.69,0,2594.69,2025-03-17 14:46:00,Karachii,Credit Card,NovaMart Outlet,Male,55+,5,2025,3,Mar,Monday,14,1,0
+TXN-2025480,CUST-00570,Toys & Kids,Water Gun Set,1,501.95,5,476.85,2025-03-19 19:19:00,Lahore,JazzCash,NovaMart Central,Female,25-34,1,2025,3,Mar,Wednesday,19,1,0
+TXN-2026051,CUST-UNKNOWN,Clothing,Women's Kameez Printed,1,1756.61,0,1668.78,2025-09-21 13:28:00,Rawalpindi,Cash,NovaMart Express,Unknown,55+,4,2025,9,Sep,Sunday,13,3,1
+TXN-2025351,CUST-02778,Groceries,Lays Chips Family Pack,1,198.33,0,198.33,2025-07-03 18:41:00,Lahore,JazzCash,NovaMart Outlet,Female,18-24,5,2025,7,Jul,Thursday,18,3,0
+TXN-2025443,CUST-UNKNOWN,Stationery,Sticky Notes 3x3 4pads,5,276.38,0,1312.81,2025-06-22 16:37:00,Hyderabad,Cash,NovaMart Express,Unknown,45-54,4,2025,6,Jun,Sunday,16,2,1
+TXN-2025006,CUST-02443,Groceries,Brooke Bond Supreme 200g,5,301.72,0,1508.6,2025-05-05 13:35:00,Islamabad,JazzCash,NovaMart Outlet,Male,25-34,3,2025,5,May,Monday,13,2,0
+TXN-2025311,CUST-01373,Sports & Fitness,Yoga Mat 6mm,2,1591.19,5,3023.26,2025-02-09 14:41:00,Karachi,JazzCash,NovaMart Express,Male,25-34,4,2025,2,Feb,Sunday,14,1,1
+TXN-2025405,CUST-02830,Toys & Kids,Water Gun Set,1,542.57,0,542.57,2025-09-14 15:15:00,Faisalabad,EasyPaisa,NovaMart Central,Male,45-54,5,2025,9,Sep,Sunday,15,3,1
+TXN-2025963,CUST-00308,Clothing,Winter Jacket,1,7412.0,0,7412.0,2025-07-09 14:03:00,Quetta,EasyPaisa,NovaMart Express,Female,35-44,3,2025,7,Jul,Wednesday,14,3,0
+TXN-2025867,CUST-02963,Clothing,Kids Tracksuit,1,1482.11,10,1333.9,2025-09-16 20:57:00,Lahore,JazzCash,NovaMart Premium,Male,45-54,4,2025,9,Sep,Tuesday,20,3,0
+TXN-2025105,CUST-00369,Home & Kitchen,Prestige Pressure Cooker 5L,4,3776.17,5,14349.45,2025-01-10 20:55:00,Karachi,Cash,NovaMart Central,Female,35-44,4,2025,1,Jan,Friday,20,1,0
+TXN-2025098,CUST-01229,Clothing,Women's Kameez Printed,4,2268.47,0,9073.88,2025-10-10 17:31:00,Karachi,Debit Card,NovaMart Premium,Female,35-44,5,2025,10,Oct,Friday,17,4,0
+TXN-2025426,CUST-01241,Toys & Kids,Barbie Fashion Doll,1,2233.8,0,2233.8,2025-03-07 13:47:00,Karachi,Debit Card,NovaMart Outlet,Female,35-44,5,2025,3,Mar,Friday,13,1,0
+TXN-2025862,CUST-01812,Health & Beauty,Ponds Moisturizer 200ml,1,835.32,15,710.02,2025-12-15 15:47:00,Islamabad,JazzCash,NovaMart Outlet,Female,25-34,4,2025,12,Dec,Monday,15,4,0
+TXN-2025315,CUST-01349,Electronics,Sony Earbuds WF-C500,3,11641.35,10,31431.65,2025-12-19 14:02:00,Peshawar,Cash,NovaMart Premium,Female,18-24,5,2025,12,Dec,Friday,14,4,0
+TXN-2025550,CUST-UNKNOWN,Clothing,Denim Jeans Slim Fit,1,3895.68,0,3895.68,2025-02-06 13:34:00,Peshawar,Cash,NovaMart Central,Unknown,55+,4,2025,2,Feb,Thursday,13,1,0
+TXN-2025546,CUST-UNKNOWN,Stationery,Stapler Heavy Duty,1,617.52,0,617.52,2025-02-05 16:38:00,Hyderabad,Cash,NovaMart Express,Unknown,45-54,4,2025,2,Feb,Wednesday,16,1,0
+TXN-2025063,CUST-00890,Sports & Fitness,Resistance Bands Set,2,1311.14,15,2228.94,2025-02-04 13:34:00,Faisalabad,JazzCash,NovaMart Premium,Female,55+,4,2025,2,Feb,Tuesday,13,1,0
+TXN-2025282,CUST-01522,Clothing,Men's Polo Shirt,1,1417.57,0,1417.57,2025-01-28 17:07:00,Multan,Cash,NovaMart Express,Male,35-44,5,2025,1,Jan,Tuesday,17,1,0
+TXN-2025945,CUST-01739,Toys & Kids,Remote Control Car,1,4965.47,0,4965.47,2025-03-22 15:20:00,Karachi,Credit Card,NovaMart Outlet,Male,25-34,3,2025,3,Mar,Saturday,15,1,1
+TXN-2025267,CUST-01641,Stationery,Casio fx-82 Calculator,1,1966.0,5,1867.7,2025-10-04 14:39:00,Lahore,Credit Card,NovaMart Premium,Male,25-34,5,2025,10,Oct,Saturday,14,4,1
+TXN-2025239,CUST-01774,Groceries,Sunflower Oil 5L,1,1829.3,0,1829.3,2025-02-24 17:01:00,Karachi,JazzCash,NovaMart Outlet,Female,25-34,4,2025,2,Feb,Monday,17,1,0
+TXN-2025483,CUST-00651,Clothing,Casual Sneakers,1,4934.75,15,4194.54,2025-06-28 20:25:00,Peshawar,Cash,NovaMart Outlet,Male,25-34,5,2025,6,Jun,Saturday,20,2,1
+TXN-2025146,CUST-02979,Groceries,Nestle Everyday Tea Whitener 400g,1,372.81,10,335.53,2025-06-06 21:20:00,Lahore,EasyPaisa,NovaMart Central,Male,35-44,4,2025,6,Jun,Friday,21,2,0
+TXN-2026072,CUST-01475,Toys & Kids,Ludo Deluxe Board Game,1,692.06,0,692.06,2025-06-26 13:58:00,Lahore,Credit Card,NovaMart Outlet,Female,55+,5,2025,6,Jun,Thursday,13,2,0
+TXN-2025491,CUST-00434,Clothing,Casual Sneakers,3,5037.5,0,15112.5,2025-02-26 18:42:00,Rawalpindi,Debit Card,NovaMart Express,Female,55+,3,2025,2,Feb,Wednesday,18,1,0
+TXN-2025669,CUST-00392,Groceries,Tapal Danedar Tea 900g,1,829.3,0,829.3,2025-05-24 12:50:00,Faisalabad,JazzCash,NovaMart Express,Male,18-24,5,2025,5,May,Saturday,12,2,1
+TXN-2025119,CUST-00255,Electronics,Xiaomi Power Bank 20000mAh,3,3576.83,15,9120.92,2025-11-04 13:08:00,Lahore,JazzCash,NovaMart Express,Male,25-34,4,2025,11,Nov,Tuesday,13,4,0
+TXN-2025724,CUST-UNKNOWN,Sports & Fitness,Wilson Badminton Racket,2,2565.34,0,5130.68,2025-08-19 16:15:00,Sialkot,Cash,NovaMart Central,Unknown,18-24,4,2025,8,Aug,Tuesday,16,3,0
+TXN-2025671,CUST-01628,Sports & Fitness,Resistance Bands Set,1,912.05,0,912.05,2025-09-09 15:58:00,Lahore,Debit Card,NovaMart Central,Male,35-44,4,2025,9,Sep,Tuesday,15,3,0
+TXN-2025251,CUST-02455,Groceries,Olpers Full Cream Milk 1L,1,202.94,5,192.79,2025-04-19 12:53:00,Karachi,Debit Card,NovaMart Outlet,Male,25-34,5,2025,4,Apr,Saturday,12,2,1
+TXN-2025357,CUST-00178,Sports & Fitness,Skipping Rope Steel,1,549.25,15,466.86,2025-11-22 13:03:00,Karachi,Credit Card,NovaMart Outlet,Male,25-34,4,2025,11,Nov,Saturday,13,4,1
+TXN-2025312,CUST-02551,Clothing,Men's Polo Shirt,1,1745.46,10,1570.91,2025-10-28 17:09:00,Islamabad,Debit Card,NovaMart Central,Male,55+,5,2025,10,Oct,Tuesday,17,4,0
+TXN-2025010,CUST-01016,Groceries,Nestle Everyday Tea Whitener 400g,3,415.02,5,1182.81,2025-11-16 20:10:00,Faisalabad,Credit Card,NovaMart Central,Female,25-34,4,2025,11,Nov,Sunday,20,4,1
+TXN-2025800,CUST-02598,Groceries,Sunflower Oil 5L,1,2154.6,0,2154.6,2025-01-16 20:36:00,Lahore,Credit Card,NovaMart Express,Male,18-24,5,2025,1,Jan,Thursday,20,1,0
+TXN-2025303,CUST-01840,Groceries,Brooke Bond Supreme 200g,2,311.24,10,560.23,2025-05-08 12:57:00,Faisalabad,Credit Card,NovaMart Premium,Male,25-34,4,2025,5,May,Thursday,12,2,0
+TXN-2025197,CUST-00828,Sports & Fitness,Yoga Mat 6mm,1,2449.25,15,2081.86,2025-10-29 16:36:00,Karachi,Cash,NovaMart Outlet,Male,18-24,4,2025,10,Oct,Wednesday,16,4,0
+TXN-2025784,CUST-02000,Sports & Fitness,Football Size 5,4,2004.88,5,7618.54,2025-03-20 13:42:00,Lahore,Debit Card,NovaMart Express,Female,45-54,4,2025,3,Mar,Thursday,13,1,0
+TXN-2025371,CUST-00498,Home & Kitchen,Kitchen Knife Set,2,929.15,0,1858.3,2025-04-04 10:20:00,Lahore,Credit Card,NovaMart Premium,Female,25-34,5,2025,4,Apr,Friday,10,2,0
+TXN-2025082,CUST-01269,Home & Kitchen,Dawlance Microwave 25L,1,21496.44,0,21496.44,2025-05-24 19:58:00,Hyderabad,Debit Card,NovaMart Central,Female,18-24,5,2025,5,May,Saturday,19,2,1
+TXN-2025390,CUST-01863,Health & Beauty,Gillette Fusion Razor,3,1653.78,15,4217.14,2025-07-04 13:27:00,Lahore,Debit Card,NovaMart Express,Female,55+,4,2025,7,Jul,Friday,13,3,0
+TXN-2025582,CUST-02525,Groceries,Brooke Bond Supreme 200g,2,318.05,15,540.69,2025-03-18 16:34:00,Quetta,Cash,NovaMart Central,Male,45-54,3,2025,3,Mar,Tuesday,16,1,0
+TXN-2026001,CUST-00722,Clothing,Kids Tracksuit,1,1345.16,0,1345.16,2025-04-30 16:46:00,Faisalabad,Credit Card,NovaMart Premium,Female,45-54,3,2025,4,Apr,Wednesday,16,2,0
+TXN-2025802,CUST-02350,Clothing,Formal Dress Shirt,1,2995.38,0,2995.38,2025-06-29 12:41:00,Sialkot,Debit Card,NovaMart Central,Male,25-34,2,2025,6,Jun,Sunday,12,2,1
+TXN-2025630,CUST-00291,Health & Beauty,Himalaya Neem Face Wash,1,374.72,10,337.25,2025-09-28 11:11:00,Islamabad,CreditCard,NovaMart Outlet,Male,45-54,4,2025,9,Sep,Sunday,11,3,1
+TXN-2025622,CUST-00600,Electronics,Xiaomi Power Bank 20000mAh,1,3973.95,0,3973.95,2025-01-27 15:25:00,Peshawar,Cash,NovaMart Outlet,Female,45-54,4,2025,1,Jan,Monday,15,1,0
+TXN-2025240,CUST-01563,Home & Kitchen,Anex Blender AG-6122,1,4111.15,15,3494.48,2025-06-01 15:07:00,Karachi,JazzCash,NovaMart Outlet,Female,35-44,4,2025,6,Jun,Sunday,15,2,1
+TXN-2025465,CUST-00443,Home & Kitchen,PEL Refrigerator 14CuFt,3,75758.8,10,204548.76,2025-02-20 18:14:00,Rawalpindi,Credit Card,NovaMart Express,Male,35-44,4,2025,2,Feb,Thursday,18,1,0
+TXN-2025212,CUST-00927,Groceries,Basmati Rice 5kg,1,1215.09,0,1215.09,2025-10-14 16:25:00,Karachi,Credit Card,NovaMart Express,Male,18-24,1,2025,10,Oct,Tuesday,16,4,0
+TXN-2025644,CUST-01133,Clothing,Formal Dress Shirt,1,1820.72,0,1820.72,2025-05-19 17:53:00,Lahore,Debit Card,NovaMart Central,Male,25-34,4,2025,5,May,Monday,17,2,0
+TXN-2025923,CUST-00986,Electronics,Lenovo Laptop Bag,2,3091.91,5,5874.63,2025-03-29 10:47:00,Peshawar,Cash,NovaMart Express,Male,35-44,3,2025,3,Mar,Saturday,10,1,1
+TXN-2025145,CUST-01963,Stationery,Spiral Notebook A5,1,307.23,10,276.51,2025-05-01 20:21:00,Faisalabad,Debit Card,NovaMart Express,Female,25-34,5,2025,5,May,Thursday,20,2,0
+TXN-2025690,CUST-00638,Clothing,Women's Kameez Printed,2,2332.81,0,4665.62,2025-05-29 13:18:00,Faisalabad,Credit Card,NovaMart Outlet,Male,18-24,5,2025,5,May,Thursday,13,2,0
+TXN-2025993,CUST-00012,Home & Kitchen,Bed Sheet King Size,5,3655.22,0,18276.1,2025-07-10 13:01:00,Faisalabad,Cash,NovaMart Outlet,Female,35-44,5,2025,7,Jul,Thursday,13,3,0
+TXN-2025616,CUST-02310,Clothing,Sports T-Shirt,2,1290.16,0,2580.32,2025-07-19 20:18:00,Lahore,EasyPaisa,NovaMart Express,Female,55+,4,2025,7,Jul,Saturday,20,3,1
+TXN-2025228,CUST-01855,Electronics,Sony Earbuds WF-C500,1,10264.39,20,8211.51,2025-10-06 17:08:00,Quetta,JazzCash,NovaMart Premium,Female,25-34,4,2025,10,Oct,Monday,17,4,0
+TXN-2026062,CUST-02954,Toys & Kids,Remote Control Car,2,3574.25,0,7148.5,2025-02-20 17:25:00,Islamabad,Cash,NovaMart Premium,Male,45-54,5,2025,2,Feb,Thursday,17,1,0
+TXN-2025667,CUST-01358,Health & Beauty,Ponds Moisturizer 200ml,1,829.66,0,829.66,2025-12-11 20:49:00,Karachi,Debit Card,NovaMart Premium,Male,25-34,3,2025,12,Dec,Thursday,20,4,0
+TXN-2025536,CUST-01897,Health & Beauty,Gillette Fusion Razor,1,1489.87,0,1489.87,2025-11-08 18:54:00,Rawalpindi,Credit Card,NovaMart Central,Female,55+,5,2025,11,Nov,Saturday,18,4,1
+TXN-2026019,CUST-00659,Health & Beauty,Gillette Fusion Razor,2,1756.68,10,3162.02,2025-02-03 21:01:00,Peshawar,Bank Transfer,NovaMart Express,Female,55+,4,2025,2,Feb,Monday,21,1,0
+TXN-2025178,CUST-01287,Sports & Fitness,Cycling Gloves,1,790.83,0,790.83,2025-03-08 14:54:00,Karachi,JazzCash,NovaMart Outlet,Male,25-34,3,2025,3,Mar,Saturday,14,1,1
+TXN-2025711,CUST-01713,Electronics,HP Wireless Mouse,2,1993.7,0,3987.4,2025-09-05 14:54:00,Karachi,JazzCash,NovaMart Express,Female,35-44,4,2025,9,Sep,Friday,14,3,0
+TXN-2025741,CUST-00668,Stationery,Camlin Geometry Box,1,342.55,0,342.55,2025-07-01 15:47:00,Lahore,JazzCash,NovaMart Central,Male,55+,4,2025,7,Jul,Tuesday,15,3,0
+TXN-2025136,CUST-01095,Toys & Kids,Art & Craft Kit,4,1844.93,0,7379.72,2025-01-17 17:34:00,Karachi,Cash,NovaMart Premium,Male,35-44,4,2025,1,Jan,Friday,17,1,0
+TXN-2025632,CUST-01371,Groceries,Basmati Rice 5kg,4,1418.38,5,5389.84,2025-02-18 16:54:00,Hyderabad,Bank Transfer,NovaMart Express,Male,18-24,4,2025,2,Feb,Tuesday,16,1,0
+TXN-2025591,CUST-01097,Clothing,Men's Polo Shirt,3,1873.39,0,5620.17,2025-09-24 13:07:00,Lahore,EasyPaisa,NovaMart Express,Male,25-34,3,2025,9,Sep,Wednesday,13,3,0
+TXN-2025524,CUST-02356,Health & Beauty,Pantene Shampoo 360ml,4,615.2,0,2460.8,2025-09-27 16:45:00,Rawal Pindi,Cash,NovaMart Express,Female,45-54,3,2025,9,Sep,Saturday,16,3,1
+TXN-2025008,CUST-02454,Health & Beauty,Dettol Handwash 500ml,1,367.05,5,348.7,2025-12-29 17:32:00,Rawalpindi,Cash,NovaMart Central,Male,35-44,5,2025,12,Dec,Monday,17,4,0
+TXN-2025890,CUST-01864,Toys & Kids,Remote Control Car,2,3964.79,5,7533.1,2025-01-04 15:52:00,Islamabad,Debit Card,NovaMart Central,Male,25-34,5,2025,1,Jan,Saturday,15,1,1
+TXN-2025156,CUST-01098,Health & Beauty,Gillette Fusion Razor,1,1334.91,10,1201.42,2025-03-03 16:50:00,Rawalpindi,JazzCash,NovaMart Central,Female,35-44,3,2025,3,Mar,Monday,16,1,0
+TXN-2025761,CUST-02573,Stationery,Highlighter Set 6colors,2,513.06,0,1026.12,2025-02-04 21:15:00,Faisalabad,Credit Card,NovaMart Outlet,Female,35-44,4,2025,2,Feb,Tuesday,21,1,0
+TXN-2025834,CUST-02619,Stationery,Spiral Notebook A5,1,330.69,10,297.62,2025-12-16 18:45:00,Rawalpindi,Credit Card,NovaMart Premium,Female,45-54,4,2025,12,Dec,Tuesday,18,4,0
+TXN-2025358,CUST-00402,Groceries,Sunflower Oil 5L,1,1828.34,0,1828.34,2025-02-24 10:34:00,Rawalpindi,Credit Card,NovaMart Express,Female,25-34,3,2025,2,Feb,Monday,10,1,0
+TXN-2025528,CUST-02473,Sports & Fitness,Cycling Gloves,2,938.19,0,1876.38,2025-11-24 13:40:00,Karachii,JazzCash,NovaMart Central,Female,55+,4,2025,11,Nov,Monday,13,4,0
+TXN-2025733,CUST-01330,Groceries,Brooke Bond Supreme 200g,1,283.56,0,283.56,2025-07-23 20:45:00,Islamabad,Credit Card,NovaMart Central,Female,18-24,3,2025,7,Jul,Wednesday,20,3,0
+TXN-2025224,CUST-01489,Groceries,Basmati Rice 5kg,3,1530.36,20,3672.86,2025-08-24 17:06:00,Rawalpindi,EasyPaisa,NovaMart Premium,Male,35-44,4,2025,8,Aug,Sunday,17,3,1
+TXN-2025330,CUST-00371,Home & Kitchen,Dawlance Microwave 25L,1,22932.14,15,19492.32,2025-10-27 15:37:00,Karachi,Cash,NovaMart Central,Female,25-34,4,2025,10,Oct,Monday,15,4,0
+TXN-2025742,CUST-01640,Groceries,Nestle Everyday Tea Whitener 400g,1,364.72,0,364.72,2025-04-04 20:47:00,Islamabad,Credit Card,NovaMart Outlet,Female,18-24,4,2025,4,Apr,Friday,20,2,0
+TXN-2025459,CUST-00522,Toys & Kids,Barbie Fashion Doll,2,2669.92,0,5339.84,2025-12-20 13:12:00,Rawalpindi,Debit Card,NovaMart Central,Male,18-24,3,2025,12,Dec,Saturday,13,4,1
+TXN-2025502,CUST-01042,Health & Beauty,Ponds Moisturizer 200ml,1,930.37,5,883.85,2025-01-21 15:27:00,Karachi,Debit Card,NovaMart Express,Male,25-34,4,2025,1,Jan,Tuesday,15,1,0
+TXN-2026030,CUST-00397,Health & Beauty,Colgate Toothpaste 150g,2,229.01,5,435.12,2025-08-25 17:57:00,Rawalpindi,Cash,NovaMart Express,Male,45-54,4,2025,8,Aug,Monday,17,3,0
+TXN-2025847,CUST-00099,Clothing,Casual Sneakers,1,3700.82,10,3330.74,2025-09-04 15:02:00,Faisalabad,Credit Card,NovaMart Central,Male,55+,5,2025,9,Sep,Thursday,15,3,0
+TXN-2025997,CUST-02990,Stationery,A4 Paper Ream 500sheets,1,815.05,10,733.54,2025-07-21 11:36:00,Hyderabad,EasyPaisa,NovaMart Express,Male,18-24,3,2025,7,Jul,Monday,11,3,0
+TXN-2025614,CUST-00218,Home & Kitchen,Bed Sheet King Size,2,3747.59,0,7495.18,2025-02-01 15:43:00,Lahore,JazzCash,NovaMart Central,Male,35-44,3,2025,2,Feb,Saturday,15,1,1
+TXN-2025731,CUST-01530,Health & Beauty,Panadol Strip 10tabs,3,94.14,20,225.94,2025-10-13 18:00:00,Multan,Cash,NovaMart Premium,Male,25-34,5,2025,10,Oct,Monday,18,4,0
+TXN-2025846,CUST-02601,Electronics,JBL Bluetooth Speaker,4,6721.07,5,25540.07,2025-12-15 18:58:00,Islamabad,Credit Card,NovaMart Premium,Female,18-24,4,2025,12,Dec,Monday,18,4,0
+TXN-2025526,CUST-00550,Sports & Fitness,Cycling Gloves,2,963.7,5,1831.03,2025-09-15 12:31:00,Faisalabad,Cash,NovaMart Express,Male,25-34,4,2025,9,Sep,Monday,12,3,0
+TXN-2026047,CUST-02192,Groceries,Sunflower Oil 5L,1,2137.02,0,2137.02,2025-02-23 19:28:00,Lahore,EasyPaisa,NovaMart Express,Female,25-34,4,2025,2,Feb,Sunday,19,1,1
+TXN-2025734,CUST-02865,Clothing,Kids Tracksuit,1,1449.47,0,1449.47,2025-12-14 18:55:00,Rawalpindi,Debit Card,NovaMart Central,Female,35-44,3,2025,12,Dec,Sunday,18,4,1
+TXN-2025237,CUST-01313,Health & Beauty,Gillette Fusion Razor,1,1524.14,15,1295.52,2025-11-29 14:58:00,Peshawar,Credit Card,NovaMart Express,Female,35-44,4,2025,11,Nov,Saturday,14,4,1
+TXN-2025597,CUST-00152,Clothing,Casual Sneakers,1,4209.27,0,4209.27,2025-05-14 12:28:00,Multan,Debit Card,NovaMart Outlet,Male,55+,4,2025,5,May,Wednesday,12,2,0
+TXN-2025679,CUST-02523,Clothing,Denim Jeans Slim Fit,1,2385.36,0,2385.36,2025-10-25 15:16:00,Rawalpindi,Cash,NovaMart Premium,Female,25-34,5,2025,10,Oct,Saturday,15,4,1
+TXN-2026094,CUST-UNKNOWN,Electronics,HP Wireless Mouse,5,1202.31,0,6011.55,2025-09-03 15:56:00,Faisalabad,Cash,NovaMart Central,Unknown,35-44,4,2025,9,Sep,Wednesday,15,3,0
+TXN-2025441,CUST-02926,Electronics,Anker USB-C Charger,1,1200.7,0,1200.7,2025-05-21 15:07:00,Lahore,JazzCash,NovaMart Express,Male,25-34,4,2025,5,May,Wednesday,15,2,0
+TXN-2025754,CUST-01952,Sports & Fitness,Dumbbell Set 10kg Pair,5,4581.64,0,22908.2,2025-03-04 17:40:00,Karachi,Cash,NovaMart Outlet,Female,25-34,5,2025,3,Mar,Tuesday,17,1,0
+TXN-2025911,CUST-00904,Health & Beauty,Himalaya Neem Face Wash,2,395.22,0,790.44,2025-03-14 18:30:00,Faisalabad,Cash,NovaMart Outlet,Female,55+,4,2025,3,Mar,Friday,18,1,0
+TXN-2025860,CUST-01992,Home & Kitchen,Pillow Set 2pcs,5,1337.47,0,6687.35,2025-06-27 13:01:00,Rawalpindi,Cash,NovaMart Premium,Male,18-24,5,2025,6,Jun,Friday,13,2,0
+TXN-2025164,CUST-01570,Clothing,Kids Tracksuit,1,1415.56,0,1415.56,2025-11-03 17:00:00,Lahor,Cash,NovaMart Express,Female,35-44,4,2025,11,Nov,Monday,17,4,0
+TXN-2025229,CUST-02910,Stationery,Spiral Notebook A5,4,342.54,5,1301.65,2025-03-05 15:44:00,Karachi,Debit Card,NovaMart Express,Female,35-44,5,2025,3,Mar,Wednesday,15,1,0
+TXN-2025542,CUST-01122,Groceries,Sunflower Oil 5L,2,2080.46,0,4160.92,2025-05-23 13:52:00,Sialkot,Debit Card,NovaMart Central,Male,25-34,3,2025,5,May,Friday,13,2,0
+TXN-2025939,CUST-02401,Toys & Kids,Art & Craft Kit,2,1823.13,0,3646.26,2025-09-16 18:20:00,Karachi,EasyPaisa,NovaMart Central,Male,45-54,5,2025,9,Sep,Tuesday,18,3,0
+TXN-2025213,CUST-01404,Electronics,Anker USB-C Charger,3,916.91,0,2750.73,2025-12-29 14:08:00,Lahore,JazzCash,NovaMart Express,Female,25-34,5,2025,12,Dec,Monday,14,4,0
+TXN-2025982,CUST-02218,Stationery,Highlighter Set 6colors,1,508.46,0,508.46,2025-07-14 11:20:00,Lahore,Cash,NovaMart Premium,Female,45-54,4,2025,7,Jul,Monday,11,3,0
+TXN-2025080,CUST-00161,Sports & Fitness,Cycling Gloves,2,963.0,15,1637.1,2025-09-26 17:02:00,Islamabad,JazzCash,NovaMart Express,Female,55+,2,2025,9,Sep,Friday,17,3,0
+TXN-2025149,CUST-01413,Sports & Fitness,Cycling Gloves,1,1179.43,0,1179.43,2025-11-20 10:41:00,Lahore,Credit Card,NovaMart Express,Male,25-34,4,2025,11,Nov,Thursday,10,4,0
+TXN-2025532,CUST-01251,Sports & Fitness,Skipping Rope Steel,5,454.93,10,2047.19,2025-11-12 17:15:00,Islamabad,Cash,NovaMart Express,Female,35-44,5,2025,11,Nov,Wednesday,17,4,0
+TXN-2025530,CUST-00741,Home & Kitchen,PEL Refrigerator 14CuFt,1,71433.11,5,67861.45,2025-02-26 20:11:00,Lahore,Cash,NovaMart Outlet,Male,55+,3,2025,2,Feb,Wednesday,20,1,0
+TXN-2025134,CUST-02147,Toys & Kids,Stuffed Teddy Bear 30cm,2,1076.5,0,2153.0,2025-09-21 20:21:00,Karachi,Debit Card,NovaMart Central,Male,55+,4,2025,9,Sep,Sunday,20,3,1
+TXN-2025853,CUST-01403,Groceries,Lays Chips Family Pack,1,175.57,10,158.01,2025-06-10 18:38:00,Faisalabad,Debit Card,NovaMart Outlet,Male,35-44,2,2025,6,Jun,Tuesday,18,2,0
+TXN-2025409,CUST-01155,Health & Beauty,Colgate Toothpaste 150g,2,239.29,10,430.72,2025-10-03 12:15:00,Lahore,Credit Card,NovaMart Premium,Male,25-34,5,2025,10,Oct,Friday,12,4,0
+TXN-2026057,CUST-02270,Toys & Kids,Ludo Deluxe Board Game,1,820.35,0,820.35,2025-01-26 15:20:00,Karachi,JazzCash,NovaMart Premium,Male,25-34,4,2025,1,Jan,Sunday,15,1,1
+TXN-2025508,CUST-01551,Health & Beauty,Himalaya Neem Face Wash,1,411.52,0,411.52,2025-04-17 18:24:00,Lahore,EasyPaisa,NovaMart Outlet,Female,45-54,5,2025,4,Apr,Thursday,18,2,0
+TXN-2025787,CUST-02330,Electronics,Sony Earbuds WF-C500,1,10033.38,5,9531.71,2025-03-03 18:51:00,Karachi,EasyPaisa,NovaMart Central,Male,45-54,5,2025,3,Mar,Monday,18,1,0
+TXN-2025505,CUST-01993,Health & Beauty,Dettol Handwash 500ml,1,357.37,0,357.37,2025-12-10 09:10:00,Lahore,Credit Card,NovaMart Express,Male,25-34,5,2025,12,Dec,Wednesday,9,4,0
+TXN-2025714,CUST-01876,Groceries,Lays Chips Family Pack,5,184.22,0,921.1,2025-10-24 15:01:00,Rawalpindi,JazzCash,NovaMart Express,Female,35-44,5,2025,10,Oct,Friday,15,4,0
+TXN-2026010,CUST-00102,Sports & Fitness,Adidas Lite Racer Shoes,1,8532.49,20,6825.99,2025-08-04 13:29:00,Hyderabad,Credit Card,NovaMart Express,Male,45-54,3,2025,8,Aug,Monday,13,3,0
+TXN-2025001,CUST-02933,Clothing,Women's Kameez Printed,4,2650.39,0,10601.56,2025-11-04 10:17:00,Islamabad,Cash,NovaMart Express,Male,25-34,4,2025,11,Nov,Tuesday,10,4,0
+TXN-2025361,CUST-02424,Stationery,Stapler Heavy Duty,3,757.05,0,2271.15,2025-09-28 13:26:00,Multan,JazzCash,NovaMart Express,Male,25-34,4,2025,9,Sep,Sunday,13,3,1
+TXN-2025994,CUST-00536,Clothing,Formal Dress Shirt,4,2711.69,5,10304.42,2025-03-19 12:04:00,Karachi,JazzCash,NovaMart Express,Female,18-24,5,2025,3,Mar,Wednesday,12,1,0
+TXN-2025476,CUST-01207,Groceries,Brooke Bond Supreme 200g,3,304.54,0,913.62,2025-10-02 15:39:00,Lahore,Cash,NovaMart Central,Male,25-34,2,2025,10,Oct,Thursday,15,4,0
+TXN-2025702,CUST-01744,Sports & Fitness,Skipping Rope Steel,1,530.47,0,530.47,2025-02-05 09:59:00,Peshawar,Credit Card,NovaMart Premium,Male,55+,5,2025,2,Feb,Wednesday,9,1,0
+TXN-2025849,CUST-00875,Groceries,Basmati Rice 5kg,2,1245.1,5,2365.69,2025-03-24 17:00:00,Karachi,EasyPaisa,NovaMart Outlet,Male,25-34,3,2025,3,Mar,Monday,17,1,0
+TXN-2025173,CUST-02342,Stationery,Camlin Geometry Box,4,357.4,5,1358.12,2025-04-02 15:24:00,Lahore,Credit Card,NovaMart Central,Female,55+,4,2025,4,Apr,Wednesday,15,2,0
+TXN-2025451,CUST-02020,Sports & Fitness,Yoga Mat 6mm,1,1820.04,0,1820.04,2025-10-31 14:01:00,Lahore,JazzCash,NovaMart Express,Male,18-24,3,2025,10,Oct,Friday,14,4,0
+TXN-2025126,CUST-02449,Stationery,Camlin Geometry Box,1,393.33,10,354.0,2025-06-05 14:59:00,Quetta,Cash,NovaMart Outlet,Male,18-24,4,2025,6,Jun,Thursday,14,2,0
+TXN-2026027,CUST-00838,Electronics,"Haier LED TV 32""",3,39286.71,5,111967.12,2025-08-20 16:27:00,Multan,JazzCash,NovaMart Express,Female,35-44,5,2025,8,Aug,Wednesday,16,3,0
+TXN-2025531,CUST-02972,Stationery,Sticky Notes 3x3 4pads,1,271.08,5,257.53,2025-06-26 17:50:00,Faisalabad,Debit Card,NovaMart Central,Male,25-34,5,2025,6,Jun,Thursday,17,2,0
+TXN-2025091,CUST-02633,Clothing,Women's Kameez Printed,2,2086.16,5,3963.7,2025-08-02 16:23:00,Multan,JazzCash,NovaMart Premium,Female,18-24,4,2025,8,Aug,Saturday,16,3,1
+TXN-2025182,CUST-02652,Health & Beauty,Himalaya Neem Face Wash,2,353.83,0,707.66,2025-01-31 15:10:00,Karachi,Cash,NovaMart Express,Female,25-34,3,2025,1,Jan,Friday,15,1,0
+TXN-2025598,CUST-01612,Sports & Fitness,Yoga Mat 6mm,1,2329.85,0,2329.85,2025-09-30 16:21:00,Lahore,Credit Card,NovaMart Central,Male,35-44,4,2025,9,Sep,Tuesday,16,3,0
+TXN-2025897,CUST-00425,Health & Beauty,Dettol Handwash 500ml,1,296.23,0,296.23,2025-05-24 10:58:00,Faisalabad,Cash,NovaMart Outlet,Female,18-24,5,2025,5,May,Saturday,10,2,1
+TXN-2025252,CUST-02553,Toys & Kids,Jigsaw Puzzle 500pcs,5,1169.52,10,5262.84,2025-10-21 10:46:00,Karachi,JazzCash,NovaMart Express,Male,45-54,5,2025,10,Oct,Tuesday,10,4,0
+TXN-2025070,CUST-00425,Electronics,Sony Earbuds WF-C500,1,10845.05,10,9760.55,2025-02-24 17:51:00,Hyderabad,Credit Card,NovaMart Premium,Male,55+,4,2025,2,Feb,Monday,17,1,0
+TXN-2025132,CUST-01312,Clothing,Winter Jacket,2,5832.32,0,11664.64,2025-10-23 13:58:00,Lahore,Credit Card,NovaMart Outlet,Female,35-44,5,2025,10,Oct,Thursday,13,4,0
+TXN-2025301,CUST-01612,Stationery,A4 Paper Ream 500sheets,2,746.6,0,1493.2,2025-07-17 21:06:00,Quetta,Cash,NovaMart Outlet,Male,55+,4,2025,7,Jul,Thursday,21,3,0
+TXN-2025637,CUST-02889,Electronics,HP Wireless Mouse,1,1998.47,0,1998.47,2025-01-05 15:18:00,Faisalabad,Debit Card,NovaMart Outlet,Male,25-34,4,2025,1,Jan,Sunday,15,1,1
+TXN-2025327,CUST-01331,Sports & Fitness,Football Size 5,2,2484.48,0,4968.96,2025-03-03 18:58:00,Lahore,Cash,NovaMart Premium,Female,55+,4,2025,3,Mar,Monday,18,1,0
+TXN-2025912,CUST-02697,Clothing,Kids Tracksuit,2,1789.19,5,3399.46,2025-08-29 12:49:00,Karachi,Cash,NovaMart Premium,Female,35-44,5,2025,8,Aug,Friday,12,3,0
+TXN-2025500,CUST-01574,Clothing,Kids Tracksuit,3,1003.34,5,2859.52,2025-07-18 16:04:00,Lahore,Credit Card,NovaMart Premium,Female,55+,5,2025,7,Jul,Friday,16,3,0
+TXN-2025603,CUST-00533,Health & Beauty,Dettol Handwash 500ml,3,314.05,10,847.94,2025-04-01 17:29:00,Islamabad,Credit Card,NovaMart Central,Female,45-54,5,2025,4,Apr,Tuesday,17,2,0
+TXN-2025826,CUST-01850,Health & Beauty,LOreal Face Wash,1,677.72,0,677.72,2025-03-18 09:40:00,Rawalpindi,Credit Card,NovaMart Premium,Female,55+,4,2025,3,Mar,Tuesday,9,1,0
+TXN-2025496,CUST-00752,Groceries,Nestle Everyday Tea Whitener 400g,1,364.41,15,309.75,2025-07-21 18:48:00,Sialkot,JazzCash,NovaMart Premium,Male,35-44,4,2025,7,Jul,Monday,18,3,0
+TXN-2025339,CUST-00741,Stationery,A4 Paper Ream 500sheets,4,850.96,5,3233.65,2025-05-05 16:17:00,Faisalabad,Credit Card,NovaMart Outlet,Male,25-34,5,2025,5,May,Monday,16,2,0
+TXN-2025909,CUST-02007,Stationery,Highlighter Set 6colors,2,425.74,0,851.48,2025-03-24 17:07:00,Faisalabad,EasyPaisa,NovaMart Express,Male,25-34,4,2025,3,Mar,Monday,17,1,0
+TXN-2025165,CUST-01687,Clothing,Denim Jeans Slim Fit,2,3354.84,0,6709.68,2025-02-24 18:06:00,Rawalpindi,Debit Card,NovaMart Express,Male,25-34,5,2025,2,Feb,Monday,18,1,0
+TXN-2025029,CUST-02923,Groceries,Olpers Full Cream Milk 1L,1,209.75,0,209.75,2025-10-27 17:32:00,Lahore,Debit Card,NovaMart Central,Female,35-44,4,2025,10,Oct,Monday,17,4,0
+TXN-2025517,CUST-01997,Clothing,Casual Sneakers,3,3676.44,0,11029.32,2025-12-19 15:53:00,Faisalabad,EasyPaisa,NovaMart Express,Male,45-54,2,2025,12,Dec,Friday,15,4,0
+TXN-2025194,CUST-00374,Groceries,Nestle Everyday Tea Whitener 400g,1,361.96,0,361.96,2025-05-27 17:38:00,Peshawar,Credit Card,NovaMart Premium,Female,35-44,5,2025,5,May,Tuesday,17,2,0
+TXN-2025704,CUST-00602,Groceries,Tapal Danedar Tea 900g,1,751.81,5,714.22,2025-03-03 16:08:00,Quetta,EasyPaisa,NovaMart Central,Female,18-24,4,2025,3,Mar,Monday,16,1,0
+TXN-2025170,CUST-00672,Clothing,Casual Sneakers,2,3847.96,0,7695.92,2025-12-14 17:54:00,Faisalabad,Debit Card,NovaMart Central,Male,18-24,5,2025,12,Dec,Sunday,17,4,1
+TXN-2026048,CUST-02058,Home & Kitchen,Dawlance Microwave 25L,2,18093.42,10,32568.16,2025-06-23 11:38:00,Multan,Debit Card,NovaMart Outlet,Male,35-44,3,2025,6,Jun,Monday,11,2,0
+TXN-2025174,CUST-00822,Electronics,Samsung Galaxy A14,1,51678.56,0,51678.56,2025-06-04 15:57:00,Lahore,EasyPaisa,NovaMart Premium,Female,18-24,4,2025,6,Jun,Wednesday,15,2,0
+TXN-2025519,CUST-02668,Stationery,Casio fx-82 Calculator,1,2120.27,0,2120.27,2025-03-11 18:37:00,Faisalabad,Cash,NovaMart Express,Male,25-34,5,2025,3,Mar,Tuesday,18,1,0
+TXN-2025983,CUST-00162,Groceries,Tapal Danedar Tea 900g,1,726.67,15,617.67,2025-11-11 17:27:00,Quetta,Bank Transfer,NovaMart Central,Female,55+,1,2025,11,Nov,Tuesday,17,4,0
+TXN-2025635,CUST-01441,Health & Beauty,Ponds Moisturizer 200ml,1,796.78,0,796.78,2025-10-28 14:43:00,Faisalabad,Debit Card,NovaMart Premium,Male,25-34,5,2025,10,Oct,Tuesday,14,4,0
+TXN-2025492,CUST-00418,Sports & Fitness,Wilson Badminton Racket,1,2934.04,10,2640.64,2025-06-11 12:25:00,Faisalabad,Credit Card,NovaMart Outlet,Male,55+,4,2025,6,Jun,Wednesday,12,2,0
+TXN-2025074,CUST-01047,Groceries,Lays Chips Family Pack,1,176.35,0,176.35,2025-05-07 18:07:00,Sialkot,Cash,NovaMart Express,Male,25-34,3,2025,5,May,Wednesday,18,2,0
+TXN-2025880,CUST-01785,Groceries,Brooke Bond Supreme 200g,1,305.16,0,305.16,2025-03-30 11:34:00,Karachi,Credit Card,NovaMart Central,Male,45-54,5,2025,3,Mar,Sunday,11,1,1
+TXN-2025235,CUST-01432,Groceries,Rooh Afza 750ml,2,285.1,0,570.2,2025-06-20 10:59:00,Hyderabad,Debit Card,NovaMart Central,Male,25-34,4,2025,6,Jun,Friday,10,2,0
+TXN-2025215,CUST-01234,Sports & Fitness,Adidas Lite Racer Shoes,1,6620.59,0,6620.59,2025-11-09 18:39:00,Karachi,Cash,NovaMart Central,Male,25-34,5,2025,11,Nov,Sunday,18,4,1
+TXN-2025851,CUST-02647,Electronics,Sony Earbuds WF-C500,1,11232.21,5,10670.6,2025-06-08 18:26:00,Hyderabad,Credit Card,NovaMart Outlet,Male,45-54,3,2025,6,Jun,Sunday,18,2,1
+TXN-2025133,CUST-02046,Home & Kitchen,Prestige Pressure Cooker 5L,2,2819.46,5,5356.97,2025-04-12 14:02:00,Faisalabad,Cash,NovaMart Express,Male,25-34,4,2025,4,Apr,Saturday,14,2,1
+TXN-2025662,CUST-UNKNOWN,Toys & Kids,Jigsaw Puzzle 500pcs,1,901.92,0,856.82,2025-03-24 15:08:00,Karachi,Cash,NovaMart Express,Unknown,35-44,4,2025,3,Mar,Monday,15,1,0
+TXN-2025845,CUST-00937,Clothing,Men's Polo Shirt,2,1703.49,5,3236.63,2025-11-05 21:04:00,Karachi,Credit Card,NovaMart Outlet,Female,25-34,4,2025,11,Nov,Wednesday,21,4,0
+TXN-2025186,CUST-00535,Clothing,Formal Dress Shirt,1,2450.55,0,2450.55,2025-01-23 17:36:00,Karachi,Debit Card,NovaMart Express,Male,35-44,1,2025,1,Jan,Thursday,17,1,0
+TXN-2025042,CUST-02141,Sports & Fitness,Dumbbell Set 10kg Pair,2,3798.4,0,7596.8,2025-08-04 18:25:00,Sialkot,Cash,NovaMart Express,Female,35-44,5,2025,8,Aug,Monday,18,3,0
+TXN-2025109,CUST-02445,Home & Kitchen,Bed Sheet King Size,1,3516.76,0,3516.76,2025-10-24 19:37:00,Karachi,Credit Card,NovaMart Central,Female,45-54,5,2025,10,Oct,Friday,19,4,0
+TXN-2025893,CUST-02297,Health & Beauty,Gillette Fusion Razor,2,1661.34,0,3322.68,2025-09-27 19:26:00,Rawalpindi,Debit Card,NovaMart Outlet,Female,45-54,5,2025,9,Sep,Saturday,19,3,1
+TXN-2025569,CUST-02943,Groceries,Olpers Full Cream Milk 1L,3,180.95,0,542.85,2025-06-05 17:06:00,Peshawar,Cash,NovaMart Central,Male,25-34,4,2025,6,Jun,Thursday,17,2,0
+TXN-2025589,CUST-01538,Electronics,Sony Earbuds WF-C500,1,11694.52,0,11694.52,2025-03-10 13:11:00,Multan,Credit Card,NovaMart Outlet,Female,55+,2,2025,3,Mar,Monday,13,1,0
+TXN-2025927,CUST-01177,Groceries,Sunflower Oil 5L,2,2117.88,0,4235.76,2025-11-24 21:01:00,Lahore,Cash,NovaMart Outlet,Male,35-44,4,2025,11,Nov,Monday,21,4,0
+TXN-2025971,CUST-02028,Groceries,Olpers Full Cream Milk 1L,2,181.05,0,362.1,2025-04-29 16:28:00,Multan,Bank Transfer,NovaMart Outlet,Male,45-54,5,2025,4,Apr,Tuesday,16,2,0
+TXN-2025484,CUST-01896,Groceries,Nestle Everyday Tea Whitener 400g,1,350.52,0,350.52,2025-10-19 20:37:00,Lahore,JazzCash,NovaMart Outlet,Female,55+,5,2025,10,Oct,Sunday,20,4,1
+TXN-2025469,CUST-01487,Sports & Fitness,Wilson Badminton Racket,1,2946.46,0,2946.46,2025-08-29 18:02:00,Multan,JazzCash,NovaMart Central,Female,25-34,3,2025,8,Aug,Friday,18,3,0
+TXN-2025025,CUST-01664,Stationery,Highlighter Set 6colors,2,415.24,5,788.96,2025-06-22 19:46:00,Karachi,Debit Card,NovaMart Premium,Female,35-44,5,2025,6,Jun,Sunday,19,2,1
+TXN-2025599,CUST-00698,Electronics,Sony Earbuds WF-C500,1,11781.96,0,11781.96,2025-05-23 21:31:00,Peshawar,Cash,NovaMart Express,Female,45-54,5,2025,5,May,Friday,21,2,0
+TXN-2025615,CUST-00806,Sports & Fitness,Football Size 5,4,1937.72,10,6975.79,2025-08-10 09:22:00,Islamabad,EasyPaisa,NovaMart Express,Male,55+,5,2025,8,Aug,Sunday,9,3,1
+TXN-2025680,CUST-02096,Electronics,HP Wireless Mouse,3,1273.07,0,3819.21,2025-11-30 15:10:00,Karachi,EasyPaisa,NovaMart Express,Female,18-24,5,2025,11,Nov,Sunday,15,4,1
+TXN-2026038,CUST-00379,Groceries,Lays Chips Family Pack,1,165.53,0,165.53,2025-05-06 20:51:00,Karachi,Cash,NovaMart Central,Male,25-34,5,2025,5,May,Tuesday,20,2,0
+TXN-2025367,CUST-01182,Stationery,Spiral Notebook A5,4,353.99,10,1274.36,2025-12-18 17:34:00,Hyderabad,Cash,NovaMart Express,Female,18-24,4,2025,12,Dec,Thursday,17,4,0
+TXN-2025757,CUST-01115,Electronics,Lenovo Laptop Bag,1,2848.27,10,2563.44,2025-11-04 16:33:00,Rawalpindi,Debit Card,NovaMart Premium,Male,18-24,5,2025,11,Nov,Tuesday,16,4,0
+TXN-2025972,CUST-UNKNOWN,Stationery,Sticky Notes 3x3 4pads,1,286.22,0,257.6,2025-10-18 15:34:00,Lahore,Cash,NovaMart Premium,Unknown,55+,4,2025,10,Oct,Saturday,15,4,1
+TXN-2025384,CUST-02407,Electronics,Samsung Galaxy A14,4,48283.58,0,193134.32,2025-01-25 15:27:00,Lahore,Cash,NovaMart Express,Male,45-54,5,2025,1,Jan,Saturday,15,1,1
+TXN-2025455,CUST-01008,Stationery,Stapler Heavy Duty,5,741.62,0,3708.12,2025-07-23 12:08:00,Faisalabad,Credit Card,NovaMart Premium,Female,55+,5,2025,7,Jul,Wednesday,12,3,0
+TXN-2025265,CUST-01630,Stationery,Spiral Notebook A5,1,330.69,20,264.55,2025-11-16 16:48:00,Quetta,EasyPaisa,NovaMart Premium,Female,25-34,5,2025,11,Nov,Sunday,16,4,1
+TXN-2025398,CUST-01774,Stationery,Spiral Notebook A5,2,285.54,0,571.08,2025-10-24 20:45:00,Islamabad,Credit Card,NovaMart Premium,Male,35-44,4,2025,10,Oct,Friday,20,4,0
+TXN-2026082,CUST-00299,Stationery,Highlighter Set 6colors,1,448.16,10,403.34,2025-10-23 20:23:00,Karachi,Credit Card,NovaMart Central,Male,25-34,4,2025,10,Oct,Thursday,20,4,0
+TXN-2025445,CUST-00884,Electronics,Sony Earbuds WF-C500,1,9561.41,10,8605.27,2025-10-10 10:09:00,Karachi,Debit Card,NovaMart Premium,Male,55+,4,2025,10,Oct,Friday,10,4,0
+TXN-2025396,CUST-02830,Stationery,Casio fx-82 Calculator,1,1814.28,0,1814.28,2025-09-11 10:42:00,Lahore,Debit Card,NovaMart Central,Female,35-44,5,2025,9,Sep,Thursday,10,3,0
+TXN-2025177,CUST-02714,Sports & Fitness,Cycling Gloves,2,875.07,5,1662.63,2025-05-03 10:14:00,Islamabad,Debit Card,NovaMart Outlet,Female,18-24,4,2025,5,May,Saturday,10,2,1
+TXN-2025019,CUST-00662,Clothing,Formal Dress Shirt,4,2101.35,0,8405.4,2025-05-20 13:21:00,Rawalpindi,JazzCash,NovaMart Premium,Male,18-24,5,2025,5,May,Tuesday,13,2,0
+TXN-2025772,CUST-00291,Groceries,Brooke Bond Supreme 200g,2,288.65,5,548.43,2025-09-23 17:21:00,Lahore,Cash,NovaMart Central,Male,45-54,4,2025,9,Sep,Tuesday,17,3,0
+TXN-2026058,CUST-02517,Home & Kitchen,Non-Stick Fry Pan,3,2325.2,0,6975.6,2025-03-13 16:36:00,Islamabad,Debit Card,NovaMart Outlet,Male,35-44,5,2025,3,Mar,Thursday,16,1,0
+TXN-2025596,CUST-00192,Toys & Kids,Barbie Fashion Doll,2,2373.95,5,4510.5,2025-10-07 16:06:00,Islamabad,JazzCash,NovaMart Outlet,Male,25-34,5,2025,10,Oct,Tuesday,16,4,0
+TXN-2025062,CUST-02018,Stationery,Stapler Heavy Duty,2,776.68,0,1553.36,2025-11-08 15:39:00,Faisalabad,Debit Card,NovaMart Premium,Male,18-24,5,2025,11,Nov,Saturday,15,4,1
+TXN-2025273,CUST-01076,Sports & Fitness,Dumbbell Set 10kg Pair,1,4294.09,15,3649.98,2025-12-08 17:47:00,Islamabad,Cash,NovaMart Central,Female,35-44,5,2025,12,Dec,Monday,17,4,0
+TXN-2026079,CUST-02235,Stationery,Casio fx-82 Calculator,2,1845.09,5,3505.67,2025-05-12 12:02:00,Quetta,EasyPaisa,NovaMart Express,Female,55+,4,2025,5,May,Monday,12,2,0
+TXN-2025279,CUST-00329,Groceries,Sunflower Oil 5L,1,1860.27,0,1860.27,2025-02-10 13:45:00,Lahore,JazzCash,NovaMart Premium,Female,35-44,5,2025,2,Feb,Monday,13,1,0
+TXN-2025758,CUST-00989,Electronics,JBL Bluetooth Speaker,2,7128.73,10,12831.71,2025-01-13 19:16:00,Multan,Cash,NovaMart Premium,Male,18-24,5,2025,1,Jan,Monday,19,1,0
+TXN-2025369,CUST-00704,Sports & Fitness,Resistance Bands Set,2,1305.09,10,2349.16,2025-04-03 10:51:00,Islamabad,Debit Card,NovaMart Premium,Female,35-44,4,2025,4,Apr,Thursday,10,2,0
+TXN-2025797,CUST-01387,Groceries,Rooh Afza 750ml,1,294.21,0,294.21,2025-01-30 19:03:00,Peshawar,Credit Card,NovaMart Outlet,Female,35-44,5,2025,1,Jan,Thursday,19,1,0
+TXN-2025740,CUST-00505,Sports & Fitness,Wilson Badminton Racket,1,2684.69,0,2684.69,2025-09-12 20:20:00,Hyderabad,Cash,NovaMart Outlet,Female,18-24,5,2025,9,Sep,Friday,20,3,0
+TXN-2026050,CUST-00835,Clothing,Denim Jeans Slim Fit,1,2656.83,10,2391.15,2025-12-05 19:06:00,Peshawar,Bank Transfer,NovaMart Express,Female,45-54,3,2025,12,Dec,Friday,19,4,0
+TXN-2025548,CUST-01642,Electronics,HP Wireless Mouse,1,1792.57,5,1702.94,2025-10-09 17:08:00,Peshawar,Bank Transfer,NovaMart Outlet,Male,25-34,4,2025,10,Oct,Thursday,17,4,0
+TXN-2025790,CUST-02341,Electronics,Xiaomi Power Bank 20000mAh,1,4429.91,0,4429.91,2025-02-22 13:24:00,Rawal Pindi,Debit Card,NovaMart Outlet,Male,18-24,5,2025,2,Feb,Saturday,13,1,1
+TXN-2025810,CUST-02237,Sports & Fitness,Yoga Mat 6mm,2,2069.2,0,4138.4,2025-12-22 11:37:00,Lahore,JazzCash,NovaMart Premium,Female,35-44,5,2025,12,Dec,Monday,11,4,0
+TXN-2025457,CUST-00512,Sports & Fitness,Skipping Rope Steel,1,601.67,10,541.5,2025-09-03 18:41:00,Peshawar,Credit Card,NovaMart Central,Male,45-54,5,2025,9,Sep,Wednesday,18,3,0
+TXN-2025394,CUST-02561,Groceries,Brooke Bond Supreme 200g,1,317.02,20,253.62,2025-09-28 12:03:00,Lahore,Cash,NovaMart Central,Male,18-24,4,2025,9,Sep,Sunday,12,3,1
+TXN-2025988,CUST-01902,Groceries,Basmati Rice 5kg,3,1413.01,0,4239.03,2025-09-08 15:31:00,Faisalabad,Debit Card,NovaMart Outlet,Male,45-54,5,2025,9,Sep,Monday,15,3,0
+TXN-2025865,CUST-01026,Clothing,Kids Tracksuit,5,1676.72,0,8383.6,2025-06-30 21:30:00,Multan,Cash,NovaMart Central,Male,18-24,5,2025,6,Jun,Monday,21,2,0
+TXN-2025376,CUST-01698,Electronics,Lenovo Laptop Bag,2,3982.57,0,7965.14,2025-07-05 18:38:00,Hyderabad,Debit Card,NovaMart Premium,Female,18-24,4,2025,7,Jul,Saturday,18,3,1
+TXN-2025413,CUST-00300,Sports & Fitness,Adidas Lite Racer Shoes,4,7672.2,20,24551.04,2025-08-30 13:37:00,Lahore,Cash,NovaMart Premium,Female,45-54,5,2025,8,Aug,Saturday,13,3,1
+TXN-2025075,CUST-01884,Health & Beauty,Panadol Strip 10tabs,1,101.3,5,96.23,2025-05-11 12:31:00,Faisalabad,Credit Card,NovaMart Central,Female,45-54,2,2025,5,May,Sunday,12,2,1
+TXN-2026075,CUST-00747,Clothing,Sports T-Shirt,1,1543.56,15,1312.03,2025-07-02 17:11:00,Lahore,EasyPaisa,NovaMart Express,Male,55+,5,2025,7,Jul,Wednesday,17,3,0
+TXN-2025501,CUST-02853,Toys & Kids,Barbie Fashion Doll,2,2184.83,0,4369.66,2025-08-10 17:37:00,Islamabad,Cash,NovaMart Premium,Female,35-44,4,2025,8,Aug,Sunday,17,3,1
+TXN-2025722,CUST-02663,Groceries,Lays Chips Family Pack,1,194.86,15,165.63,2025-06-13 19:31:00,Lahore,Credit Card,NovaMart Central,Male,25-34,4,2025,6,Jun,Friday,19,2,0
+TXN-2025617,CUST-00394,Clothing,Denim Jeans Slim Fit,1,2949.36,0,2949.36,2025-07-22 19:51:00,Lahore,EasyPaisa,NovaMart Outlet,Female,35-44,4,2025,7,Jul,Tuesday,19,3,0
+TXN-2025115,CUST-01956,Clothing,Sports T-Shirt,1,1402.15,10,1261.94,2025-11-29 16:40:00,Karachi,Debit Card,NovaMart Outlet,Male,25-34,5,2025,11,Nov,Saturday,16,4,1
+TXN-2025418,CUST-01347,Home & Kitchen,Pillow Set 2pcs,5,1666.84,0,8334.2,2025-03-24 15:17:00,Rawalpindi,Credit Card,NovaMart Central,Male,25-34,4,2025,3,Mar,Monday,15,1,0
+TXN-2025602,CUST-00247,Groceries,Tapal Danedar Tea 900g,1,806.71,10,726.04,2025-08-09 14:46:00,Lahore,Debit Card,NovaMart Outlet,Male,35-44,2,2025,8,Aug,Saturday,14,3,1
+TXN-2025605,CUST-01515,Groceries,Tapal Danedar Tea 900g,2,717.75,0,1435.5,2025-01-29 15:17:00,Karachi,Credit Card,NovaMart Premium,Female,35-44,2,2025,1,Jan,Wednesday,15,1,0
+TXN-2025090,CUST-01600,Clothing,Sports T-Shirt,1,1068.39,5,1014.97,2025-09-19 13:09:00,Karachi,Bank Transfer,NovaMart Central,Male,55+,4,2025,9,Sep,Friday,13,3,0
+TXN-2026100,CUST-UNKNOWN,Home & Kitchen,Kitchen Knife Set,1,986.59,0,937.26,2025-07-22 12:53:00,Peshawar,Cash,NovaMart Central,Unknown,35-44,4,2025,7,Jul,Tuesday,12,3,0
+TXN-2025499,CUST-01161,Groceries,Brooke Bond Supreme 200g,1,305.64,15,259.79,2025-09-20 17:48:00,Lahore,Debit Card,NovaMart Outlet,Male,25-34,4,2025,9,Sep,Saturday,17,3,1
+TXN-2025786,CUST-01590,Groceries,Nestle Everyday Tea Whitener 400g,2,416.51,0,833.02,2025-09-10 14:36:00,Karachi,Bank Transfer,NovaMart Central,Female,35-44,3,2025,9,Sep,Wednesday,14,3,0
+TXN-2025793,CUST-02988,Health & Beauty,Panadol Strip 10tabs,1,98.54,5,93.61,2025-07-14 19:29:00,Karachi,Debit Card,NovaMart Express,Male,25-34,3,2025,7,Jul,Monday,19,3,0
+TXN-2025791,CUST-00592,Clothing,Formal Dress Shirt,1,2535.13,20,2028.1,2025-11-13 14:39:00,Islamabad,EasyPaisa,NovaMart Express,Male,35-44,5,2025,11,Nov,Thursday,14,4,0
+TXN-2025012,CUST-00249,Home & Kitchen,PEL Refrigerator 14CuFt,1,82112.45,0,82112.45,2025-09-05 17:56:00,Islamabad,Credit Card,NovaMart Central,Female,45-54,2,2025,9,Sep,Friday,17,3,0
+TXN-2025397,CUST-00926,Clothing,Winter Jacket,1,5771.67,0,5771.67,2025-11-07 14:32:00,Peshawar,JazzCash,NovaMart Outlet,Male,25-34,2,2025,11,Nov,Friday,14,4,0
+TXN-2025732,CUST-UNKNOWN,Clothing,Kids Tracksuit,1,1494.04,0,1494.04,2025-01-11 15:24:00,Karachi,Cash,NovaMart Central,Unknown,55+,4,2025,1,Jan,Saturday,15,1,1
+TXN-2026086,CUST-01449,Groceries,Basmati Rice 5kg,3,1292.38,0,3877.14,2025-03-19 17:49:00,Multan,Cash,NovaMart Premium,Male,55+,3,2025,3,Mar,Wednesday,17,1,0
+TXN-2025043,CUST-00642,Groceries,Basmati Rice 5kg,2,1443.85,15,2454.54,2025-07-15 19:19:00,Karachi,Cash,NovaMart Central,Male,25-34,3,2025,7,Jul,Tuesday,19,3,0
+TXN-2025168,CUST-02076,Groceries,Olpers Full Cream Milk 1L,5,210.51,10,947.29,2025-01-12 20:08:00,Karachi,Cash,NovaMart Outlet,Female,25-34,5,2025,1,Jan,Sunday,20,1,1
+TXN-2025417,CUST-00740,Groceries,Lays Chips Family Pack,1,152.04,5,144.44,2025-01-16 13:45:00,Islamabad,Credit Card,NovaMart Premium,Male,18-24,2,2025,1,Jan,Thursday,13,1,0
+TXN-2025577,CUST-01401,Electronics,Xiaomi Power Bank 20000mAh,4,3330.73,0,13322.92,2025-07-09 13:11:00,Lahore,Cash,NovaMart Outlet,Female,25-34,2,2025,7,Jul,Wednesday,13,3,0
+TXN-2025729,CUST-01334,Home & Kitchen,Bed Sheet King Size,1,4355.1,5,4137.35,2025-05-17 14:49:00,Lahore,Cash,NovaMart Express,Female,45-54,5,2025,5,May,Saturday,14,2,1
+TXN-2025427,CUST-02662,Sports & Fitness,Football Size 5,1,1887.64,0,1887.64,2025-10-27 21:23:00,Peshawar,Debit Card,NovaMart Express,Male,45-54,3,2025,10,Oct,Monday,21,4,0
+TXN-2025545,CUST-00358,Electronics,JBL Bluetooth Speaker,2,5493.64,0,10987.28,2025-08-12 14:07:00,Multan,Debit Card,NovaMart Outlet,Female,25-34,4,2025,8,Aug,Tuesday,14,3,0
+TXN-2026076,CUST-01422,Stationery,Camlin Geometry Box,3,281.48,10,760.0,2025-08-29 14:50:00,Faisalabad,Cash,NovaMart Express,Female,18-24,3,2025,8,Aug,Friday,14,3,0
+TXN-2025226,CUST-00191,Health & Beauty,Gillette Fusion Razor,1,1566.51,15,1331.53,2025-03-16 12:45:00,Lahor,Credit Card,NovaMart Outlet,Male,45-54,3,2025,3,Mar,Sunday,12,1,1
+TXN-2025888,CUST-01704,Stationery,Sticky Notes 3x3 4pads,1,215.95,20,172.76,2025-03-27 15:42:00,Islamabad,Credit Card,NovaMart Premium,Male,18-24,5,2025,3,Mar,Thursday,15,1,0
+TXN-2025794,CUST-00209,Health & Beauty,LOreal Face Wash,1,711.0,0,711.0,2025-11-26 16:57:00,Karachi,Debit Card,NovaMart Outlet,Female,55+,5,2025,11,Nov,Wednesday,16,4,0
+TXN-2025258,CUST-00328,Sports & Fitness,Adidas Lite Racer Shoes,5,6901.85,0,34509.25,2025-04-17 15:21:00,Karachi,Cash,NovaMart Premium,Female,18-24,4,2025,4,Apr,Thursday,15,2,0
+TXN-2025336,CUST-01005,Electronics,"Haier LED TV 32""",2,38852.52,20,62164.03,2025-01-19 15:23:00,Sialkot,JazzCash,NovaMart Central,Female,35-44,4,2025,1,Jan,Sunday,15,1,1
+TXN-2025812,CUST-00614,Clothing,Sports T-Shirt,3,909.77,5,2592.84,2025-01-28 12:20:00,Karachi,Debit Card,NovaMart Outlet,Male,25-34,1,2025,1,Jan,Tuesday,12,1,0
+TXN-2025325,CUST-01572,Clothing,Kids Tracksuit,1,1137.02,15,966.47,2025-09-12 16:17:00,Rawal Pindi,Cash,NovaMart Central,Male,35-44,5,2025,9,Sep,Friday,16,3,0
+TXN-2025980,CUST-02522,Electronics,JBL Bluetooth Speaker,2,6591.38,0,13182.76,2025-07-15 19:02:00,Hyderabad,JazzCash,NovaMart Outlet,Male,45-54,3,2025,7,Jul,Tuesday,19,3,0
+TXN-2025999,CUST-00220,Toys & Kids,LEGO Classic Bricks Set,2,6083.23,0,12166.46,2025-11-19 15:38:00,Karachi,EasyPaisa,NovaMart Express,Female,25-34,5,2025,11,Nov,Wednesday,15,4,0
+TXN-2025713,CUST-02456,Sports & Fitness,Yoga Mat 6mm,2,1883.35,20,3013.36,2025-05-01 16:21:00,Lahore,Debit Card,NovaMart Central,Male,18-24,4,2025,5,May,Thursday,16,2,0
+TXN-2025223,CUST-00487,Groceries,Nestle Everyday Tea Whitener 400g,1,388.53,10,349.68,2025-02-25 15:15:00,Karachi,Credit Card,NovaMart Premium,Female,18-24,4,2025,2,Feb,Tuesday,15,1,0
+TXN-2025180,CUST-00049,Clothing,Denim Jeans Slim Fit,1,2255.95,0,2255.95,2025-12-08 21:25:00,Multan,Cash,NovaMart Central,Female,18-24,5,2025,12,Dec,Monday,21,4,0
+TXN-2025100,CUST-00529,Sports & Fitness,Resistance Bands Set,1,1476.34,20,1181.07,2025-02-03 14:45:00,Faisalabad,CreditCard,NovaMart Express,Female,18-24,5,2025,2,Feb,Monday,14,1,0
+TXN-2025522,CUST-01573,Electronics,Lenovo Laptop Bag,4,3462.11,0,13848.44,2025-11-21 15:00:00,Rawalpindi,Bank Transfer,NovaMart Express,Female,25-34,5,2025,11,Nov,Friday,15,4,0
+TXN-2025837,CUST-00479,Electronics,Samsung Galaxy A14,2,48636.98,0,97273.96,2025-07-03 18:56:00,Rawalpindi,EasyPaisa,NovaMart Outlet,Male,35-44,5,2025,7,Jul,Thursday,18,3,0
+TXN-2026066,CUST-00762,Health & Beauty,Ponds Moisturizer 200ml,2,722.87,20,1156.59,2025-08-03 11:22:00,Rawalpindi,EasyPaisa,NovaMart Premium,Male,55+,5,2025,8,Aug,Sunday,11,3,1
+TXN-2025612,CUST-02159,Groceries,Brooke Bond Supreme 200g,2,301.57,0,603.14,2025-07-28 13:09:00,Hyderabad,Debit Card,NovaMart Outlet,Female,45-54,5,2025,7,Jul,Monday,13,3,0
+TXN-2025904,CUST-02421,Health & Beauty,Dettol Handwash 500ml,2,374.9,0,749.8,2025-07-03 17:17:00,Islamabad,Credit Card,NovaMart Express,Female,25-34,3,2025,7,Jul,Thursday,17,3,0
+TXN-2025341,CUST-00049,Electronics,Lenovo Laptop Bag,2,2952.05,10,5313.69,2025-11-09 18:07:00,Islamabad,Credit Card,NovaMart Outlet,Female,35-44,3,2025,11,Nov,Sunday,18,4,1
+TXN-2025432,CUST-01470,Electronics,HP Wireless Mouse,1,1325.05,10,1192.55,2025-03-20 13:44:00,Hyderabad,Credit Card,NovaMart Central,Male,25-34,2,2025,3,Mar,Thursday,13,1,0
+TXN-2025218,CUST-00390,Groceries,Tapal Danedar Tea 900g,1,739.62,10,665.66,2025-09-03 17:06:00,Peshawar,EasyPaisa,NovaMart Central,Female,45-54,4,2025,9,Sep,Wednesday,17,3,0
+TXN-2025204,CUST-01942,Electronics,HP Wireless Mouse,2,1885.69,5,3582.81,2025-12-27 17:18:00,Lahore,Credit Card,NovaMart Central,Male,45-54,5,2025,12,Dec,Saturday,17,4,1
+TXN-2025814,CUST-02454,Clothing,Formal Dress Shirt,1,2764.35,0,2764.35,2025-02-11 17:38:00,Lahore,Cash,NovaMart Central,Female,35-44,4,2025,2,Feb,Tuesday,17,1,0
+TXN-2025094,CUST-01256,Clothing,Women's Kameez Printed,1,2736.04,5,2599.24,2025-06-06 15:31:00,Peshawar,Debit Card,NovaMart Premium,Female,18-24,4,2025,6,Jun,Friday,15,2,0
+TXN-2025850,CUST-02563,Clothing,Women's Kameez Printed,1,1748.39,0,1748.39,2025-04-22 15:30:00,Peshawar,Cash,NovaMart Outlet,Male,35-44,3,2025,4,Apr,Tuesday,15,2,0
+TXN-2025069,CUST-01769,Health & Beauty,Dettol Handwash 500ml,1,311.25,0,311.25,2025-08-29 13:21:00,Hyderabad,Debit Card,NovaMart Central,Female,18-24,5,2025,8,Aug,Friday,13,3,0
+TXN-2026054,CUST-02771,Sports & Fitness,Adidas Lite Racer Shoes,1,8465.42,10,7618.88,2025-05-30 14:15:00,Multan,Debit Card,NovaMart Premium,Male,25-34,4,2025,5,May,Friday,14,2,0
+TXN-2025285,CUST-02541,Electronics,Anker USB-C Charger,2,1373.59,0,2747.18,2025-10-30 19:10:00,Multan,Credit Card,NovaMart Premium,Male,55+,4,2025,10,Oct,Thursday,19,4,0
+TXN-2025086,CUST-01168,Groceries,Nestle Everyday Tea Whitener 400g,1,406.09,0,406.09,2025-05-25 15:33:00,Faisalabad,EasyPaisa,NovaMart Central,Male,45-54,4,2025,5,May,Sunday,15,2,1
+TXN-2025435,CUST-01005,Sports & Fitness,Skipping Rope Steel,1,619.77,5,588.78,2025-11-04 19:58:00,Lahore,Cash,NovaMart Central,Male,25-34,4,2025,11,Nov,Tuesday,19,4,0
+TXN-2025719,CUST-01520,Clothing,Formal Dress Shirt,1,2196.79,0,2196.79,2025-12-16 18:48:00,Lahore,Cash,NovaMart Express,Male,18-24,4,2025,12,Dec,Tuesday,18,4,0
+TXN-2025154,CUST-02273,Electronics,JBL Bluetooth Speaker,1,5619.92,0,5619.92,2025-10-03 17:20:00,Rawalpindi,Debit Card,NovaMart Express,Female,25-34,4,2025,10,Oct,Friday,17,4,0
+TXN-2025076,CUST-01785,Groceries,Sunflower Oil 5L,5,1962.01,0,9810.05,2025-02-28 14:27:00,Hyderabad,Credit Card,NovaMart Express,Female,18-24,5,2025,2,Feb,Friday,14,1,0
+TXN-2025942,CUST-00315,Groceries,Olpers Full Cream Milk 1L,1,212.6,0,212.6,2025-09-16 14:01:00,Rawalpindi,Cash,NovaMart Outlet,Male,35-44,4,2025,9,Sep,Tuesday,14,3,0
+TXN-2025581,CUST-01529,Sports & Fitness,Skipping Rope Steel,1,524.22,10,471.8,2025-06-01 14:19:00,Islamabad,Bank Transfer,NovaMart Outlet,Female,18-24,3,2025,6,Jun,Sunday,14,2,1
+TXN-2025447,CUST-01137,Sports & Fitness,Cycling Gloves,2,653.59,5,1241.82,2025-09-21 15:28:00,Lahore,EasyPaisa,NovaMart Outlet,Female,35-44,5,2025,9,Sep,Sunday,15,3,1
+TXN-2025189,CUST-00577,Clothing,Casual Sneakers,3,6052.27,5,17248.97,2025-05-24 17:08:00,Karachi,Credit Card,NovaMart Outlet,Male,35-44,3,2025,5,May,Saturday,17,2,1
+TXN-2025272,CUST-00513,Home & Kitchen,Non-Stick Fry Pan,1,1852.62,10,1667.36,2025-03-11 13:20:00,Lahore,Debit Card,NovaMart Central,Female,25-34,3,2025,3,Mar,Tuesday,13,1,0
+TXN-2025488,CUST-00699,Stationery,Sticky Notes 3x3 4pads,1,258.17,0,258.17,2025-01-01 13:45:00,Lahore,EasyPaisa,NovaMart Express,Male,35-44,4,2025,1,Jan,Wednesday,13,1,0
+TXN-2025560,CUST-02679,Clothing,Denim Jeans Slim Fit,1,2527.37,0,2527.37,2025-02-19 15:46:00,Islamabad,Debit Card,NovaMart Express,Female,35-44,4,2025,2,Feb,Wednesday,15,1,0
+TXN-2025118,CUST-01642,Clothing,Sports T-Shirt,2,1453.54,10,2616.37,2025-06-06 17:41:00,Karachi,EasyPaisa,NovaMart Central,Female,45-54,4,2025,6,Jun,Friday,17,2,0
+TXN-2025950,CUST-01671,Toys & Kids,Jigsaw Puzzle 500pcs,3,965.01,10,2605.53,2025-09-29 14:39:00,Lahore,JazzCash,NovaMart Central,Female,25-34,4,2025,9,Sep,Monday,14,3,0
+TXN-2026033,CUST-02906,Groceries,Sunflower Oil 5L,1,1989.79,5,1890.3,2025-08-12 13:59:00,Lahore,Debit Card,NovaMart Outlet,Female,25-34,4,2025,8,Aug,Tuesday,13,3,0
+TXN-2025513,CUST-02360,Health & Beauty,Pantene Shampoo 360ml,2,580.68,15,987.16,2025-07-23 10:59:00,Faisalabad,Debit Card,NovaMart Express,Female,18-24,5,2025,7,Jul,Wednesday,10,3,0
+TXN-2025634,CUST-02189,Clothing,Men's Polo Shirt,1,1335.28,0,1335.28,2025-12-20 20:56:00,Lahore,Credit Card,NovaMart Express,Male,18-24,2,2025,12,Dec,Saturday,20,4,1
+TXN-2025709,CUST-01246,Clothing,Casual Sneakers,3,3596.8,20,8632.32,2025-12-16 13:44:00,Rawalpindi,Debit Card,NovaMart Premium,Female,18-24,5,2025,12,Dec,Tuesday,13,4,0
+TXN-2025901,CUST-01667,Sports & Fitness,Resistance Bands Set,1,1305.09,10,1174.58,2025-01-28 11:19:00,Sialkot,Bank Transfer,NovaMart Premium,Female,18-24,4,2025,1,Jan,Tuesday,11,1,0
+TXN-2025935,CUST-00989,Sports & Fitness,Football Size 5,1,2211.19,0,2211.19,2025-04-28 20:01:00,Rawalpindi,JazzCash,NovaMart Premium,Male,45-54,5,2025,4,Apr,Monday,20,2,0
+TXN-2025127,CUST-02366,Health & Beauty,Pantene Shampoo 360ml,3,555.57,10,1500.04,2025-11-23 19:15:00,Karachi,Bank Transfer,NovaMart Premium,Male,45-54,5,2025,11,Nov,Sunday,19,4,1
+TXN-2025117,CUST-00462,Electronics,"Haier LED TV 32""",1,43570.73,0,43570.73,2025-08-06 20:55:00,Faisalabad,Debit Card,NovaMart Express,Male,45-54,4,2025,8,Aug,Wednesday,20,3,0
+TXN-2025474,CUST-00849,Groceries,Lays Chips Family Pack,1,175.94,5,167.14,2025-10-03 12:24:00,Islamabad,Credit Card,NovaMart Central,Female,35-44,4,2025,10,Oct,Friday,12,4,0
+TXN-2025891,CUST-01291,Toys & Kids,Ludo Deluxe Board Game,1,666.41,5,633.09,2025-12-19 16:34:00,Multan,Credit Card,NovaMart Express,Female,55+,5,2025,12,Dec,Friday,16,4,0
+TXN-2025058,CUST-02544,Groceries,Basmati Rice 5kg,2,1564.25,10,2815.65,2025-05-01 21:42:00,Quetta,JazzCash,NovaMart Express,Male,35-44,4,2025,5,May,Thursday,21,2,0
+TXN-2025604,CUST-00986,Health & Beauty,Pantene Shampoo 360ml,1,489.61,5,465.13,2025-04-30 14:28:00,Hyderabad,Debit Card,NovaMart Central,Male,18-24,5,2025,4,Apr,Wednesday,14,2,0
+TXN-2025870,CUST-00150,Stationery,Spiral Notebook A5,2,330.69,10,595.24,2025-07-18 16:25:00,Lahore,Cash,NovaMart Express,Female,25-34,5,2025,7,Jul,Friday,16,3,0
+TXN-2025657,CUST-01182,Toys & Kids,Ludo Deluxe Board Game,2,751.3,0,1502.6,2025-01-27 20:56:00,Lahore,Cash,NovaMart Express,Female,35-44,3,2025,1,Jan,Monday,20,1,0
+TXN-2025813,CUST-00435,Groceries,Tapal Danedar Tea 900g,1,734.16,5,697.45,2025-05-11 13:31:00,Islamabad,EasyPaisa,NovaMart Premium,Male,35-44,5,2025,5,May,Sunday,13,2,1
+TXN-2025829,CUST-01823,Sports & Fitness,Wilson Badminton Racket,1,2324.28,0,2324.28,2025-03-30 15:35:00,Karachi,Cash,NovaMart Premium,Male,55+,5,2025,3,Mar,Sunday,15,1,1
+TXN-2025106,CUST-02980,Clothing,Men's Polo Shirt,2,1565.76,10,2818.37,2025-07-17 15:15:00,Faisalabad,Cash,NovaMart Premium,Male,45-54,4,2025,7,Jul,Thursday,15,3,0
+TXN-2025636,CUST-00314,Clothing,Men's Polo Shirt,2,1495.26,15,2541.94,2025-04-11 15:03:00,Multan,Debit Card,NovaMart Central,Male,45-54,3,2025,4,Apr,Friday,15,2,0
+TXN-2025370,CUST-00661,Health & Beauty,LOreal Face Wash,5,621.1,5,2950.22,2025-05-08 15:18:00,Karachii,Debit Card,NovaMart Express,Male,55+,5,2025,5,May,Thursday,15,2,0
+TXN-2025269,CUST-01843,Home & Kitchen,PEL Refrigerator 14CuFt,2,74500.51,5,141550.97,2025-03-29 19:33:00,Lahore,Debit Card,NovaMart Central,Male,25-34,4,2025,3,Mar,Saturday,19,1,1
+TXN-2025656,CUST-00587,Clothing,Winter Jacket,1,7806.69,0,7806.69,2025-11-15 14:28:00,Lahore,Debit Card,NovaMart Express,Female,25-34,4,2025,11,Nov,Saturday,14,4,1
+TXN-2025047,CUST-01863,Toys & Kids,Art & Craft Kit,2,1466.65,10,2639.97,2025-10-14 16:31:00,Lahore,Debit Card,NovaMart Central,Female,35-44,4,2025,10,Oct,Tuesday,16,4,0
+TXN-2025350,CUST-02004,Sports & Fitness,Resistance Bands Set,2,1527.52,0,3055.04,2025-04-06 16:24:00,Karachi,Debit Card,NovaMart Express,Male,18-24,3,2025,4,Apr,Sunday,16,2,1
+TXN-2025196,CUST-02057,Stationery,Highlighter Set 6colors,2,543.13,15,923.32,2025-06-26 16:48:00,Rawalpindi,Cash,NovaMart Central,Female,18-24,5,2025,6,Jun,Thursday,16,2,0
+TXN-2025103,CUST-01703,Electronics,Anker USB-C Charger,1,1249.34,0,1249.34,2025-10-09 17:49:00,Multan,Credit Card,NovaMart Outlet,Female,18-24,2,2025,10,Oct,Thursday,17,4,0
+TXN-2025005,CUST-00586,Sports & Fitness,Adidas Lite Racer Shoes,1,7072.62,0,7072.62,2025-08-13 13:59:00,Lahore,Cash,NovaMart Outlet,Female,25-34,4,2025,8,Aug,Wednesday,13,3,0
+TXN-2026063,CUST-02036,Electronics,Anker USB-C Charger,3,1060.99,0,3182.97,2025-12-12 13:08:00,Islamabad,Credit Card,NovaMart Premium,Male,45-54,3,2025,12,Dec,Friday,13,4,0
+TXN-2025889,CUST-01382,Clothing,Formal Dress Shirt,4,2948.48,5,11204.22,2025-02-16 19:21:00,Lahore,JazzCash,NovaMart Premium,Female,45-54,5,2025,2,Feb,Sunday,19,1,1
+TXN-2025948,CUST-02558,Health & Beauty,Colgate Toothpaste 150g,2,245.45,0,490.9,2025-06-19 16:04:00,Lahore,JazzCash,NovaMart Outlet,Female,45-54,5,2025,6,Jun,Thursday,16,2,0
+TXN-2025264,CUST-02769,Groceries,Nestle Everyday Tea Whitener 400g,1,411.09,0,411.09,2025-12-22 20:12:00,Lahore,Debit Card,NovaMart Central,Male,45-54,3,2025,12,Dec,Monday,20,4,0
+TXN-2025965,CUST-02019,Health & Beauty,Dettol Handwash 500ml,1,364.81,5,346.57,2025-07-28 18:55:00,Lahore,Cash,NovaMart Central,Male,35-44,4,2025,7,Jul,Monday,18,3,0
+TXN-2025444,CUST-01514,Groceries,Nestle Everyday Tea Whitener 400g,1,381.88,0,381.88,2025-12-15 12:45:00,Rawalpindi,EasyPaisa,NovaMart Central,Male,35-44,4,2025,12,Dec,Monday,12,4,0
+TXN-2026043,CUST-02795,Groceries,Nestle Everyday Tea Whitener 400g,1,409.19,0,409.19,2025-11-12 14:29:00,Karachi,EasyPaisa,NovaMart Outlet,Female,25-34,4,2025,11,Nov,Wednesday,14,4,0
+TXN-2025762,CUST-01444,Electronics,Samsung Galaxy A14,1,49413.65,0,49413.65,2025-12-25 15:58:00,Lahore,Cash,NovaMart Premium,Female,45-54,4,2025,12,Dec,Thursday,15,4,0
+TXN-2025977,CUST-02786,Groceries,Basmati Rice 5kg,1,1580.65,0,1580.65,2025-04-28 21:32:00,Lahore,EasyPaisa,NovaMart Outlet,Female,18-24,4,2025,4,Apr,Monday,21,2,0
+TXN-2025305,CUST-00623,Electronics,JBL Bluetooth Speaker,3,6681.24,15,17037.16,2025-02-18 16:46:00,Lahore,Credit Card,NovaMart Premium,Female,45-54,5,2025,2,Feb,Tuesday,16,1,0
+TXN-2025342,CUST-01046,Sports & Fitness,Adidas Lite Racer Shoes,2,6743.41,0,13486.82,2025-05-30 18:24:00,Peshawar,Debit Card,NovaMart Central,Female,25-34,4,2025,5,May,Friday,18,2,0
+TXN-2025778,CUST-02702,Toys & Kids,Barbie Fashion Doll,1,2138.34,0,2138.34,2025-06-15 20:35:00,Peshawar,Cash,NovaMart Outlet,Female,18-24,2,2025,6,Jun,Sunday,20,2,1
+TXN-2025314,CUST-01866,Sports & Fitness,Football Size 5,1,2131.11,0,2131.11,2025-03-05 11:22:00,Sialkot,Cash,NovaMart Express,Female,35-44,5,2025,3,Mar,Wednesday,11,1,0
+TXN-2025150,CUST-00276,Stationery,Ball Pen Pack 10pcs,1,174.38,10,156.94,2025-01-16 11:26:00,Islamabad,Credit Card,NovaMart Premium,Male,25-34,5,2025,1,Jan,Thursday,11,1,0
+TXN-2025125,CUST-01887,Groceries,Nestle Everyday Tea Whitener 400g,3,408.44,20,980.26,2025-06-04 12:34:00,Islamabad,JazzCash,NovaMart Express,Female,35-44,5,2025,6,Jun,Wednesday,12,2,0
+TXN-2025575,CUST-01141,Stationery,Highlighter Set 6colors,1,503.64,0,503.64,2025-09-29 18:06:00,Lahore,Bank Transfer,NovaMart Central,Female,25-34,5,2025,9,Sep,Monday,18,3,0
+TXN-2025698,CUST-02048,Electronics,JBL Bluetooth Speaker,1,6803.53,0,6803.53,2025-07-18 11:31:00,Peshawar,Debit Card,NovaMart Express,Female,55+,4,2025,7,Jul,Friday,11,3,0
+TXN-2025665,CUST-02607,Health & Beauty,LOreal Face Wash,1,615.4,0,615.4,2025-05-17 13:54:00,Islamabad,Credit Card,NovaMart Premium,Male,25-34,5,2025,5,May,Saturday,13,2,1
+TXN-2025051,CUST-02261,Clothing,Men's Polo Shirt,1,1567.69,5,1489.31,2025-05-25 18:26:00,Sialkot,Credit Card,NovaMart Premium,Male,25-34,4,2025,5,May,Sunday,18,2,1
+TXN-2025727,CUST-01998,Groceries,Tapal Danedar Tea 900g,2,739.63,0,1479.26,2025-05-16 16:21:00,Faisalabad,Credit Card,NovaMart Express,Female,18-24,5,2025,5,May,Friday,16,2,0
+TXN-2025354,CUST-00647,Groceries,Olpers Full Cream Milk 1L,1,210.3,0,210.3,2025-04-25 10:11:00,Karachi,Cash,NovaMart Outlet,Male,18-24,5,2025,4,Apr,Friday,10,2,0
+TXN-2025143,CUST-00695,Stationery,Camlin Geometry Box,1,320.86,0,320.86,2025-01-03 14:05:00,Quetta,EasyPaisa,NovaMart Outlet,Male,35-44,3,2025,1,Jan,Friday,14,1,0
+TXN-2025471,CUST-02708,Clothing,Women's Kameez Printed,2,1535.69,0,3071.38,2025-09-08 12:01:00,Multan,Cash,NovaMart Premium,Male,25-34,3,2025,9,Sep,Monday,12,3,0
+TXN-2025654,CUST-01675,Clothing,Sports T-Shirt,4,1528.2,5,5807.16,2025-06-05 15:35:00,Rawalpindi,Bank Transfer,NovaMart Outlet,Male,18-24,5,2025,6,Jun,Thursday,15,2,0
+TXN-2025400,CUST-01176,Groceries,Olpers Full Cream Milk 1L,3,204.97,10,553.42,2025-12-21 11:12:00,Lahor,EasyPaisa,NovaMart Premium,Male,35-44,5,2025,12,Dec,Sunday,11,4,1
+TXN-2025808,CUST-01028,Clothing,Sports T-Shirt,1,1429.4,0,1429.4,2025-09-19 21:44:00,Peshawar,Cash,NovaMart Outlet,Female,35-44,4,2025,9,Sep,Friday,21,3,0
+TXN-2025321,CUST-01852,Home & Kitchen,Dawlance Microwave 25L,3,23187.56,5,66084.55,2025-07-21 16:10:00,Lahore,Cash,NovaMart Premium,Female,18-24,5,2025,7,Jul,Monday,16,3,0
+TXN-2025020,CUST-01466,Home & Kitchen,Prestige Pressure Cooker 5L,3,3454.71,5,9845.92,2025-12-15 16:27:00,Karachi,Cash,NovaMart Central,Female,25-34,5,2025,12,Dec,Monday,16,4,0
+TXN-2025685,CUST-01817,Electronics,Samsung Galaxy A14,2,49290.44,5,93651.84,2025-03-16 18:41:00,Karachi,EasyPaisa,NovaMart Central,Male,25-34,5,2025,3,Mar,Sunday,18,1,1
+TXN-2025036,CUST-02523,Groceries,Rooh Afza 750ml,1,280.89,0,280.89,2025-01-12 16:42:00,Islamabad,Credit Card,NovaMart Premium,Female,45-54,4,2025,1,Jan,Sunday,16,1,1
+TXN-2026011,CUST-02487,Groceries,Brooke Bond Supreme 200g,2,322.2,0,644.4,2025-01-19 15:22:00,Karachi,Debit Card,NovaMart Express,Female,25-34,5,2025,1,Jan,Sunday,15,1,1
+TXN-2026028,CUST-00679,Groceries,Basmati Rice 5kg,5,1336.69,0,6683.45,2025-12-14 11:13:00,Lahore,Debit Card,NovaMart Central,Male,25-34,5,2025,12,Dec,Sunday,11,4,1
+TXN-2025408,CUST-01286,Health & Beauty,LOreal Face Wash,1,663.32,0,663.32,2025-03-23 13:04:00,Faisalabad,Debit Card,NovaMart Premium,Male,18-24,3,2025,3,Mar,Sunday,13,1,1
+TXN-2025538,CUST-01449,Sports & Fitness,Resistance Bands Set,1,1162.02,15,987.72,2025-02-16 09:49:00,Islamabad,Cash,NovaMart Express,Female,35-44,4,2025,2,Feb,Sunday,9,1,1
+TXN-2025759,CUST-02921,Stationery,Casio fx-82 Calculator,2,2389.63,15,4062.37,2025-11-16 19:27:00,Faisalabad,Credit Card,NovaMart Central,Female,55+,2,2025,11,Nov,Sunday,19,4,1
+TXN-2026098,CUST-02938,Groceries,Tapal Danedar Tea 900g,3,816.82,0,2450.46,2025-10-17 18:23:00,Karachi,Bank Transfer,NovaMart Express,Female,55+,5,2025,10,Oct,Friday,18,4,0
+TXN-2025803,CUST-02946,Groceries,Tapal Danedar Tea 900g,1,804.53,10,724.08,2025-01-10 14:57:00,Peshawar,JazzCash,NovaMart Premium,Female,45-54,3,2025,1,Jan,Friday,14,1,0
+TXN-2025039,CUST-02955,Sports & Fitness,Cycling Gloves,2,883.96,0,1767.92,2025-01-03 14:25:00,Multan,Credit Card,NovaMart Central,Female,25-34,4,2025,1,Jan,Friday,14,1,0
+TXN-2025176,CUST-02915,Electronics,Xiaomi Power Bank 20000mAh,2,4558.41,0,9116.82,2025-06-21 19:56:00,Islamabad,Cash,NovaMart Express,Female,55+,5,2025,6,Jun,Saturday,19,2,1
+TXN-2025246,CUST-01626,Home & Kitchen,PEL Refrigerator 14CuFt,1,79808.62,0,79808.62,2025-10-13 18:13:00,Quetta,Debit Card,NovaMart Central,Female,18-24,4,2025,10,Oct,Monday,18,4,0
+TXN-2026041,CUST-01510,Stationery,Spiral Notebook A5,1,279.64,5,265.66,2025-02-06 10:33:00,Lahore,JazzCash,NovaMart Express,Male,35-44,4,2025,2,Feb,Thursday,10,1,0
+TXN-2025863,CUST-00100,Sports & Fitness,Dumbbell Set 10kg Pair,1,5076.14,0,5076.14,2025-10-07 14:45:00,Lahore,Cash,NovaMart Outlet,Female,55+,4,2025,10,Oct,Tuesday,14,4,0
+TXN-2025968,CUST-00964,Health & Beauty,Colgate Toothpaste 150g,2,185.09,0,370.18,2025-11-09 15:09:00,Lahore,Credit Card,NovaMart Premium,Male,35-44,4,2025,11,Nov,Sunday,15,4,1
+TXN-2025490,CUST-00904,Electronics,HP Wireless Mouse,1,1943.06,0,1943.06,2025-12-10 15:38:00,Karachi,Credit Card,NovaMart Central,Male,25-34,3,2025,12,Dec,Wednesday,15,4,0
+TXN-2025155,CUST-02002,Groceries,Basmati Rice 5kg,5,1546.21,0,7731.05,2025-03-16 14:11:00,Karachi,Credit Card,NovaMart Outlet,Female,25-34,4,2025,3,Mar,Sunday,14,1,1
+TXN-2025639,CUST-02663,Groceries,Olpers Full Cream Milk 1L,2,213.66,0,427.32,2025-06-29 15:39:00,Rawalpindi,Cash,NovaMart Outlet,Male,18-24,3,2025,6,Jun,Sunday,15,2,1
+TXN-2025663,CUST-01719,Stationery,Sticky Notes 3x3 4pads,2,258.83,5,491.78,2025-06-16 16:11:00,Rawalpindi,Cash,NovaMart Premium,Male,18-24,5,2025,6,Jun,Monday,16,2,0
+TXN-2025288,CUST-00415,Groceries,Rooh Afza 750ml,1,335.6,5,318.82,2025-08-26 17:23:00,Islamabad,JazzCash,NovaMart Central,Female,18-24,3,2025,8,Aug,Tuesday,17,3,0
+TXN-2025626,CUST-02395,Groceries,Lays Chips Family Pack,1,180.29,5,171.28,2025-11-10 20:04:00,Islamabad,Debit Card,NovaMart Premium,Female,18-24,4,2025,11,Nov,Monday,20,4,0
+TXN-2025686,CUST-02115,Stationery,Stapler Heavy Duty,2,779.29,0,1558.58,2025-11-23 11:06:00,Faisalabad,EasyPaisa,NovaMart Premium,Male,55+,4,2025,11,Nov,Sunday,11,4,1
+TXN-2025783,CUST-00639,Toys & Kids,Jigsaw Puzzle 500pcs,4,1295.76,0,5183.04,2025-07-07 19:07:00,Karachi,Credit Card,NovaMart Central,Male,25-34,5,2025,7,Jul,Monday,19,3,0
+TXN-2025570,CUST-00980,Clothing,Sports T-Shirt,1,1213.24,0,1213.24,2025-04-29 13:43:00,Rawalpindi,EasyPaisa,NovaMart Outlet,Male,55+,5,2025,4,Apr,Tuesday,13,2,0
+TXN-2025735,CUST-UNKNOWN,Health & Beauty,Pantene Shampoo 360ml,1,544.8,0,544.8,2025-12-24 14:54:00,Lahore,Cash,NovaMart Central,Unknown,25-34,4,2025,12,Dec,Wednesday,14,4,0
+TXN-2025018,CUST-01116,Toys & Kids,LEGO Classic Bricks Set,2,6169.66,15,10488.42,2025-05-06 15:34:00,Karachi,EasyPaisa,NovaMart Express,Female,18-24,3,2025,5,May,Tuesday,15,2,0
+TXN-2025128,CUST-00193,Toys & Kids,Jigsaw Puzzle 500pcs,1,1148.14,5,1090.73,2025-10-25 17:20:00,Rawalpindi,JazzCash,NovaMart Outlet,Male,35-44,4,2025,10,Oct,Saturday,17,4,1
+TXN-2025323,CUST-02133,Sports & Fitness,Adidas Lite Racer Shoes,2,7648.42,0,15296.84,2025-02-27 21:33:00,Karachi,EasyPaisa,NovaMart Central,Male,25-34,5,2025,2,Feb,Thursday,21,1,0
+TXN-2025256,CUST-00835,Groceries,Rooh Afza 750ml,1,287.46,5,273.09,2025-09-04 16:24:00,Lahore,Debit Card,NovaMart Outlet,Female,35-44,5,2025,9,Sep,Thursday,16,3,0
+TXN-2025848,CUST-01231,Clothing,Sports T-Shirt,1,1290.16,20,1032.13,2025-03-03 16:42:00,Faisalabad,Debit Card,NovaMart Express,Male,35-44,3,2025,3,Mar,Monday,16,1,0
+TXN-2025490,CUST-00904,Electronics,HP Wireless Mouse,1,1943.06,0,1943.06,2025-12-10 15:38:00,Karachi,Credit Card,NovaMart Central,Male,25-34,3,2025,12,Dec,Wednesday,15,4,0
+TXN-2025191,CUST-01208,Stationery,Sticky Notes 3x3 4pads,1,305.81,0,305.81,2025-12-01 10:28:00,Peshawar,JazzCash,NovaMart Central,Male,25-34,2,2025,12,Dec,Monday,10,4,0
+TXN-2025116,CUST-01627,Stationery,A4 Paper Ream 500sheets,1,863.07,5,819.92,2025-11-07 18:18:00,Peshawar,Cash,NovaMart Central,Male,25-34,5,2025,11,Nov,Friday,18,4,0
+TXN-2025877,CUST-02527,Clothing,Men's Polo Shirt,1,1545.16,0,1545.16,2025-07-18 16:58:00,Islamabad,Bank Transfer,NovaMart Premium,Female,18-24,5,2025,7,Jul,Friday,16,3,0
+TXN-2025799,CUST-01833,Health & Beauty,Panadol Strip 10tabs,1,98.91,10,89.02,2025-11-05 20:06:00,Rawalpindi,Bank Transfer,NovaMart Express,Female,55+,4,2025,11,Nov,Wednesday,20,4,0
+TXN-2025607,CUST-01424,Clothing,Winter Jacket,2,5292.63,5,10056.0,2025-01-29 10:17:00,Lahore,Cash,NovaMart Express,Female,35-44,3,2025,1,Jan,Wednesday,10,1,0
+TXN-2025181,CUST-00502,Groceries,Sunflower Oil 5L,1,2032.93,10,1829.64,2025-01-27 18:14:00,Karachi,Cash,NovaMart Premium,Female,45-54,2,2025,1,Jan,Monday,18,1,0
+TXN-2025302,CUST-02274,Groceries,Nestle Everyday Tea Whitener 400g,5,419.72,0,2098.6,2025-12-06 10:43:00,Karachi,Cash,NovaMart Central,Female,55+,5,2025,12,Dec,Saturday,10,4,1
+TXN-2025974,CUST-02615,Stationery,Casio fx-82 Calculator,4,1975.84,0,7903.36,2025-02-06 14:34:00,Rawalpindi,Cash,NovaMart Express,Female,45-54,4,2025,2,Feb,Thursday,14,1,0
+TXN-2025918,CUST-00111,Health & Beauty,LOreal Face Wash,2,575.02,0,1150.04,2025-12-24 09:53:00,Rawalpindi,Cash,NovaMart Express,Female,55+,5,2025,12,Dec,Wednesday,9,4,0
+TXN-2025933,CUST-00337,Groceries,Basmati Rice 5kg,1,1297.09,5,1232.24,2025-10-21 17:46:00,Lahore,JazzCash,NovaMart Premium,Female,25-34,4,2025,10,Oct,Tuesday,17,4,0
+TXN-2025882,CUST-00211,Home & Kitchen,Dawlance Microwave 25L,1,18603.96,5,17673.76,2025-10-26 12:10:00,Karachi,Credit Card,NovaMart Express,Male,55+,5,2025,10,Oct,Sunday,12,4,1
+TXN-2025998,CUST-00862,Electronics,Anker USB-C Charger,2,1257.63,0,2515.26,2025-10-24 14:01:00,Rawalpindi,Cash,NovaMart Central,Male,35-44,5,2025,10,Oct,Friday,14,4,0
+TXN-2025856,CUST-02328,Health & Beauty,Pantene Shampoo 360ml,3,508.8,10,1373.76,2025-10-17 12:46:00,Karachi,Debit Card,NovaMart Premium,Female,25-34,4,2025,10,Oct,Friday,12,4,0
+TXN-2025518,CUST-00399,Toys & Kids,Art & Craft Kit,2,1469.93,20,2351.89,2025-12-13 14:52:00,Multan,Credit Card,NovaMart Outlet,Female,25-34,5,2025,12,Dec,Saturday,14,4,1
+TXN-2025373,CUST-02390,Stationery,Ball Pen Pack 10pcs,1,197.46,0,197.46,2025-12-30 20:21:00,Rawalpindi,Cash,NovaMart Express,Female,18-24,2,2025,12,Dec,Tuesday,20,4,0
+TXN-2025046,CUST-00744,Home & Kitchen,Anex Blender AG-6122,2,4499.44,0,8998.88,2025-10-09 10:14:00,Karachi,JazzCash,NovaMart Premium,Female,35-44,4,2025,10,Oct,Thursday,10,4,0
+TXN-2025477,CUST-02934,Electronics,"Haier LED TV 32""",2,40161.42,0,80322.84,2025-09-17 16:05:00,Faisalabad,Cash,NovaMart Express,Female,25-34,4,2025,9,Sep,Wednesday,16,3,0
+TXN-2025158,CUST-02445,Health & Beauty,LOreal Face Wash,2,765.26,0,1530.52,2025-02-15 19:07:00,Rawalpindi,JazzCash,NovaMart Premium,Male,45-54,4,2025,2,Feb,Saturday,19,1,1
+TXN-2025957,CUST-02990,Groceries,Lays Chips Family Pack,1,170.39,5,161.87,2025-11-09 11:40:00,Karachi,Debit Card,NovaMart Central,Female,35-44,4,2025,11,Nov,Sunday,11,4,1
+TXN-2025172,CUST-00051,Groceries,Lays Chips Family Pack,1,192.97,0,192.97,2025-12-19 16:31:00,Multan,EasyPaisa,NovaMart Central,Male,25-34,4,2025,12,Dec,Friday,16,4,0
+TXN-2025017,CUST-01514,Electronics,Lenovo Laptop Bag,2,3431.74,0,6863.48,2025-03-22 17:29:00,Islamabad,Credit Card,NovaMart Express,Male,55+,5,2025,3,Mar,Saturday,17,1,1
+TXN-2025512,CUST-00433,Stationery,Ball Pen Pack 10pcs,5,212.75,0,1063.75,2025-08-26 11:53:00,Rawalpindi,Cash,NovaMart Central,Male,45-54,5,2025,8,Aug,Tuesday,11,3,0
+TXN-2025049,CUST-01891,Stationery,Camlin Geometry Box,2,416.24,0,832.48,2025-09-05 20:28:00,Karachi,Debit Card,NovaMart Central,Female,18-24,5,2025,9,Sep,Friday,20,3,0
+TXN-2025192,CUST-02488,Electronics,Xiaomi Power Bank 20000mAh,1,3457.45,15,2938.83,2025-01-11 13:06:00,Sialkot,Credit Card,NovaMart Express,Female,45-54,4,2025,1,Jan,Saturday,13,1,1
+TXN-2025547,CUST-00684,Stationery,Spiral Notebook A5,1,366.34,5,348.02,2025-12-05 10:12:00,Quetta,Cash,NovaMart Central,Female,35-44,5,2025,12,Dec,Friday,10,4,0
+TXN-2025877,CUST-02527,Clothing,Men's Polo Shirt,1,1545.16,0,1545.16,2025-07-18 16:58:00,Islamabad,Bank Transfer,NovaMart Premium,Female,18-24,5,2025,7,Jul,Friday,16,3,0
+TXN-2025883,CUST-00697,Sports & Fitness,Cycling Gloves,1,999.63,0,999.63,2025-01-16 12:08:00,Lahore,Cash,NovaMart Express,Male,55+,4,2025,1,Jan,Thursday,12,1,0
+TXN-2025481,CUST-00382,Home & Kitchen,Non-Stick Fry Pan,1,2774.22,0,2774.22,2025-03-31 21:36:00,Islamabad,Cash,NovaMart Premium,Male,25-34,5,2025,3,Mar,Monday,21,1,0
+TXN-2025284,CUST-01128,Groceries,Basmati Rice 5kg,1,1394.12,0,1394.12,2025-12-07 10:24:00,Faisalabad,Cash,NovaMart Outlet,Male,35-44,4,2025,12,Dec,Sunday,10,4,1
+TXN-2025924,CUST-00573,Stationery,A4 Paper Ream 500sheets,2,784.78,0,1569.56,2025-01-17 19:34:00,Lahore,Cash,NovaMart Express,Male,18-24,4,2025,1,Jan,Friday,19,1,0
+TXN-2026015,CUST-00419,Health & Beauty,Himalaya Neem Face Wash,2,433.05,0,866.1,2025-05-21 18:52:00,Rawalpindi,Debit Card,NovaMart Premium,Female,25-34,4,2025,5,May,Wednesday,18,2,0
+TXN-2025844,CUST-00450,Health & Beauty,Ponds Moisturizer 200ml,1,763.3,0,763.3,2025-08-03 15:29:00,Karachii,Credit Card,NovaMart Outlet,Male,18-24,4,2025,8,Aug,Sunday,15,3,1
+TXN-2025226,CUST-00191,Health & Beauty,Gillette Fusion Razor,1,1566.51,15,1331.53,2025-03-16 12:45:00,Lahore,Credit Card,NovaMart Outlet,Male,45-54,3,2025,3,Mar,Sunday,12,1,1
+TXN-2025027,CUST-01000,Clothing,Kids Tracksuit,2,1787.15,10,3216.87,2025-04-22 14:51:00,Islamabad,EasyPaisa,NovaMart Outlet,Male,45-54,4,2025,4,Apr,Tuesday,14,2,0
+TXN-2026003,CUST-01859,Health & Beauty,Ponds Moisturizer 200ml,1,901.34,5,856.27,2025-06-12 17:53:00,Rawalpindi,Cash,NovaMart Express,Female,45-54,5,2025,6,Jun,Thursday,17,2,0
+TXN-2025296,CUST-01325,Electronics,JBL Bluetooth Speaker,1,6786.1,0,6786.1,2025-12-02 16:16:00,Lahore,Debit Card,NovaMart Outlet,Male,25-34,4,2025,12,Dec,Tuesday,16,4,0
+TXN-2025438,CUST-02230,Toys & Kids,Ludo Deluxe Board Game,1,802.54,0,802.54,2025-12-26 17:33:00,Peshawar,EasyPaisa,NovaMart Express,Male,45-54,4,2025,12,Dec,Friday,17,4,0
+TXN-2025746,CUST-01949,Electronics,Xiaomi Power Bank 20000mAh,2,4420.0,0,8840.0,2025-01-29 15:47:00,Karachi,Credit Card,NovaMart Central,Male,18-24,5,2025,1,Jan,Wednesday,15,1,0
+TXN-2025365,CUST-02659,Electronics,Lenovo Laptop Bag,1,3428.7,0,3428.7,2025-09-30 17:56:00,Rawalpindi,Cash,NovaMart Central,Male,18-24,4,2025,9,Sep,Tuesday,17,3,0
+TXN-2025230,CUST-02142,Health & Beauty,Himalaya Neem Face Wash,4,425.76,5,1617.89,2025-11-06 15:44:00,Faisalabad,EasyPaisa,NovaMart Central,Female,45-54,4,2025,11,Nov,Thursday,15,4,0
+TXN-2025038,CUST-01836,Sports & Fitness,Football Size 5,2,2355.79,0,4711.58,2025-08-07 14:16:00,Lahore,Credit Card,NovaMart Outlet,Male,35-44,4,2025,8,Aug,Thursday,14,3,0
+TXN-2025670,CUST-01665,Health & Beauty,Panadol Strip 10tabs,1,100.49,0,100.49,2025-12-19 18:12:00,Karachi,Cash,NovaMart Express,Female,25-34,4,2025,12,Dec,Friday,18,4,0
+TXN-2025750,CUST-02236,Stationery,Highlighter Set 6colors,2,414.51,0,829.02,2025-03-01 12:02:00,Lahore,Debit Card,NovaMart Premium,Female,35-44,3,2025,3,Mar,Saturday,12,1,1
+TXN-2025375,CUST-02985,Clothing,Formal Dress Shirt,1,2849.16,5,2706.7,2025-07-12 15:00:00,Islamabad,Bank Transfer,NovaMart Outlet,Female,25-34,5,2025,7,Jul,Saturday,15,3,1
+TXN-2025470,CUST-01392,Electronics,HP Wireless Mouse,4,1705.07,0,6820.28,2025-01-03 14:35:00,Sialkot,Cash,NovaMart Express,Female,25-34,5,2025,1,Jan,Friday,14,1,0
+TXN-2025688,CUST-02614,Electronics,Lenovo Laptop Bag,4,2632.24,0,10528.96,2025-05-18 14:21:00,Karachi,Credit Card,NovaMart Express,Male,45-54,5,2025,5,May,Sunday,14,2,1
+TXN-2025033,CUST-02670,Groceries,Brooke Bond Supreme 200g,5,296.7,0,1483.5,2025-01-09 14:13:00,Peshawar,Credit Card,NovaMart Central,Male,55+,4,2025,1,Jan,Thursday,14,1,0
+TXN-2025905,CUST-02363,Groceries,Sunflower Oil 5L,1,2052.34,0,2052.34,2025-09-29 18:05:00,Faisalabad,Cash,NovaMart Premium,Male,55+,1,2025,9,Sep,Monday,18,3,0
+TXN-2025936,CUST-00886,Health & Beauty,Colgate Toothpaste 150g,3,212.6,0,637.8,2025-09-23 15:11:00,Faisalabad,Cash,NovaMart Express,Male,55+,4,2025,9,Sep,Tuesday,15,3,0
+TXN-2025195,CUST-02737,Stationery,Sticky Notes 3x3 4pads,1,205.35,0,205.35,2025-11-18 15:23:00,Peshawar,Debit Card,NovaMart Central,Male,45-54,5,2025,11,Nov,Tuesday,15,4,0
+TXN-2026060,CUST-01480,Groceries,Olpers Full Cream Milk 1L,1,195.21,0,195.21,2025-06-15 19:40:00,Peshawar,JazzCash,NovaMart Outlet,Female,55+,5,2025,6,Jun,Sunday,19,2,1
+TXN-2026068,CUST-01689,Electronics,Anker USB-C Charger,1,1193.24,0,1193.24,2025-05-29 17:41:00,Peshawar,Cash,NovaMart Express,Female,25-34,4,2025,5,May,Thursday,17,2,0
+TXN-2025504,CUST-01631,Sports & Fitness,Football Size 5,3,2533.93,15,6461.52,2025-12-10 15:34:00,Peshawar,Cash,NovaMart Express,Female,45-54,4,2025,12,Dec,Wednesday,15,4,0
+TXN-2025876,CUST-00622,Clothing,Kids Tracksuit,1,1074.55,0,1074.55,2025-07-11 17:28:00,Karachi,Credit Card,NovaMart Outlet,Male,25-34,4,2025,7,Jul,Friday,17,3,0
+TXN-2025153,CUST-02517,Toys & Kids,Water Gun Set,2,579.09,5,1100.27,2025-06-07 15:16:00,Lahore,EasyPaisa,NovaMart Premium,Male,45-54,5,2025,6,Jun,Saturday,15,2,1
+TXN-2026044,CUST-02807,Groceries,Nestle Everyday Tea Whitener 400g,1,367.0,5,348.65,2025-10-24 18:05:00,Multan,Credit Card,NovaMart Outlet,Male,25-34,5,2025,10,Oct,Friday,18,4,0
+TXN-2025801,CUST-02006,Electronics,Lenovo Laptop Bag,4,2523.93,0,10095.72,2025-06-10 17:50:00,Karachi,EasyPaisa,NovaMart Central,Male,35-44,5,2025,6,Jun,Tuesday,17,2,0
+TXN-2025580,CUST-01517,Electronics,HP Wireless Mouse,2,1536.14,0,3072.28,2025-11-15 17:37:00,Lahore,Credit Card,NovaMart Central,Male,55+,4,2025,11,Nov,Saturday,17,4,1
+TXN-2025161,CUST-01162,Health & Beauty,Himalaya Neem Face Wash,2,432.53,10,778.55,2025-08-11 16:55:00,Multan,Credit Card,NovaMart Premium,Female,45-54,4,2025,8,Aug,Monday,16,3,0
+TXN-2025681,CUST-02596,Clothing,Casual Sneakers,1,4631.93,0,4631.93,2025-08-14 17:20:00,Lahore,Debit Card,NovaMart Express,Male,55+,5,2025,8,Aug,Thursday,17,3,0
+TXN-2026084,CUST-00363,Stationery,Camlin Geometry Box,1,329.86,10,296.87,2025-02-01 17:02:00,Rawalpindi,EasyPaisa,NovaMart Central,Female,25-34,3,2025,2,Feb,Saturday,17,1,1
+TXN-2025163,CUST-01759,Stationery,A4 Paper Ream 500sheets,1,863.65,0,863.65,2025-12-30 12:41:00,Quetta,Cash,NovaMart Express,Female,35-44,5,2025,12,Dec,Tuesday,12,4,0
+TXN-2025822,CUST-02018,Clothing,Women's Kameez Printed,4,2388.73,0,9554.92,2025-01-24 17:08:00,Multan,Bank Transfer,NovaMart Central,Female,18-24,4,2025,1,Jan,Friday,17,1,0
+TXN-2025706,CUST-02055,Home & Kitchen,Pillow Set 2pcs,1,1755.41,5,1667.64,2025-02-26 13:16:00,Karachi,EasyPaisa,NovaMart Premium,Female,45-54,5,2025,2,Feb,Wednesday,13,1,0
+TXN-2025903,CUST-01278,Clothing,Women's Kameez Printed,2,2879.68,5,5471.39,2025-10-07 16:05:00,Faisalabad,Cash,NovaMart Central,Female,18-24,4,2025,10,Oct,Tuesday,16,4,0
+TXN-2025878,CUST-00927,Home & Kitchen,Kitchen Knife Set,1,1242.07,0,1242.07,2025-12-12 19:16:00,Faisalabad,JazzCash,NovaMart Express,Female,45-54,5,2025,12,Dec,Friday,19,4,0
+TXN-2025899,CUST-00550,Groceries,Rooh Afza 750ml,2,281.2,0,562.4,2025-06-07 19:02:00,Lahore,JazzCash,NovaMart Central,Male,55+,5,2025,6,Jun,Saturday,19,2,1
+TXN-2025970,CUST-00734,Home & Kitchen,Dawlance Microwave 25L,1,21883.62,0,21883.62,2025-05-21 12:56:00,Rawalpindi,Credit Card,NovaMart Premium,Male,35-44,4,2025,5,May,Wednesday,12,2,0
+TXN-2025112,CUST-00922,Groceries,Rooh Afza 750ml,3,327.31,5,932.83,2025-08-17 14:11:00,Multan,Cash,NovaMart Premium,Female,25-34,3,2025,8,Aug,Sunday,14,3,1
+TXN-2025227,CUST-02834,Health & Beauty,Colgate Toothpaste 150g,1,247.47,5,235.1,2025-11-27 17:07:00,Rawalpindi,Credit Card,NovaMart Express,Female,55+,5,2025,11,Nov,Thursday,17,4,0
+TXN-2025885,CUST-00610,Groceries,Tapal Danedar Tea 900g,2,744.05,0,1488.1,2025-07-28 14:10:00,Multan,Cash,NovaMart Outlet,Female,35-44,3,2025,7,Jul,Monday,14,3,0
+TXN-2025852,CUST-02664,Clothing,Casual Sneakers,1,5299.47,5,5034.5,2025-11-06 13:33:00,Faisalabad,JazzCash,NovaMart Outlet,Male,25-34,4,2025,11,Nov,Thursday,13,4,0
+TXN-2025104,CUST-00397,Groceries,Rooh Afza 750ml,1,348.28,0,348.28,2025-08-15 13:38:00,Rawalpindi,Credit Card,NovaMart Express,Female,18-24,4,2025,8,Aug,Friday,13,3,0
+TXN-2025422,CUST-02584,Health & Beauty,Himalaya Neem Face Wash,1,407.91,0,407.91,2025-10-05 14:06:00,Rawalpindi,Cash,NovaMart Outlet,Female,45-54,4,2025,10,Oct,Sunday,14,4,1
+TXN-2025420,CUST-01634,Health & Beauty,Colgate Toothpaste 150g,1,194.8,5,185.06,2025-01-21 16:28:00,Lahore,Cash,NovaMart Central,Male,35-44,4,2025,1,Jan,Tuesday,16,1,0
+TXN-2025964,CUST-00958,Home & Kitchen,Prestige Pressure Cooker 5L,1,2922.81,0,2922.81,2025-01-27 12:05:00,Sialkot,Cash,NovaMart Outlet,Female,45-54,4,2025,1,Jan,Monday,12,1,0
+TXN-2025587,CUST-00765,Electronics,JBL Bluetooth Speaker,2,4583.46,15,7791.88,2025-03-31 14:05:00,Karachi,Credit Card,NovaMart Premium,Male,55+,4,2025,3,Mar,Monday,14,1,0
+TXN-2026000,CUST-01019,Electronics,Xiaomi Power Bank 20000mAh,4,3367.21,0,13468.84,2025-02-20 18:43:00,Rawalpindi,Cash,NovaMart Outlet,Male,45-54,5,2025,2,Feb,Thursday,18,1,0
+TXN-2025673,CUST-02304,Health & Beauty,Himalaya Neem Face Wash,1,382.76,0,382.76,2025-08-17 17:36:00,Karachi,Credit Card,NovaMart Express,Female,45-54,4,2025,8,Aug,Sunday,17,3,1
+TXN-2025120,CUST-01704,Groceries,Tapal Danedar Tea 900g,2,803.54,15,1366.02,2025-11-04 15:10:00,Lahore,Cash,NovaMart Premium,Male,35-44,4,2025,11,Nov,Tuesday,15,4,0
+TXN-2025054,CUST-00932,Stationery,Highlighter Set 6colors,2,540.83,15,919.41,2025-10-23 15:05:00,Islamabad,Debit Card,NovaMart Premium,Male,25-34,5,2025,10,Oct,Thursday,15,4,0
+TXN-2025152,CUST-01499,Health & Beauty,Pantene Shampoo 360ml,1,542.94,0,542.94,2025-07-21 13:40:00,Karachi,Cash,NovaMart Express,Male,35-44,5,2025,7,Jul,Monday,13,3,0
+TXN-2025404,CUST-01297,Toys & Kids,Jigsaw Puzzle 500pcs,1,986.57,20,789.26,2025-06-27 16:24:00,Islamabad,Cash,NovaMart Central,Male,35-44,4,2025,6,Jun,Friday,16,2,0
+TXN-2025208,CUST-02971,Health & Beauty,Himalaya Neem Face Wash,2,467.85,0,935.7,2025-12-19 18:21:00,Peshawar,EasyPaisa,NovaMart Premium,Male,25-34,4,2025,12,Dec,Friday,18,4,0
+TXN-2026088,CUST-00867,Clothing,Women's Kameez Printed,4,2387.83,5,9073.75,2025-11-26 16:42:00,Faisalabad,Debit Card,NovaMart Outlet,Female,18-24,3,2025,11,Nov,Wednesday,16,4,0
+TXN-2025659,CUST-00561,Groceries,Olpers Full Cream Milk 1L,1,213.24,0,213.24,2025-04-10 20:36:00,Faisalabad,EasyPaisa,NovaMart Central,Female,55+,4,2025,4,Apr,Thursday,20,2,0
+TXN-2026053,CUST-02266,Sports & Fitness,Skipping Rope Steel,1,614.46,0,614.46,2025-07-04 10:01:00,Peshawar,Cash,NovaMart Express,Female,45-54,4,2025,7,Jul,Friday,10,3,0
+TXN-2025978,CUST-00353,Electronics,"Haier LED TV 32""",1,43557.91,0,43557.91,2025-05-27 13:00:00,Islamabad,Cash,NovaMart Central,Female,35-44,4,2025,5,May,Tuesday,13,2,0
+TXN-2025009,CUST-00526,Health & Beauty,Pantene Shampoo 360ml,4,488.11,15,1659.57,2025-06-16 10:59:00,Karachi,Credit Card,NovaMart Express,Male,55+,4,2025,6,Jun,Monday,10,2,0
+TXN-2025160,CUST-01863,Home & Kitchen,Bed Sheet King Size,1,3755.63,0,3755.63,2025-06-27 13:53:00,Multan,JazzCash,NovaMart Premium,Female,35-44,4,2025,6,Jun,Friday,13,2,0
+TXN-2025037,CUST-00745,Groceries,Nestle Everyday Tea Whitener 400g,1,408.15,15,346.93,2025-09-25 15:27:00,Lahore,Credit Card,NovaMart Premium,Female,25-34,4,2025,9,Sep,Thursday,15,3,0
+TXN-2025453,CUST-02675,Sports & Fitness,Dumbbell Set 10kg Pair,5,4246.61,10,19109.74,2025-10-14 15:54:00,Islamabad,CreditCard,NovaMart Premium,Female,18-24,5,2025,10,Oct,Tuesday,15,4,0
+TXN-2025652,CUST-00684,Health & Beauty,Dettol Handwash 500ml,1,288.15,20,230.52,2025-10-22 12:16:00,Rawalpindi,Debit Card,NovaMart Central,Male,55+,5,2025,10,Oct,Wednesday,12,4,0
+TXN-2025254,CUST-02858,Electronics,JBL Bluetooth Speaker,2,7205.95,0,14411.9,2025-10-20 10:50:00,Hyderabad,Debit Card,NovaMart Central,Female,35-44,4,2025,10,Oct,Monday,10,4,0
+TXN-2025304,CUST-01301,Clothing,Denim Jeans Slim Fit,2,2756.2,0,5512.4,2025-09-05 13:08:00,Karachi,Bank Transfer,NovaMart Express,Male,35-44,4,2025,9,Sep,Friday,13,3,0
+TXN-2025959,CUST-02147,Health & Beauty,Himalaya Neem Face Wash,4,469.97,20,1503.9,2025-03-12 10:51:00,Rawalpindi,EasyPaisa,NovaMart Outlet,Male,45-54,4,2025,3,Mar,Wednesday,10,1,0
+TXN-2025881,CUST-00997,Groceries,Rooh Afza 750ml,1,288.28,10,259.45,2025-07-27 15:26:00,Islamabad,EasyPaisa,NovaMart Premium,Male,25-34,5,2025,7,Jul,Sunday,15,3,1
+TXN-2025572,CUST-00163,Groceries,Lays Chips Family Pack,1,162.9,0,162.9,2025-03-03 14:23:00,Peshawar,Debit Card,NovaMart Outlet,Male,55+,5,2025,3,Mar,Monday,14,1,0
+TXN-2025624,CUST-01917,Clothing,Casual Sneakers,1,3533.06,5,3356.41,2025-07-27 15:01:00,Quetta,Debit Card,NovaMart Express,Male,55+,4,2025,7,Jul,Sunday,15,3,1
+TXN-2025913,CUST-00611,Stationery,Stapler Heavy Duty,1,864.57,0,864.57,2025-09-26 14:25:00,Hyderabad,EasyPaisa,NovaMart Central,Male,35-44,5,2025,9,Sep,Friday,14,3,0
+TXN-2025925,CUST-00048,Clothing,Casual Sneakers,2,5662.76,5,10759.24,2025-04-23 16:33:00,Lahore,Cash,NovaMart Central,Female,55+,4,2025,4,Apr,Wednesday,16,2,0
+TXN-2025915,CUST-00948,Clothing,Sports T-Shirt,3,1149.82,0,3449.46,2025-07-16 16:56:00,Islamabad,Credit Card,NovaMart Express,Male,35-44,3,2025,7,Jul,Wednesday,16,3,0
+TXN-2025263,CUST-00749,Clothing,Women's Kameez Printed,2,2178.18,0,4356.36,2025-07-31 14:34:00,Rawalpindi,Cash,NovaMart Premium,Female,25-34,5,2025,7,Jul,Thursday,14,3,0
+TXN-2025611,CUST-00606,Health & Beauty,LOreal Face Wash,3,691.68,10,1867.54,2025-08-09 14:00:00,Quetta,Debit Card,NovaMart Central,Male,25-34,4,2025,8,Aug,Saturday,14,3,1
+TXN-2025298,CUST-01407,Clothing,Denim Jeans Slim Fit,3,3563.92,0,10691.76,2025-03-15 10:52:00,Karachi,EasyPaisa,NovaMart Central,Male,45-54,5,2025,3,Mar,Saturday,10,1,1
+TXN-2025415,CUST-01762,Stationery,Spiral Notebook A5,1,342.33,0,342.33,2025-03-17 15:21:00,Lahore,Bank Transfer,NovaMart Premium,Female,45-54,5,2025,3,Mar,Monday,15,1,0
+TXN-2025151,CUST-00950,Electronics,"Haier LED TV 32""",1,42062.84,20,33650.27,2025-05-02 18:07:00,Lahore,Cash,NovaMart Outlet,Male,25-34,4,2025,5,May,Friday,18,2,0
+TXN-2026009,CUST-01674,Electronics,Sony Earbuds WF-C500,1,10067.16,0,10067.16,2025-03-14 16:34:00,Faisalabad,Bank Transfer,NovaMart Central,Male,35-44,3,2025,3,Mar,Friday,16,1,0
+TXN-2025779,CUST-01200,Stationery,Spiral Notebook A5,2,368.54,5,700.23,2025-12-25 19:06:00,Islamabad,JazzCash,NovaMart Express,Male,25-34,3,2025,12,Dec,Thursday,19,4,0
+TXN-2025641,CUST-01397,Electronics,Sony Earbuds WF-C500,4,11780.28,10,42409.01,2025-04-13 13:27:00,Lahore,JazzCash,NovaMart Central,Female,45-54,4,2025,4,Apr,Sunday,13,2,1
+TXN-2025551,CUST-00724,Stationery,Casio fx-82 Calculator,1,2305.46,5,2190.19,2025-11-12 16:23:00,Lahore,Cash,NovaMart Premium,Male,45-54,3,2025,11,Nov,Wednesday,16,4,0
+TXN-2026012,CUST-00236,Stationery,Highlighter Set 6colors,1,437.36,0,437.36,2025-07-06 18:58:00,Karachi,Cash,NovaMart Central,Male,35-44,4,2025,7,Jul,Sunday,18,3,1
+TXN-2025489,CUST-01600,Clothing,Men's Polo Shirt,1,2080.6,0,2080.6,2025-01-20 11:18:00,Karachi,Cash,NovaMart Central,Male,25-34,2,2025,1,Jan,Monday,11,1,0
+TXN-2025820,CUST-00070,Groceries,Olpers Full Cream Milk 1L,3,203.75,0,611.25,2025-06-15 18:09:00,Lahore,Cash,NovaMart Premium,Female,25-34,4,2025,6,Jun,Sunday,18,2,1
+TXN-2026037,CUST-00624,Sports & Fitness,Resistance Bands Set,2,1342.84,0,2685.68,2025-11-06 18:21:00,Quetta,Cash,NovaMart Express,Female,25-34,3,2025,11,Nov,Thursday,18,4,0
+TXN-2025148,CUST-00682,Stationery,Camlin Geometry Box,1,390.7,15,332.09,2025-07-18 15:58:00,Islamabad,Debit Card,NovaMart Premium,Male,18-24,3,2025,7,Jul,Friday,15,3,0
+TXN-2025147,CUST-02385,Electronics,Xiaomi Power Bank 20000mAh,1,4276.76,0,4276.76,2025-08-31 17:28:00,Lahore,Cash,NovaMart Outlet,Female,45-54,2,2025,8,Aug,Sunday,17,3,1
+TXN-2025346,CUST-00445,Electronics,Samsung Galaxy A14,3,46807.67,0,140423.01,2025-03-25 11:49:00,Karachi,Bank Transfer,NovaMart Outlet,Male,35-44,3,2025,3,Mar,Tuesday,11,1,0
+TXN-2025951,CUST-02130,Groceries,Sunflower Oil 5L,1,1982.87,15,1685.44,2025-10-23 10:35:00,Faisalabad,Cash,NovaMart Express,Male,25-34,5,2025,10,Oct,Thursday,10,4,0
+TXN-2026078,CUST-00013,Electronics,"Haier LED TV 32""",5,38288.87,0,191444.35,2025-12-19 17:41:00,Faisalabad,Cash,NovaMart Central,Female,45-54,1,2025,12,Dec,Friday,17,4,0
+TXN-2025660,CUST-01776,Clothing,Women's Kameez Printed,2,2056.1,0,4112.2,2025-05-24 17:22:00,Rawalpindi,Credit Card,NovaMart Central,Male,45-54,4,2025,5,May,Saturday,17,2,1
+TXN-2025771,CUST-01270,Sports & Fitness,Football Size 5,4,2369.75,5,9005.05,2025-08-28 17:04:00,Faisalabad,Credit Card,NovaMart Outlet,Male,55+,3,2025,8,Aug,Thursday,17,3,0
+TXN-2025349,CUST-02654,Groceries,Basmati Rice 5kg,5,1452.91,0,7264.55,2025-10-18 20:22:00,Islamabad,Bank Transfer,NovaMart Premium,Male,45-54,5,2025,10,Oct,Saturday,20,4,1
+TXN-2025464,CUST-01646,Health & Beauty,Ponds Moisturizer 200ml,1,929.78,0,929.78,2025-01-30 10:20:00,Rawalpindi,Cash,NovaMart Outlet,Male,35-44,4,2025,1,Jan,Thursday,10,1,0
+TXN-2025326,CUST-02326,Home & Kitchen,PEL Refrigerator 14CuFt,1,79244.73,10,71320.26,2025-01-03 15:11:00,Faisalabad,Debit Card,NovaMart Outlet,Male,55+,5,2025,1,Jan,Friday,15,1,0
+TXN-2025187,CUST-02401,Stationery,Camlin Geometry Box,2,300.68,0,601.36,2025-06-23 12:51:00,Karachi,Debit Card,NovaMart Outlet,Female,55+,4,2025,6,Jun,Monday,12,2,0
+TXN-2025124,CUST-02677,Sports & Fitness,Resistance Bands Set,4,1305.09,0,5220.36,2025-05-14 12:08:00,Quetta,Credit Card,NovaMart Express,Male,35-44,5,2025,5,May,Wednesday,12,2,0
+TXN-2026059,CUST-02874,Home & Kitchen,PEL Refrigerator 14CuFt,2,82658.39,15,140519.26,2025-02-12 10:51:00,Karachi,Debit Card,NovaMart Outlet,Male,18-24,2,2025,2,Feb,Wednesday,10,1,0
+TXN-2025609,CUST-00186,Clothing,Women's Kameez Printed,3,1790.23,0,5370.69,2025-11-16 15:01:00,Lahore,Credit Card,NovaMart Central,Male,35-44,3,2025,11,Nov,Sunday,15,4,1
+TXN-2025144,CUST-00555,Clothing,Winter Jacket,1,5973.86,0,5973.86,2025-03-09 14:31:00,Lahore,Cash,NovaMart Central,Female,35-44,3,2025,3,Mar,Sunday,14,1,1
+TXN-2025752,CUST-01629,Health & Beauty,Dettol Handwash 500ml,1,335.05,10,301.55,2025-11-01 21:08:00,Lahore,Credit Card,NovaMart Express,Male,55+,5,2025,11,Nov,Saturday,21,4,1
+TXN-2025907,CUST-00946,Home & Kitchen,Dawlance Microwave 25L,1,20433.27,0,20433.27,2025-02-23 15:41:00,Karachi,Cash,NovaMart Central,Male,55+,3,2025,2,Feb,Sunday,15,1,1
+TXN-2025198,CUST-00461,Health & Beauty,Dettol Handwash 500ml,1,318.81,0,318.81,2025-11-05 18:16:00,Lahore,Credit Card,NovaMart Outlet,Male,45-54,4,2025,11,Nov,Wednesday,18,4,0
+TXN-2025610,CUST-02718,Stationery,Ball Pen Pack 10pcs,3,202.85,0,608.55,2025-01-19 17:18:00,Multan,Credit Card,NovaMart Premium,Female,45-54,5,2025,1,Jan,Sunday,17,1,1
+TXN-2025884,CUST-UNKNOWN,Clothing,Women's Kameez Printed,1,2914.06,0,2914.06,2025-07-27 21:06:00,Rawalpindi,Cash,NovaMart Premium,Unknown,35-44,4,2025,7,Jul,Sunday,21,3,1
+TXN-2025280,CUST-00138,Electronics,HP Wireless Mouse,1,1916.56,0,1916.56,2025-03-02 13:25:00,Karachi,Bank Transfer,NovaMart Express,Male,25-34,5,2025,3,Mar,Sunday,13,1,1
+TXN-2025294,CUST-02212,Stationery,A4 Paper Ream 500sheets,1,917.45,5,871.58,2025-01-30 18:22:00,Rawalpindi,Cash,NovaMart Premium,Female,18-24,4,2025,1,Jan,Thursday,18,1,0
+TXN-2025439,CUST-00381,Health & Beauty,Panadol Strip 10tabs,4,111.02,0,444.08,2025-10-26 16:28:00,Islamabad,Credit Card,NovaMart Express,Male,35-44,4,2025,10,Oct,Sunday,16,4,1
+TXN-2025401,CUST-00653,Clothing,Denim Jeans Slim Fit,1,2545.45,10,2290.9,2025-11-06 13:38:00,Islamabad,Debit Card,NovaMart Express,Female,25-34,5,2025,11,Nov,Thursday,13,4,0
+TXN-2025123,CUST-00130,Electronics,Samsung Galaxy A14,2,50220.63,0,100441.26,2025-08-22 18:46:00,Lahore,Cash,NovaMart Outlet,Male,55+,2,2025,8,Aug,Friday,18,3,0
+TXN-2025184,CUST-02393,Home & Kitchen,Bed Sheet King Size,1,2859.63,0,2859.63,2025-09-26 15:58:00,Quetta,JazzCash,NovaMart Premium,Male,45-54,4,2025,9,Sep,Friday,15,3,0
+TXN-2025203,CUST-01060,Health & Beauty,Dettol Handwash 500ml,1,348.12,0,348.12,2025-06-23 13:23:00,Islamabad,Bank Transfer,NovaMart Express,Female,35-44,4,2025,6,Jun,Monday,13,2,0
+TXN-2025836,CUST-02840,Stationery,Spiral Notebook A5,3,315.83,5,900.12,2025-06-21 15:48:00,Rawalpindi,Debit Card,NovaMart Express,Male,45-54,4,2025,6,Jun,Saturday,15,2,1
+TXN-2025247,CUST-00166,Home & Kitchen,Prestige Pressure Cooker 5L,1,3708.65,0,3708.65,2025-06-17 09:15:00,Rawalpindi,Debit Card,NovaMart Premium,Male,45-54,4,2025,6,Jun,Tuesday,9,2,0
+TXN-2025416,CUST-00751,Groceries,Brooke Bond Supreme 200g,1,333.56,20,266.85,2025-05-29 19:39:00,Multan,Cash,NovaMart Express,Female,18-24,3,2025,5,May,Thursday,19,2,0
+TXN-2025995,CUST-02125,Toys & Kids,Water Gun Set,3,519.14,10,1401.68,2025-03-01 18:48:00,Rawalpindi,Cash,NovaMart Outlet,Male,25-34,4,2025,3,Mar,Saturday,18,1,1
+TXN-2025981,CUST-02284,Groceries,Olpers Full Cream Milk 1L,1,210.31,0,210.31,2025-09-04 17:33:00,Lahore,Credit Card,NovaMart Premium,Female,25-34,5,2025,9,Sep,Thursday,17,3,0
+TXN-2026093,CUST-00536,Clothing,Denim Jeans Slim Fit,1,2435.05,0,2435.05,2025-01-21 13:03:00,Hyderabad,Debit Card,NovaMart Central,Male,25-34,5,2025,1,Jan,Tuesday,13,1,0
+TXN-2025986,CUST-02154,Clothing,Formal Dress Shirt,1,2663.23,0,2663.23,2025-08-31 19:59:00,Multan,Cash,NovaMart Central,Male,55+,4,2025,8,Aug,Sunday,19,3,1
+TXN-2025053,CUST-01387,Groceries,Lays Chips Family Pack,4,154.99,0,619.96,2025-01-05 15:37:00,Karachi,EasyPaisa,NovaMart Premium,Male,18-24,5,2025,1,Jan,Sunday,15,1,1
+TXN-2025130,CUST-00299,Clothing,Women's Kameez Printed,3,3067.78,0,9203.34,2025-09-17 12:15:00,Faisalabad,Cash,NovaMart Central,Female,25-34,4,2025,9,Sep,Wednesday,12,3,0
+TXN-2025638,CUST-00222,Stationery,Casio fx-82 Calculator,3,2459.0,0,7377.0,2025-12-27 14:58:00,Faisalabad,Debit Card,NovaMart Central,Female,25-34,4,2025,12,Dec,Saturday,14,4,1
+TXN-2025403,CUST-01284,Clothing,Women's Kameez Printed,2,2470.65,0,4941.3,2025-11-22 19:25:00,Faisalabad,Debit Card,NovaMart Central,Female,35-44,2,2025,11,Nov,Saturday,19,4,1
+TXN-2026005,CUST-02176,Electronics,Samsung Galaxy A14,2,48101.8,0,96203.6,2025-02-12 16:30:00,Islamabad,Debit Card,NovaMart Premium,Female,25-34,3,2025,2,Feb,Wednesday,16,1,0
+TXN-2025989,CUST-02989,Home & Kitchen,Prestige Pressure Cooker 5L,3,3254.69,15,8299.46,2025-06-09 18:23:00,Lahore,Debit Card,NovaMart Express,Female,25-34,5,2025,6,Jun,Monday,18,2,0
+TXN-2025736,CUST-02599,Health & Beauty,Ponds Moisturizer 200ml,2,928.25,0,1856.5,2025-02-21 15:25:00,Islamabad,Cash,NovaMart Premium,Female,45-54,4,2025,2,Feb,Friday,15,1,0
+TXN-2025855,CUST-01896,Clothing,Kids Tracksuit,4,1614.65,0,6458.6,2025-06-17 17:17:00,Multan,Cash,NovaMart Express,Female,45-54,4,2025,6,Jun,Tuesday,17,2,0
+TXN-2025220,CUST-02505,Electronics,Samsung Galaxy A14,3,51870.98,0,155612.94,2025-12-28 15:26:00,Quetta,Credit Card,NovaMart Premium,Female,25-34,4,2025,12,Dec,Sunday,15,4,1
+TXN-2025642,CUST-00666,Health & Beauty,Ponds Moisturizer 200ml,2,829.66,15,1410.42,2025-12-27 16:55:00,Hyderabad,Cash,NovaMart Premium,Female,25-34,5,2025,12,Dec,Saturday,16,4,1
+TXN-2025002,CUST-01409,Groceries,Basmati Rice 5kg,1,1503.52,0,1503.52,2025-11-23 16:14:00,Lahore,Cash,NovaMart Premium,Female,18-24,4,2025,11,Nov,Sunday,16,4,1
+TXN-2025699,CUST-01905,Electronics,JBL Bluetooth Speaker,1,5777.13,0,5777.13,2025-04-02 13:27:00,Peshawar,Cash,NovaMart Central,Female,25-34,4,2025,4,Apr,Wednesday,13,2,0
+TXN-2025081,CUST-01164,Home & Kitchen,Kitchen Knife Set,1,1061.0,0,1061.0,2025-04-23 15:28:00,Lahore,Debit Card,NovaMart Outlet,Female,18-24,2,2025,4,Apr,Wednesday,15,2,0
+TXN-2025952,CUST-02719,Home & Kitchen,Pillow Set 2pcs,2,1918.82,5,3645.76,2025-10-08 14:42:00,Rawalpindi,Cash,NovaMart Outlet,Female,45-54,5,2025,10,Oct,Wednesday,14,4,0
+TXN-2025625,CUST-01141,Groceries,Rooh Afza 750ml,2,343.18,0,686.36,2025-12-15 14:10:00,Karachii,Cash,NovaMart Express,Female,35-44,5,2025,12,Dec,Monday,14,4,0
+TXN-2026049,CUST-02371,Home & Kitchen,Non-Stick Fry Pan,2,2784.62,10,5012.32,2025-09-22 13:34:00,Quetta,JazzCash,NovaMart Outlet,Male,25-34,5,2025,9,Sep,Monday,13,3,0
+TXN-2025387,CUST-01162,Groceries,Lays Chips Family Pack,1,155.52,10,139.97,2025-07-14 13:14:00,Faisalabad,Debit Card,NovaMart Outlet,Male,18-24,4,2025,7,Jul,Monday,13,3,0
+TXN-2025807,CUST-00590,Sports & Fitness,Dumbbell Set 10kg Pair,2,4430.6,5,8418.15,2025-09-07 15:12:00,Peshawar,Credit Card,NovaMart Premium,Male,18-24,5,2025,9,Sep,Sunday,15,3,1
+TXN-2025510,CUST-00957,Groceries,Nestle Everyday Tea Whitener 400g,2,350.22,15,595.37,2025-08-20 17:55:00,Lahore,Debit Card,NovaMart Outlet,Male,55+,5,2025,8,Aug,Wednesday,17,3,0
+TXN-2025268,CUST-02047,Health & Beauty,Gillette Fusion Razor,2,1682.45,10,3028.41,2025-05-15 12:08:00,Karachi,JazzCash,NovaMart Outlet,Male,35-44,1,2025,5,May,Thursday,12,2,0
+TXN-2026035,CUST-UNKNOWN,Sports & Fitness,Resistance Bands Set,1,1201.94,0,1201.94,2025-01-10 20:24:00,Islamabad,Cash,NovaMart Outlet,Unknown,25-34,4,2025,1,Jan,Friday,20,1,0
+TXN-2025442,CUST-00320,Groceries,Rooh Afza 750ml,1,311.8,0,311.8,2025-07-17 17:06:00,Lahore,Cash,NovaMart Outlet,Female,55+,4,2025,7,Jul,Thursday,17,3,0
+TXN-2025497,CUST-01276,Electronics,JBL Bluetooth Speaker,1,7314.82,0,7314.82,2025-08-21 09:55:00,Rawalpindi,JazzCash,NovaMart Outlet,Male,25-34,2,2025,8,Aug,Thursday,9,3,0
+TXN-2025830,CUST-00581,Electronics,HP Wireless Mouse,2,1976.75,0,3953.5,2025-07-24 16:10:00,Lahore,Debit Card,NovaMart Premium,Female,45-54,5,2025,7,Jul,Thursday,16,3,0
+TXN-2025113,CUST-00600,Sports & Fitness,Skipping Rope Steel,4,504.64,10,1816.7,2025-05-25 14:13:00,Lahore,Cash,NovaMart Premium,Female,55+,4,2025,5,May,Sunday,14,2,1
+TXN-2025692,CUST-00651,Sports & Fitness,Dumbbell Set 10kg Pair,1,4434.49,5,4212.77,2025-05-02 20:33:00,Faisalabad,EasyPaisa,NovaMart Central,Female,45-54,4,2025,5,May,Friday,20,2,0
+TXN-2025233,CUST-01839,Stationery,Stapler Heavy Duty,2,869.02,5,1651.14,2025-01-01 17:12:00,Multan,Debit Card,NovaMart Premium,Male,45-54,5,2025,1,Jan,Wednesday,17,1,0
+TXN-2025472,CUST-00190,Stationery,A4 Paper Ream 500sheets,4,863.07,0,3452.28,2025-03-31 16:51:00,Karachi,Debit Card,NovaMart Express,Female,25-34,4,2025,3,Mar,Monday,16,1,0
+TXN-2025608,CUST-00053,Health & Beauty,Himalaya Neem Face Wash,3,446.08,5,1271.33,2025-11-10 17:18:00,Karachi,Debit Card,NovaMart Express,Male,25-34,5,2025,11,Nov,Monday,17,4,0
+TXN-2025672,CUST-02526,Electronics,JBL Bluetooth Speaker,5,6929.04,0,34645.2,2025-04-15 14:36:00,Karachi,EasyPaisa,NovaMart Outlet,Female,35-44,2,2025,4,Apr,Tuesday,14,2,0
+TXN-2025374,CUST-02933,Clothing,Formal Dress Shirt,5,2612.48,20,10449.92,2025-09-08 18:49:00,Lahore,Credit Card,NovaMart Express,Male,55+,4,2025,9,Sep,Monday,18,3,0
+TXN-2025827,CUST-01479,Clothing,Women's Kameez Printed,3,1570.82,5,4476.84,2025-01-15 16:41:00,Peshawar,Cash,NovaMart Premium,Female,45-54,5,2025,1,Jan,Wednesday,16,1,0
+TXN-2025975,CUST-02804,Home & Kitchen,Bed Sheet King Size,3,4079.07,0,12237.21,2025-04-21 20:43:00,Hyderabad,Debit Card,NovaMart Central,Male,25-34,3,2025,4,Apr,Monday,20,2,0
+TXN-2025664,CUST-01192,Electronics,Sony Earbuds WF-C500,1,10812.15,0,10812.15,2025-08-11 13:27:00,Karachi,EasyPaisa,NovaMart Central,Female,35-44,5,2025,8,Aug,Monday,13,3,0
+TXN-2026061,CUST-01149,Groceries,Sunflower Oil 5L,1,2068.39,0,2068.39,2025-06-17 14:07:00,Rawalpindi,JazzCash,NovaMart Express,Male,35-44,5,2025,6,Jun,Tuesday,14,2,0
+TXN-2025234,CUST-00630,Health & Beauty,Ponds Moisturizer 200ml,2,807.13,0,1614.26,2025-03-22 11:11:00,Rawalpindi,Cash,NovaMart Central,Female,35-44,5,2025,3,Mar,Saturday,11,1,1
+TXN-2025819,CUST-00323,Home & Kitchen,Pillow Set 2pcs,1,1832.57,10,1649.31,2025-12-02 17:12:00,Karachi,Cash,NovaMart Outlet,Male,25-34,1,2025,12,Dec,Tuesday,17,4,0
+TXN-2026006,CUST-02312,Health & Beauty,Ponds Moisturizer 200ml,2,755.46,0,1510.92,2025-11-29 11:20:00,Lahore,Cash,NovaMart Outlet,Female,55+,4,2025,11,Nov,Saturday,11,4,1
+TXN-2025677,CUST-02203,Toys & Kids,Stuffed Teddy Bear 30cm,1,805.89,0,805.89,2025-06-30 18:54:00,Karachi,Bank Transfer,NovaMart Central,Female,45-54,3,2025,6,Jun,Monday,18,2,0
+TXN-2025318,CUST-02968,Electronics,HP Wireless Mouse,1,1752.01,0,1752.01,2025-07-14 10:22:00,Lahore,Debit Card,NovaMart Outlet,Male,18-24,4,2025,7,Jul,Monday,10,3,0
+TXN-2025649,CUST-02487,Electronics,HP Wireless Mouse,5,1652.32,5,7848.52,2025-12-05 14:41:00,Multan,Debit Card,NovaMart Central,Male,45-54,4,2025,12,Dec,Friday,14,4,0
+TXN-2025411,CUST-01091,Clothing,Women's Kameez Printed,2,1524.0,10,2743.2,2025-07-20 15:16:00,Quetta,JazzCash,NovaMart Express,Female,18-24,5,2025,7,Jul,Sunday,15,3,1
+TXN-2026087,CUST-00406,Sports & Fitness,Dumbbell Set 10kg Pair,1,3502.19,0,3502.19,2025-09-06 11:29:00,Lahore,Cash,NovaMart Express,Male,25-34,4,2025,9,Sep,Saturday,11,3,1
+TXN-2025710,CUST-01538,Groceries,Olpers Full Cream Milk 1L,2,204.97,0,409.94,2025-05-25 14:43:00,Multan,JazzCash,NovaMart Express,Female,35-44,4,2025,5,May,Sunday,14,2,1
+TXN-2025359,CUST-02589,Groceries,Lays Chips Family Pack,1,179.25,0,179.25,2025-04-24 15:12:00,Karachi,Debit Card,NovaMart Express,Male,25-34,3,2025,4,Apr,Thursday,15,2,0
+TXN-2025259,CUST-02520,Groceries,Basmati Rice 5kg,3,1578.29,5,4498.13,2025-10-02 17:59:00,Islamabad,Cash,NovaMart Express,Female,25-34,5,2025,10,Oct,Thursday,17,4,0
+TXN-2025745,CUST-01359,Clothing,Women's Kameez Printed,1,2837.15,0,2837.15,2025-03-30 16:09:00,Lahore,Credit Card,NovaMart Central,Female,35-44,1,2025,3,Mar,Sunday,16,1,1
+TXN-2025973,CUST-02757,Groceries,Tapal Danedar Tea 900g,2,832.45,10,1498.41,2025-09-01 15:11:00,Multan,CreditCard,NovaMart Central,Female,35-44,4,2025,9,Sep,Monday,15,3,0
+TXN-2025628,CUST-00802,Groceries,Rooh Afza 750ml,3,322.46,15,822.27,2025-02-02 16:07:00,Lahore,Debit Card,NovaMart Express,Female,18-24,4,2025,2,Feb,Sunday,16,1,1
+TXN-2025633,CUST-02451,Sports & Fitness,Adidas Lite Racer Shoes,1,7089.04,15,6025.68,2025-01-05 13:52:00,Quetta,JazzCash,NovaMart Outlet,Male,25-34,2,2025,1,Jan,Sunday,13,1,1
+TXN-2026014,CUST-02416,Health & Beauty,Gillette Fusion Razor,1,1544.5,5,1467.27,2025-04-18 18:35:00,Faisalabad,Credit Card,NovaMart Central,Male,18-24,4,2025,4,Apr,Friday,18,2,0
+TXN-2025283,CUST-01797,Sports & Fitness,Adidas Lite Racer Shoes,2,6649.44,5,12633.94,2025-02-08 12:05:00,Multan,Cash,NovaMart Premium,Male,25-34,4,2025,2,Feb,Saturday,12,1,1
+TXN-2025377,CUST-00110,Health & Beauty,Colgate Toothpaste 150g,1,238.26,0,238.26,2025-03-18 15:36:00,Peshawar,Credit Card,NovaMart Express,Female,35-44,5,2025,3,Mar,Tuesday,15,1,0
+TXN-2025385,CUST-02167,Toys & Kids,Water Gun Set,3,505.66,10,1365.28,2025-04-06 17:01:00,Rawalpindi,Credit Card,NovaMart Central,Male,18-24,4,2025,4,Apr,Sunday,17,2,1
+TXN-2025225,CUST-00188,Home & Kitchen,Kitchen Knife Set,1,1301.14,10,1171.03,2025-01-27 13:29:00,Lahore,Credit Card,NovaMart Central,Female,35-44,4,2025,1,Jan,Monday,13,1,0
+TXN-2025898,CUST-02632,Clothing,Formal Dress Shirt,2,2728.16,0,5456.32,2025-09-25 18:13:00,Sialkot,Cash,NovaMart Premium,Female,35-44,4,2025,9,Sep,Thursday,18,3,0
+TXN-2026031,CUST-01277,Health & Beauty,LOreal Face Wash,4,705.64,5,2681.43,2025-05-03 15:26:00,Hyderabad,Debit Card,NovaMart Outlet,Male,35-44,4,2025,5,May,Saturday,15,2,1
+TXN-2025473,CUST-02718,Clothing,Kids Tracksuit,3,1042.61,10,2815.05,2025-10-19 13:34:00,Peshawar,Bank Transfer,NovaMart Outlet,Female,25-34,2,2025,10,Oct,Sunday,13,4,1
+TXN-2025348,CUST-00497,Groceries,Basmati Rice 5kg,4,1406.15,0,5624.6,2025-11-13 13:44:00,Islamabad,EasyPaisa,NovaMart Outlet,Male,35-44,1,2025,11,Nov,Thursday,13,4,0
+TXN-2025506,CUST-02607,Home & Kitchen,Pillow Set 2pcs,1,1247.19,10,1122.47,2025-03-17 20:28:00,Lahore,EasyPaisa,NovaMart Central,Female,25-34,5,2025,3,Mar,Monday,20,1,0
+TXN-2025640,CUST-00920,Stationery,Highlighter Set 6colors,5,410.08,0,2050.4,2025-08-31 12:31:00,Peshawar,Credit Card,NovaMart Central,Male,45-54,4,2025,8,Aug,Sunday,12,3,1
+TXN-2025231,CUST-00420,Sports & Fitness,Dumbbell Set 10kg Pair,2,5467.06,0,10934.12,2025-02-01 14:03:00,Karachi,JazzCash,NovaMart Outlet,Male,45-54,2,2025,2,Feb,Saturday,14,1,1
+TXN-2025798,CUST-00465,Health & Beauty,Colgate Toothpaste 150g,1,191.43,15,162.72,2025-12-06 14:06:00,Lahore,Debit Card,NovaMart Express,Female,35-44,4,2025,12,Dec,Saturday,14,4,1
+TXN-2025340,CUST-00223,Health & Beauty,Himalaya Neem Face Wash,1,447.86,0,447.86,2025-09-28 10:05:00,Faisalabad,JazzCash,NovaMart Premium,Male,25-34,5,2025,9,Sep,Sunday,10,3,1
+TXN-2025556,CUST-00421,Groceries,Rooh Afza 750ml,1,313.52,0,313.52,2025-03-16 18:57:00,Lahore,Debit Card,NovaMart Premium,Male,45-54,3,2025,3,Mar,Sunday,18,1,1
+TXN-2025620,CUST-00916,Groceries,Basmati Rice 5kg,2,1248.58,0,2497.16,2025-02-11 16:52:00,Faisalabad,JazzCash,NovaMart Express,Male,35-44,5,2025,2,Feb,Tuesday,16,1,0
+TXN-2025796,CUST-00088,Clothing,Kids Tracksuit,1,1694.42,15,1440.26,2025-07-19 18:12:00,Lahore,EasyPaisa,NovaMart Central,Male,35-44,5,2025,7,Jul,Saturday,18,3,1
+TXN-2025646,CUST-02077,Electronics,Anker USB-C Charger,1,1482.7,10,1334.43,2025-09-28 15:20:00,Peshawar,Debit Card,NovaMart Central,Male,35-44,4,2025,9,Sep,Sunday,15,3,1
+TXN-2026013,CUST-02399,Groceries,Basmati Rice 5kg,3,1502.04,0,4506.12,2025-05-13 15:06:00,Rawalpindi,Debit Card,NovaMart Premium,Male,55+,2,2025,5,May,Tuesday,15,2,0
+TXN-2025953,CUST-01412,Home & Kitchen,Prestige Pressure Cooker 5L,3,3287.48,0,9862.44,2025-02-05 19:36:00,Karachi,Debit Card,NovaMart Outlet,Male,45-54,4,2025,2,Feb,Wednesday,19,1,0
+TXN-2025574,CUST-02632,Clothing,Women's Kameez Printed,1,1994.12,0,1994.12,2025-11-02 17:15:00,Karachi,Credit Card,NovaMart Outlet,Female,35-44,4,2025,11,Nov,Sunday,17,4,1
+TXN-2025557,CUST-02015,Electronics,HP Wireless Mouse,1,1541.71,5,1464.62,2025-09-29 19:09:00,Lahore,EasyPaisa,NovaMart Central,Female,35-44,5,2025,9,Sep,Monday,19,3,0
+TXN-2025682,CUST-02984,Home & Kitchen,Bed Sheet King Size,2,3870.74,0,7741.48,2025-05-23 12:27:00,Lahore,Cash,NovaMart Premium,Female,45-54,5,2025,5,May,Friday,12,2,0
+TXN-2025578,CUST-01327,Groceries,Olpers Full Cream Milk 1L,1,218.62,15,185.83,2025-05-06 13:26:00,Rawalpindi,JazzCash,NovaMart Express,Male,18-24,5,2025,5,May,Tuesday,13,2,0
+TXN-2025525,CUST-02700,Electronics,"Haier LED TV 32""",1,41036.89,0,41036.89,2025-04-21 12:35:00,Islamabad,EasyPaisa,NovaMart Premium,Male,25-34,2,2025,4,Apr,Monday,12,2,0
+TXN-2025541,CUST-00472,Sports & Fitness,Adidas Lite Racer Shoes,1,7585.82,0,7585.82,2025-01-25 17:03:00,Multan,Cash,NovaMart Premium,Male,45-54,3,2025,1,Jan,Saturday,17,1,1
+TXN-2025749,CUST-00811,Sports & Fitness,Football Size 5,1,2211.19,0,2211.19,2025-03-24 17:21:00,Faisalabad,Debit Card,NovaMart Central,Male,45-54,5,2025,3,Mar,Monday,17,1,0
+TXN-2026064,CUST-02954,Clothing,Sports T-Shirt,5,1187.01,0,5935.05,2025-01-23 16:46:00,Karachi,Cash,NovaMart Premium,Female,55+,4,2025,1,Jan,Thursday,16,1,0
+TXN-2025485,CUST-02862,Groceries,Tapal Danedar Tea 900g,3,758.66,10,2048.38,2025-10-02 17:18:00,Lahore,Cash,NovaMart Express,Female,35-44,5,2025,10,Oct,Thursday,17,4,0
+TXN-2025096,CUST-01524,Clothing,Formal Dress Shirt,1,1841.76,10,1657.58,2025-12-22 12:01:00,Lahore,Credit Card,NovaMart Premium,Male,35-44,5,2025,12,Dec,Monday,12,4,0
+TXN-2026021,CUST-02763,Health & Beauty,Pantene Shampoo 360ml,1,533.23,5,506.57,2025-08-11 15:05:00,Karachi,Debit Card,NovaMart Outlet,Male,55+,4,2025,8,Aug,Monday,15,3,0
+TXN-2025564,CUST-02475,Clothing,Denim Jeans Slim Fit,2,3546.59,0,7093.18,2025-01-19 18:26:00,Lahore,Credit Card,NovaMart Central,Male,25-34,3,2025,1,Jan,Sunday,18,1,1
+TXN-2025743,CUST-00186,Stationery,Casio fx-82 Calculator,2,1960.55,5,3725.04,2025-02-12 14:19:00,Peshawar,EasyPaisa,NovaMart Premium,Male,55+,4,2025,2,Feb,Wednesday,14,1,0
+TXN-2025864,CUST-01103,Sports & Fitness,Adidas Lite Racer Shoes,1,7472.17,0,7472.17,2025-11-30 16:41:00,Islamabad,JazzCash,NovaMart Express,Female,18-24,4,2025,11,Nov,Sunday,16,4,1
+TXN-2025892,CUST-01121,Health & Beauty,Gillette Fusion Razor,1,1436.89,0,1436.89,2025-10-08 15:19:00,Lahore,JazzCash,NovaMart Central,Male,25-34,4,2025,10,Oct,Wednesday,15,4,0
+TXN-2026039,CUST-UNKNOWN,Health & Beauty,Panadol Strip 10tabs,1,119.73,0,101.77,2025-06-30 21:32:00,Islamabad,Cash,NovaMart Express,Unknown,35-44,4,2025,6,Jun,Monday,21,2,0
+TXN-2025207,CUST-02389,Health & Beauty,Panadol Strip 10tabs,2,106.42,5,202.2,2025-03-17 18:57:00,Faisalabad,Bank Transfer,NovaMart Central,Female,55+,4,2025,3,Mar,Monday,18,1,0
+TXN-2025393,CUST-01950,Groceries,Tapal Danedar Tea 900g,1,832.71,0,832.71,2025-08-11 19:28:00,Lahore,Credit Card,NovaMart Outlet,Male,35-44,4,2025,8,Aug,Monday,19,3,0
+TXN-2025795,CUST-02627,Clothing,Casual Sneakers,1,4040.95,5,3838.9,2025-04-07 14:56:00,Lahore,Debit Card,NovaMart Express,Female,55+,5,2025,4,Apr,Monday,14,2,0
+TXN-2025871,CUST-01843,Stationery,Highlighter Set 6colors,1,426.51,0,426.51,2025-04-03 16:23:00,Islamabad,JazzCash,NovaMart Express,Male,25-34,4,2025,4,Apr,Thursday,16,2,0
+TXN-2025767,CUST-02508,Electronics,HP Wireless Mouse,5,1866.6,0,9333.0,2025-08-27 10:35:00,Lahore,Debit Card,NovaMart Central,Male,18-24,4,2025,8,Aug,Wednesday,10,3,0
+TXN-2026056,CUST-01156,Sports & Fitness,Yoga Mat 6mm,4,1573.83,0,6295.32,2025-01-14 15:57:00,Lahore,EasyPaisa,NovaMart Express,Male,45-54,5,2025,1,Jan,Tuesday,15,1,0
+TXN-2026029,CUST-00259,Groceries,Sunflower Oil 5L,1,2046.51,5,1944.18,2025-06-30 20:48:00,Peshawar,Debit Card,NovaMart Outlet,Female,18-24,4,2025,6,Jun,Monday,20,2,0
+TXN-2025643,CUST-00510,Clothing,Winter Jacket,1,4799.38,0,4799.38,2025-07-15 18:59:00,Lahore,Credit Card,NovaMart Central,Female,25-34,5,2025,7,Jul,Tuesday,18,3,0
+TXN-2025613,CUST-01182,Stationery,Highlighter Set 6colors,1,539.05,0,539.05,2025-03-09 20:22:00,Rawalpindi,JazzCash,NovaMart Premium,Male,25-34,4,2025,3,Mar,Sunday,20,1,1
+TXN-2025961,CUST-01541,Sports & Fitness,Yoga Mat 6mm,1,2102.93,0,2102.93,2025-02-15 09:54:00,Multan,Cash,NovaMart Premium,Female,18-24,4,2025,2,Feb,Saturday,9,1,1
+TXN-2025726,CUST-02464,Home & Kitchen,Dawlance Microwave 25L,1,22319.89,5,21203.9,2025-10-07 16:19:00,Rawalpindi,Debit Card,NovaMart Outlet,Female,55+,4,2025,10,Oct,Tuesday,16,4,0
+TXN-2025684,CUST-02009,Clothing,Men's Polo Shirt,2,2494.46,0,4988.92,2025-01-20 14:41:00,Karachi,Debit Card,NovaMart Outlet,Male,45-54,5,2025,1,Jan,Monday,14,1,0
+TXN-2025099,CUST-02507,Groceries,Sunflower Oil 5L,3,2194.05,0,6582.15,2025-03-23 17:44:00,Islamabad,CreditCard,NovaMart Express,Female,35-44,5,2025,3,Mar,Sunday,17,1,1
+TXN-2025805,CUST-02585,Clothing,Women's Kameez Printed,1,1516.4,10,1364.76,2025-06-03 12:51:00,Peshawar,Debit Card,NovaMart Outlet,Male,35-44,5,2025,6,Jun,Tuesday,12,2,0
+TXN-2025407,CUST-00412,Groceries,Brooke Bond Supreme 200g,1,327.36,0,327.36,2025-04-28 19:58:00,Multan,Credit Card,NovaMart Outlet,Female,55+,4,2025,4,Apr,Monday,19,2,0
+TXN-2025503,CUST-01036,Stationery,A4 Paper Ream 500sheets,4,861.1,0,3444.4,2025-04-20 16:42:00,Rawalpindi,EasyPaisa,NovaMart Outlet,Male,45-54,3,2025,4,Apr,Sunday,16,2,1
+TXN-2025930,CUST-02558,Groceries,Basmati Rice 5kg,1,1450.01,0,1450.01,2025-05-27 12:36:00,Lahore,EasyPaisa,NovaMart Central,Female,35-44,5,2025,5,May,Tuesday,12,2,0
+TXN-2025780,CUST-00771,Electronics,"Haier LED TV 32""",1,39929.09,0,39929.09,2025-11-14 15:24:00,Islamabad,JazzCash,NovaMart Central,Female,45-54,5,2025,11,Nov,Friday,15,4,0
+TXN-2025201,CUST-02116,Clothing,Formal Dress Shirt,1,2728.84,5,2592.4,2025-12-22 11:55:00,Rawalpindi,Cash,NovaMart Outlet,Female,25-34,5,2025,12,Dec,Monday,11,4,0
+TXN-2025135,CUST-00049,Groceries,Nestle Everyday Tea Whitener 400g,1,354.76,0,354.76,2025-01-27 19:52:00,Islamabad,Cash,NovaMart Outlet,Female,35-44,1,2025,1,Jan,Monday,19,1,0
+TXN-2026052,CUST-01778,Home & Kitchen,Prestige Pressure Cooker 5L,3,2945.35,0,8836.05,2025-09-30 10:36:00,Lahore,EasyPaisa,NovaMart Outlet,Male,18-24,4,2025,9,Sep,Tuesday,10,3,0
+TXN-2025041,CUST-01035,Toys & Kids,Remote Control Car,3,4667.1,0,14001.3,2025-12-18 12:02:00,Karachi,Cash,NovaMart Central,Female,25-34,3,2025,12,Dec,Thursday,12,4,0
+TXN-2026018,CUST-00601,Home & Kitchen,Bed Sheet King Size,4,2690.16,15,9146.54,2025-02-14 11:10:00,Hyderabad,JazzCash,NovaMart Outlet,Male,25-34,5,2025,2,Feb,Friday,11,1,0
+TXN-2025379,CUST-01464,Home & Kitchen,Dawlance Microwave 25L,2,20239.21,0,40478.42,2025-08-19 15:16:00,Lahore,Debit Card,NovaMart Express,Male,25-34,5,2025,8,Aug,Tuesday,15,3,0
+TXN-2025289,CUST-00684,Clothing,Denim Jeans Slim Fit,2,3205.16,5,6089.8,2025-12-08 16:12:00,Multan,Debit Card,NovaMart Central,Female,45-54,4,2025,12,Dec,Monday,16,4,0
+TXN-2025419,CUST-01350,Electronics,"Haier LED TV 32""",1,43021.86,0,43021.86,2025-01-10 17:43:00,Peshawar,Debit Card,NovaMart Central,Female,35-44,4,2025,1,Jan,Friday,17,1,0
+TXN-2025392,CUST-01572,Health & Beauty,Himalaya Neem Face Wash,1,413.73,0,413.73,2025-11-25 16:31:00,Peshawar,Debit Card,NovaMart Central,Male,55+,5,2025,11,Nov,Tuesday,16,4,0
+TXN-2025593,CUST-01532,Toys & Kids,Stuffed Teddy Bear 30cm,1,1060.08,5,1007.08,2025-02-19 18:37:00,Lahore,Credit Card,NovaMart Premium,Male,35-44,4,2025,2,Feb,Wednesday,18,1,0
+TXN-2025648,CUST-02692,Stationery,Camlin Geometry Box,1,294.87,0,294.87,2025-05-20 10:23:00,Faisalabad,JazzCash,NovaMart Central,Female,55+,4,2025,5,May,Tuesday,10,2,0
+TXN-2025521,CUST-01128,Clothing,Casual Sneakers,2,4965.88,15,8442.0,2025-07-05 16:25:00,Faisalabad,Credit Card,NovaMart Outlet,Male,45-54,5,2025,7,Jul,Saturday,16,3,1
+TXN-2025065,CUST-02213,Home & Kitchen,Pillow Set 2pcs,3,1669.11,0,5007.33,2025-06-08 21:50:00,Multan,JazzCash,NovaMart Express,Male,25-34,5,2025,6,Jun,Sunday,21,2,1
+TXN-2025015,CUST-02766,Home & Kitchen,Kitchen Knife Set,2,840.02,0,1680.04,2025-04-10 13:03:00,Peshawar,Cash,NovaMart Central,Male,45-54,2,2025,4,Apr,Thursday,13,2,0
+TXN-2026065,CUST-00026,Health & Beauty,Colgate Toothpaste 150g,1,191.26,0,191.26,2025-05-01 11:31:00,Karachi,Bank Transfer,NovaMart Premium,Male,25-34,5,2025,5,May,Thursday,11,2,0
+TXN-2025493,CUST-02730,Stationery,A4 Paper Ream 500sheets,5,849.97,5,4037.36,2025-12-18 18:59:00,Faisalabad,Bank Transfer,NovaMart Premium,Male,25-34,4,2025,12,Dec,Thursday,18,4,0
+TXN-2025380,CUST-01296,Electronics,Anker USB-C Charger,4,1170.73,0,4682.92,2025-03-02 13:26:00,Multan,Cash,NovaMart Premium,Male,35-44,3,2025,3,Mar,Sunday,13,1,1
+TXN-2025188,CUST-01550,Groceries,Lays Chips Family Pack,1,182.46,20,145.97,2025-02-11 14:08:00,Faisalabad,EasyPaisa,NovaMart Express,Female,25-34,4,2025,2,Feb,Tuesday,14,1,0
+TXN-2025764,CUST-01437,Groceries,Tapal Danedar Tea 900g,2,715.19,5,1358.86,2025-06-12 16:47:00,Lahore,Credit Card,NovaMart Outlet,Male,45-54,3,2025,6,Jun,Thursday,16,2,0
+TXN-2025217,CUST-00369,Clothing,Kids Tracksuit,1,1415.56,0,1415.56,2025-04-12 17:18:00,Karachi,Cash,NovaMart Express,Male,45-54,5,2025,4,Apr,Saturday,17,2,1
+TXN-2025792,CUST-00853,Groceries,Basmati Rice 5kg,1,1372.69,0,1372.69,2025-05-21 17:24:00,Lahore,EasyPaisa,NovaMart Premium,Male,55+,3,2025,5,May,Wednesday,17,2,0
+TXN-2026077,CUST-02902,Groceries,Lays Chips Family Pack,5,164.13,0,820.65,2025-11-22 17:16:00,Multan,JazzCash,NovaMart Premium,Male,35-44,4,2025,11,Nov,Saturday,17,4,1
+TXN-2025879,CUST-01902,Toys & Kids,Art & Craft Kit,2,1241.03,10,2233.85,2025-01-14 15:21:00,Lahore,JazzCash,NovaMart Express,Male,45-54,3,2025,1,Jan,Tuesday,15,1,0
+TXN-2025338,CUST-01139,Home & Kitchen,Bed Sheet King Size,1,2622.84,0,2622.84,2025-05-06 10:59:00,Karachi,Bank Transfer,NovaMart Central,Male,25-34,2,2025,5,May,Tuesday,10,2,0
+TXN-2025720,CUST-02609,Toys & Kids,Ludo Deluxe Board Game,1,716.35,0,716.35,2025-10-12 17:19:00,Multan,Debit Card,NovaMart Premium,Male,35-44,5,2025,10,Oct,Sunday,17,4,1
+TXN-2026017,CUST-00433,Groceries,Tapal Danedar Tea 900g,1,724.77,20,579.82,2025-10-30 12:39:00,Faisalabad,Cash,NovaMart Express,Female,18-24,4,2025,10,Oct,Thursday,12,4,0
+TXN-2025456,CUST-01609,Toys & Kids,Remote Control Car,1,4667.1,0,4667.1,2025-11-11 14:29:00,Quetta,Debit Card,NovaMart Outlet,Female,35-44,5,2025,11,Nov,Tuesday,14,4,0
+TXN-2025816,CUST-00608,Toys & Kids,Jigsaw Puzzle 500pcs,2,1324.86,10,2384.75,2025-09-11 16:21:00,Lahore,Debit Card,NovaMart Outlet,Male,25-34,5,2025,9,Sep,Thursday,16,3,0
+TXN-2025270,CUST-02758,Clothing,Men's Polo Shirt,1,1735.29,5,1648.53,2025-12-11 13:23:00,Rawalpindi,Debit Card,NovaMart Premium,Male,55+,4,2025,12,Dec,Thursday,13,4,0
+TXN-2025996,CUST-00968,Groceries,Rooh Afza 750ml,1,326.71,0,326.71,2025-09-17 19:28:00,Islamabad,EasyPaisa,NovaMart Premium,Male,25-34,4,2025,9,Sep,Wednesday,19,3,0
+TXN-2025202,CUST-00208,Clothing,Casual Sneakers,3,3906.95,10,10548.76,2025-06-27 11:50:00,Karachi,Cash,NovaMart Outlet,Male,45-54,3,2025,6,Jun,Friday,11,2,0
+TXN-2025162,CUST-00829,Stationery,Camlin Geometry Box,2,286.43,10,515.57,2025-06-18 16:36:00,Karachi,EasyPaisa,NovaMart Outlet,Male,25-34,1,2025,6,Jun,Wednesday,16,2,0
+TXN-2025730,CUST-01743,Clothing,Winter Jacket,3,6151.94,0,18455.82,2025-09-16 17:50:00,Karachi,Credit Card,NovaMart Premium,Female,45-54,4,2025,9,Sep,Tuesday,17,3,0
+TXN-2025402,CUST-01489,Clothing,Men's Polo Shirt,1,2452.92,0,2452.92,2025-05-05 10:50:00,Peshawar,Cash,NovaMart Outlet,Female,45-54,5,2025,5,May,Monday,10,2,0
+TXN-2025703,CUST-01019,Electronics,Anker USB-C Charger,1,1049.82,0,1049.82,2025-06-22 14:52:00,Rawalpindi,Debit Card,NovaMart Outlet,Female,45-54,4,2025,6,Jun,Sunday,14,2,1
+TXN-2025566,CUST-00798,Home & Kitchen,Dawlance Microwave 25L,1,22899.35,0,22899.35,2025-07-20 11:25:00,Faisalabad,JazzCash,NovaMart Outlet,Male,18-24,4,2025,7,Jul,Sunday,11,3,1
+TXN-2026022,CUST-02412,Sports & Fitness,Dumbbell Set 10kg Pair,3,4426.72,5,12616.15,2025-10-09 18:38:00,Sialkot,EasyPaisa,NovaMart Central,Female,35-44,2,2025,10,Oct,Thursday,18,4,0
+TXN-2026026,CUST-02160,Health & Beauty,Gillette Fusion Razor,2,1520.77,0,3041.54,2025-09-18 12:32:00,Rawalpindi,EasyPaisa,NovaMart Express,Male,55+,4,2025,9,Sep,Thursday,12,3,0
+TXN-2025206,CUST-00772,Home & Kitchen,Bed Sheet King Size,1,3096.95,0,3096.95,2025-02-01 16:42:00,Sialkot,Debit Card,NovaMart Premium,Female,25-34,5,2025,2,Feb,Saturday,16,1,1
+TXN-2025035,CUST-02319,Toys & Kids,Art & Craft Kit,1,1953.18,5,1855.52,2025-05-04 16:59:00,Peshawar,Cash,NovaMart Central,Female,45-54,4,2025,5,May,Sunday,16,2,1
+TXN-2025776,CUST-02079,Clothing,Sports T-Shirt,2,967.88,0,1935.76,2025-03-07 17:31:00,Lahore,Cash,NovaMart Express,Female,45-54,5,2025,3,Mar,Friday,17,1,0
+TXN-2025509,CUST-01510,Groceries,Lays Chips Family Pack,1,193.53,10,174.18,2025-10-02 21:55:00,Quetta,Cash,NovaMart Express,Male,45-54,4,2025,10,Oct,Thursday,21,4,0
+TXN-2025092,CUST-02112,Clothing,Denim Jeans Slim Fit,3,2313.58,0,6940.74,2025-03-27 18:29:00,Lahore,Cash,NovaMart Premium,Male,55+,4,2025,3,Mar,Thursday,18,1,0
+TXN-2025898,CUST-02632,Clothing,Formal Dress Shirt,2,2728.16,0,5456.32,2025-09-25 18:13:00,Sialkot,Cash,NovaMart Premium,Female,35-44,4,2025,9,Sep,Thursday,18,3,0
+TXN-2025565,CUST-00868,Stationery,Casio fx-82 Calculator,2,2443.41,5,4642.48,2025-03-17 12:25:00,Islamabad,Cash,NovaMart Express,Male,35-44,5,2025,3,Mar,Monday,12,1,0
+TXN-2025777,CUST-02512,Stationery,A4 Paper Ream 500sheets,1,901.8,0,901.8,2025-03-27 18:01:00,Lahore,Cash,NovaMart Express,Male,55+,4,2025,3,Mar,Thursday,18,1,0
+TXN-2025242,CUST-02249,Groceries,Rooh Afza 750ml,4,294.82,10,1061.35,2025-01-01 16:25:00,Karachi,Cash,NovaMart Central,Female,25-34,3,2025,1,Jan,Wednesday,16,1,0
+TXN-2025014,CUST-00635,Clothing,Men's Polo Shirt,1,1414.03,0,1414.03,2025-04-06 15:30:00,Quetta,JazzCash,NovaMart Outlet,Female,25-34,5,2025,4,Apr,Sunday,15,2,1
+TXN-2025316,CUST-00532,Clothing,Women's Kameez Printed,2,2322.23,15,3947.79,2025-09-14 16:44:00,Sialkot,Cash,NovaMart Premium,Female,25-34,4,2025,9,Sep,Sunday,16,3,1
+TXN-2025601,CUST-02709,Groceries,Olpers Full Cream Milk 1L,4,210.12,20,672.38,2025-12-06 20:37:00,Lahore,Credit Card,NovaMart Outlet,Male,35-44,3,2025,12,Dec,Saturday,20,4,1
+TXN-2025388,CUST-02762,Toys & Kids,Art & Craft Kit,3,1432.47,0,4297.41,2025-08-20 17:43:00,Karachi,EasyPaisa,NovaMart Central,Female,55+,4,2025,8,Aug,Wednesday,17,3,0
+TXN-2025167,CUST-02164,Groceries,Nestle Everyday Tea Whitener 400g,1,402.35,0,402.35,2025-01-28 19:56:00,Quetta,EasyPaisa,NovaMart Central,Female,25-34,3,2025,1,Jan,Tuesday,19,1,0
+TXN-2025841,CUST-02821,Home & Kitchen,PEL Refrigerator 14CuFt,1,84655.2,0,84655.2,2025-10-19 20:40:00,Lahor,Credit Card,NovaMart Outlet,Female,45-54,5,2025,10,Oct,Sunday,20,4,1
+TXN-2025021,CUST-01687,Groceries,Brooke Bond Supreme 200g,2,338.43,15,575.33,2025-04-22 13:06:00,Lahore,Cash,NovaMart Premium,Male,55+,1,2025,4,Apr,Tuesday,13,2,0
+TXN-2025647,CUST-01928,Health & Beauty,Panadol Strip 10tabs,1,82.86,0,82.86,2025-08-04 16:15:00,Karachi,Debit Card,NovaMart Premium,Female,25-34,4,2025,8,Aug,Monday,16,3,0
+TXN-2025832,CUST-02690,Health & Beauty,Dettol Handwash 500ml,1,319.75,0,319.75,2025-01-23 16:04:00,Islamabad,Credit Card,NovaMart Central,Male,55+,4,2025,1,Jan,Thursday,16,1,0
+TXN-2025563,CUST-00316,Groceries,Basmati Rice 5kg,2,1480.56,0,2961.12,2025-02-23 17:24:00,Peshawar,EasyPaisa,NovaMart Express,Male,18-24,3,2025,2,Feb,Sunday,17,1,1
+TXN-2025687,CUST-01275,Electronics,JBL Bluetooth Speaker,1,6686.87,0,6686.87,2025-01-31 17:26:00,Lahore,Cash,NovaMart Central,Female,25-34,5,2025,1,Jan,Friday,17,1,0
+TXN-2025958,CUST-02443,Electronics,Lenovo Laptop Bag,1,3398.25,0,3398.25,2025-06-08 17:17:00,Hyderabad,EasyPaisa,NovaMart Express,Female,45-54,4,2025,6,Jun,Sunday,17,2,1
+TXN-2025190,CUST-00443,Toys & Kids,Barbie Fashion Doll,2,2621.66,5,4981.15,2025-06-24 11:22:00,Lahore,Cash,NovaMart Premium,Male,25-34,2,2025,6,Jun,Tuesday,11,2,0
+TXN-2025976,CUST-00419,Toys & Kids,Remote Control Car,1,5302.09,0,5302.09,2025-11-30 14:34:00,Rawalpindi,Credit Card,NovaMart Premium,Male,45-54,3,2025,11,Nov,Sunday,14,4,1
+TXN-2025700,CUST-01060,Sports & Fitness,Adidas Lite Racer Shoes,1,6902.21,0,6902.21,2025-02-12 17:06:00,Faisalabad,Cash,NovaMart Outlet,Female,25-34,2,2025,2,Feb,Wednesday,17,1,0
+TXN-2025511,CUST-00524,Health & Beauty,Himalaya Neem Face Wash,3,478.29,15,1219.64,2025-10-16 15:39:00,Multan,Cash,NovaMart Central,Male,45-54,5,2025,10,Oct,Thursday,15,4,0
+TXN-2026083,CUST-00391,Clothing,Women's Kameez Printed,1,2280.94,5,2166.89,2025-08-07 21:20:00,Rawalpindi,Debit Card,NovaMart Premium,Male,25-34,3,2025,8,Aug,Thursday,21,3,0
+TXN-2025475,CUST-00943,Clothing,Casual Sneakers,2,6166.13,15,10482.42,2025-04-29 13:55:00,Lahore,Debit Card,NovaMart Premium,Male,45-54,4,2025,4,Apr,Tuesday,13,2,0
+TXN-2025857,CUST-02094,Home & Kitchen,Non-Stick Fry Pan,5,2557.05,0,12785.25,2025-08-18 14:16:00,Karachi,EasyPaisa,NovaMart Premium,Female,35-44,5,2025,8,Aug,Monday,14,3,0
+TXN-2025748,CUST-01027,Clothing,Denim Jeans Slim Fit,1,3649.81,5,3467.32,2025-08-24 18:36:00,Multan,JazzCash,NovaMart Express,Female,55+,3,2025,8,Aug,Sunday,18,3,1
+TXN-2025253,CUST-01950,Home & Kitchen,Dawlance Microwave 25L,1,19378.88,0,19378.88,2025-11-17 13:46:00,Karachi,EasyPaisa,NovaMart Express,Female,45-54,4,2025,11,Nov,Monday,13,4,0
+TXN-2025022,CUST-01345,Electronics,Samsung Galaxy A14,1,51010.15,10,45909.14,2025-11-28 17:15:00,Islamabad,Credit Card,NovaMart Outlet,Male,25-34,5,2025,11,Nov,Friday,17,4,0
+TXN-2025460,CUST-01324,Clothing,Men's Polo Shirt,2,2489.54,0,4979.08,2025-05-30 16:14:00,Lahore,Debit Card,NovaMart Central,Female,18-24,4,2025,5,May,Friday,16,2,0
+TXN-2025277,CUST-01167,Groceries,Nestle Everyday Tea Whitener 400g,2,361.43,0,722.86,2025-04-26 09:23:00,Lahore,Cash,NovaMart Premium,Female,35-44,4,2025,4,Apr,Saturday,9,2,1
+TXN-2025956,CUST-02508,Toys & Kids,Art & Craft Kit,1,1603.12,5,1522.96,2025-07-30 19:04:00,Peshawar,Credit Card,NovaMart Central,Male,18-24,2,2025,7,Jul,Wednesday,19,3,0
+TXN-2025386,CUST-01454,Electronics,"Haier LED TV 32""",4,43545.39,10,156763.4,2025-04-23 13:18:00,Islamabad,Debit Card,NovaMart Express,Male,25-34,5,2025,4,Apr,Wednesday,13,2,0
+TXN-2025806,CUST-02562,Clothing,Women's Kameez Printed,2,1815.48,0,3630.96,2025-06-26 17:39:00,Islamabad,Debit Card,NovaMart Premium,Male,18-24,2,2025,6,Jun,Thursday,17,2,0
+TXN-2025344,CUST-01540,Health & Beauty,Ponds Moisturizer 200ml,1,705.93,15,600.04,2025-02-22 15:14:00,Faisalabad,JazzCash,NovaMart Express,Male,45-54,3,2025,2,Feb,Saturday,15,1,1
+TXN-2025770,CUST-01424,Health & Beauty,Gillette Fusion Razor,1,1544.56,5,1467.33,2025-06-23 17:35:00,Islamabad,Credit Card,NovaMart Central,Male,18-24,4,2025,6,Jun,Monday,17,2,0
+TXN-2025131,CUST-02850,Sports & Fitness,Wilson Badminton Racket,1,3591.16,15,3052.49,2025-04-26 18:46:00,Karachi,EasyPaisa,NovaMart Express,Male,45-54,5,2025,4,Apr,Saturday,18,2,1
+TXN-2025872,CUST-01704,Sports & Fitness,Wilson Badminton Racket,4,2427.7,15,8254.18,2025-10-26 18:08:00,Lahore,Credit Card,NovaMart Express,Female,25-34,3,2025,10,Oct,Sunday,18,4,1
+TXN-2025754,CUST-01952,Sports & Fitness,Dumbbell Set 10kg Pair,5,4581.64,0,22908.2,2025-03-04 17:40:00,Karachii,Cash,NovaMart Outlet,Female,25-34,5,2025,3,Mar,Tuesday,17,1,0
+TXN-2025088,CUST-00078,Sports & Fitness,Dumbbell Set 10kg Pair,1,3775.2,10,3397.68,2025-02-12 13:20:00,Faisalabad,Cash,NovaMart Central,Female,25-34,1,2025,2,Feb,Wednesday,13,1,0
+TXN-2025331,CUST-01781,Electronics,JBL Bluetooth Speaker,1,6482.64,0,6482.64,2025-04-27 12:37:00,Rawalpindi,Credit Card,NovaMart Premium,Male,35-44,4,2025,4,Apr,Sunday,12,2,1
+TXN-2025467,CUST-01729,Health & Beauty,Colgate Toothpaste 150g,1,190.32,0,190.32,2025-10-14 16:41:00,Lahore,Cash,NovaMart Central,Male,18-24,4,2025,10,Oct,Tuesday,16,4,0
+TXN-2025122,CUST-02289,Groceries,Nestle Everyday Tea Whitener 400g,1,400.18,15,340.15,2025-09-07 16:09:00,Islamabad,Cash,NovaMart Central,Male,35-44,4,2025,9,Sep,Sunday,16,3,1
+TXN-2026045,CUST-01584,Groceries,Basmati Rice 5kg,1,1520.48,10,1368.43,2025-03-27 11:30:00,Hyderabad,JazzCash,NovaMart Central,Female,25-34,4,2025,3,Mar,Thursday,11,1,0
+TXN-2026096,CUST-00486,Toys & Kids,Jigsaw Puzzle 500pcs,2,1405.29,10,2529.52,2025-12-31 16:07:00,Karachi,Credit Card,NovaMart Express,Male,25-34,2,2025,12,Dec,Wednesday,16,4,0
+TXN-2025861,CUST-01674,Clothing,Denim Jeans Slim Fit,1,3851.73,0,3851.73,2025-02-04 13:26:00,Faisalabad,Credit Card,NovaMart Central,Female,25-34,3,2025,2,Feb,Tuesday,13,1,0
+TXN-2025690,CUST-00638,Clothing,Women's Kameez Printed,2,2332.81,0,4665.62,2025-05-29 13:18:00,Faisalabad,Credit Card,NovaMart Outlet,Male,18-24,5,2025,5,May,Thursday,13,2,0
